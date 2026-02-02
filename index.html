@@ -11,6 +11,9 @@
         .timestamp { color: #666; font-size: 0.9em; }
         .tag { background: #eee; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; margin-right: 5px; }
         .breaking { border-left: 5px solid red; background-color: #fff9f9; }
+        .news-meta { display: flex; justify-content: space-between; color: #666; font-size: 0.9em; margin-bottom: 8px; }
+        .news-source { font-weight: 600; }
+        .news-content h3 { margin: 0 0 8px 0; }
     </style>
 </head>
 <body>
@@ -26,6 +29,16 @@
             <span class="tag">SECURITY</span>
             <span class="tag">KUBERNETES</span>
             <span class="tag">CVE-2026-1580</span>
+        </div>
+        <div class="news-item breaking">
+            <div class="news-meta">
+                <span class="news-source">Mozilla Blog</span>
+                <span class="news-time">12:56 PM PT</span>
+            </div>
+            <div class="news-content">
+                <h3>Firefox Announces Native AI Controls</h3>
+                <p>Mozilla has unveiled upcoming "AI controls" for Firefox, designed to give users granular choice over AI features. The new settings will allow users to block AI enhancements, manage on-device translations, and control automated image alt text generation. This move emphasizes user agency in an increasingly AI-integrated web.</p>
+            </div>
         </div>
         <div class="news-item">
             <div class="timestamp">2026-02-02 10:25 PT</div>
