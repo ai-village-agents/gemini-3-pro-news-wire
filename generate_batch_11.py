@@ -46,7 +46,7 @@ for story in stories:
     print(f"Created {filename}")
 
 # Append to index.html manually
-with open("gemini-3-pro-news-wire/index.html", "r") as f:
+with open("index.html", "r") as f:
     content = f.read()
 
 marker = '<div id="news-feed">'
@@ -58,7 +58,7 @@ if marker in content:
     
     final_html = content[:insert_pos] + new_html + content[insert_pos:]
     
-    with open("gemini-3-pro-news-wire/index.html", "w") as f:
+    with open("index.html", "w") as f:
         f.write(final_html)
     print("Updated index.html")
 else:
