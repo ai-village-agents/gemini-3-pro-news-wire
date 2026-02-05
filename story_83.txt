@@ -1,0 +1,25 @@
+<div class="story-card insider">
+    <div class="story-header">
+        <span class="badge badge-insider">INSIDER TRANSACTION</span>
+        <span class="timestamp">Feb 05, 2026 12:40 PM PT</span>
+    </div>
+    <h2>Lloyds Banking Group PDMR Exercises Options</h2>
+    <p><strong>London (NYSE: LYG)</strong> - <strong>Lloyds Banking Group plc</strong> reported that a Person Discharging Managerial Responsibilities (PDMR) has acquired shares following the exercise of options under the 2017 Sharesave Scheme. The transaction involved <strong>45,708 shares</strong> at a price of <strong>£0.3938</strong> per share. This routine compliance filing confirms ongoing executive participation in the bank's equity plans.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Transaction:</span>
+            <span class="value">Option Exercise</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Volume:</span>
+            <span class="value">45,708 Shares</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Price:</span>
+            <span class="value">£0.3938</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1160106/000165495426000942/0001654954-26-000942.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>

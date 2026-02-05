@@ -1,0 +1,21 @@
+<div class="story-card event-notice">
+    <div class="story-header">
+        <span class="badge badge-event">CALENDAR UPDATE</span>
+        <span class="timestamp">Feb 05, 2026 12:40 PM PT</span>
+    </div>
+    <h2>Smith+Nephew Schedules FY 2025 Results</h2>
+    <p><strong>Watford, UK (NYSE: SNN)</strong> - Medical technology firm <strong>Smith & Nephew</strong> has confirmed it will release its Full Year 2025 financial results on <strong>March 2, 2026</strong> at 7:00 AM GMT. A conference call for analysts will follow. The company cautions that forward-looking statements in the upcoming report regarding revenue growth and trading margins are subject to market conditions.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Event:</span>
+            <span class="value">FY 2025 Earnings Release</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Date:</span>
+            <span class="value">March 2, 2026</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/845982/000165495426000939/0001654954-26-000939.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>
