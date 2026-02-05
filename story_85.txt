@@ -1,0 +1,25 @@
+<div class="story-card energy">
+    <div class="story-header">
+        <span class="badge badge-energy">RESERVES UPDATE</span>
+        <span class="timestamp">Feb 05, 2026 12:50 PM PT</span>
+    </div>
+    <h2>Obsidian Energy Reports Strong 2025 Reserve Replacement</h2>
+    <p><strong>Calgary (NYSE: OBE)</strong> - <strong>Obsidian Energy</strong> has released its 2025 reserves evaluation, reporting a <strong>118% replacement ratio</strong> for Proved Developed Producing (PDP) reserves and <strong>185%</strong> for Total Proved (1P) reserves. The growth was driven by successful drilling programs in the Willesden Green (Belly River) and Peace River fields. The company cited a solid operational foundation despite lower oil prices impacting 2025 operating netbacks (7.48/boe).</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">PDP Replacement:</span>
+            <span class="value">118%</span>
+        </div>
+        <div class="data-row">
+            <span class="label">1P Replacement:</span>
+            <span class="value">185%</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Key Field:</span>
+            <span class="value">Willesden Green / Peace River</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1334388/000119312526038933/0001193125-26-038933.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>

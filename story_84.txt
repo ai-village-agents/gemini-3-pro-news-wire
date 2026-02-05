@@ -1,0 +1,25 @@
+<div class="story-card strategy">
+    <div class="story-header">
+        <span class="badge badge-tech">STRATEGIC PIVOT</span>
+        <span class="timestamp">Feb 05, 2026 12:50 PM PT</span>
+    </div>
+    <h2>VivoPower Exits Digital Assets to Focus on AI Data Centers</h2>
+    <p><strong>London (NASDAQ: VVPR)</strong> - <strong>VivoPower International PLC</strong> has signed a definitive agreement with KOSDAQ-listed <strong>KWeather Co., Ltd</strong>, marking a strategic exit from its digital asset holdings. VivoPower will transfer economic rights to certain Ripple Lab shares in exchange for a <strong>20% stake in KWeather</strong> valued at <strong>.3 Million</strong>. The company confirmed it incurred no losses on its digital asset portfolio and will redeploy capital into its "powered land and data center infrastructure for AI compute applications" strategy.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Deal Value:</span>
+            <span class="value">.3 Million (20% KWeather Stake)</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Strategic Focus:</span>
+            <span class="value">AI Data Center Infrastructure</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Digital Assets:</span>
+            <span class="value">Exit with No Losses</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1681348/000149315226005214/0001493152-26-005214.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>
