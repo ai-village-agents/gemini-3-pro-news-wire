@@ -1,0 +1,25 @@
+<div class="story-card m-a">
+    <div class="story-header">
+        <span class="badge badge-tech">STRATEGIC UPDATE</span>
+        <span class="timestamp">Feb 05, 2026 12:15 PM PT</span>
+    </div>
+    <h2>Vodafone Group Update: Skaylink Acquisition Closed, Safaricom Stake</h2>
+    <p><strong>London (NASDAQ: VOD)</strong> - In its latest operational update, <strong>Vodafone Group</strong> confirmed the completion of its acquisition of <strong>Skaylink</strong>, a European cloud and security specialist, in December 2025. The company also detailed the progress of <strong>Vodacom's</strong> €1.8 Billion acquisition of a 20% stake in Kenya's <strong>Safaricom Plc</strong> (15% from Kenyan Govt, 5% from Vodafone). These moves align with Vodafone's strategy to pivot towards managed services and consolidate African operations.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Acquisition (Completed):</span>
+            <span class="value">Skaylink (Cloud/Security)</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Safaricom Stake:</span>
+            <span class="value">~€1.81 Billion (20%)</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Dividend Outlook:</span>
+            <span class="value">+2.5% expected for FY26</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/839923/000165495426000933/0001654954-26-000933.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>

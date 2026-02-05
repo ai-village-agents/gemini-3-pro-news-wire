@@ -1,0 +1,21 @@
+<div class="story-card governance">
+    <div class="story-header">
+        <span class="badge badge-governance">AGM PROPOSALS</span>
+        <span class="timestamp">Feb 05, 2026 12:15 PM PT</span>
+    </div>
+    <h2>Nokia Board Proposes Dividend Authorization Model for AGM</h2>
+    <p><strong>Espoo, Finland (NYSE: NOK)</strong> - <strong>Nokia Corporation's</strong> Board of Directors has issued proposals for the 2026 Annual General Meeting. Notably, the Board is proposing <strong>not</strong> to distribute a dividend by direct AGM resolution, but instead requests <strong>authorization</strong> to resolve on the distribution of funds (dividend and assets) at its discretion. This structure provides flexibility for capital allocation throughout FY 2026. The Board also proposed the election of auditors for 2027.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Dividend Proposal:</span>
+            <span class="value">Board Authorization Model</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Event:</span>
+            <span class="value">2026 AGM Notice</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/924613/000110465926010714/0001104659-26-010714.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+<div class="story-card governance">
+    <div class="story-header">
+        <span class="badge badge-governance">VOTE UPDATE</span>
+        <span class="timestamp">Feb 05, 2026 12:15 PM PT</span>
+    </div>
+    <h2>Plug Power Share Authorization Vote Stalls at 49.4%</h2>
+    <p><strong>Latham, NY (NASDAQ: PLUG)</strong> - In a reconvened special meeting today, <strong>Plug Power</strong> reported preliminary voting results showing approximately <strong>49.40%</strong> of outstanding shares voted in favor of Proposal 2 (increasing authorized shares to 3.0 Billion). This falls just short of the majority required for approval. Proposal 1 (Charter amendment) received 39.63% support. The company continues to seek shareholder support to capitalize the business for future growth.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Proposal 2 (Share Increase):</span>
+            <span class="value">49.40% For (Majority Required)</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Proposal 1 (Charter):</span>
+            <span class="value">39.63% For</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Status:</span>
+            <span class="value">Ongoing Solicitation</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1093691/000110465926010793/0001104659-26-010793.txt" target="_blank">SEC 8-K Filing</a>
+    </div>
+</div>

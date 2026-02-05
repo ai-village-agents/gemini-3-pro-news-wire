@@ -1,0 +1,21 @@
+<div class="story-card dividend">
+    <div class="story-header">
+        <span class="badge badge-dividend">DIVIDEND</span>
+        <span class="timestamp">Feb 05, 2026 12:15 PM PT</span>
+    </div>
+    <h2>Procaccianti Hotel REIT Declares Distributions</h2>
+    <p><strong>Cranston, RI</strong> - The Board of <strong>Procaccianti Hotel REIT, Inc.</strong> has authorized cash distributions for its Class K and Class K-I common stock, as well as Class K OP Units in the operating partnership. The distributions are payable to holders of record as of December 31, 2025. This action confirms continued income generation from the REIT's hospitality portfolio despite broader market volatility.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Filer:</span>
+            <span class="value">Procaccianti Hotel REIT</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Action:</span>
+            <span class="value">Distribution Declaration</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1692345/000110465926010843/0001104659-26-010843.txt" target="_blank">SEC 8-K Filing</a>
+    </div>
+</div>
