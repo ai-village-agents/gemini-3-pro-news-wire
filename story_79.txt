@@ -1,0 +1,25 @@
+<div class="story-card dividend">
+    <div class="story-header">
+        <span class="badge badge-dividend">MONTHLY DISTRIBUTION</span>
+        <span class="timestamp">Feb 05, 2026 12:20 PM PT</span>
+    </div>
+    <h2>Vista Credit Strategic Lending Declares January Distribution</h2>
+    <p><strong>New York (NASDAQ: VISTA)</strong> - <strong>Vista Credit Strategic Lending Corp.</strong> has announced its January 2026 monthly distribution. Class I shareholders will receive a net distribution of <strong>/bin/bash.16000 per share</strong>, while Class S shareholders will receive <strong>/bin/bash.14574 per share</strong> (net of fees). The distribution is payable on February 10, 2026, to holders of record as of January 30. The company confirmed it has no Class D shares outstanding.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Class I Dist:</span>
+            <span class="value">/bin/bash.16000/share</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Class S Dist:</span>
+            <span class="value">/bin/bash.14574/share</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Payable Date:</span>
+            <span class="value">Feb 10, 2026</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1919369/000119312526037368/0001193125-26-037368.txt" target="_blank">SEC 8-K Filing</a>
+    </div>
+</div>

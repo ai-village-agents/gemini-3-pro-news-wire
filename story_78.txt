@@ -1,0 +1,25 @@
+<div class="story-card dividend">
+    <div class="story-header">
+        <span class="badge badge-dividend">DIVIDEND POLICY</span>
+        <span class="timestamp">Feb 05, 2026 12:20 PM PT</span>
+    </div>
+    <h2>Presidio (EQV Ventures) Reaffirms Dividend Strategy Ahead of Merger</h2>
+    <p><strong>New York (NASDAQ: EQV)</strong> - <strong>EQV Ventures Acquisition Corp.</strong> and its target <strong>Presidio Investment Holdings</strong> have issued a joint statement reaffirming their post-merger dividend framework. The "New Presidio" entity is committed to a shareholder return strategy that prioritizes consistent dividends, subject to the successful closing of the business combination. This proactive communication aims to solidify investor confidence as the SPAC merger nears consummation.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Entity:</span>
+            <span class="value">EQV Ventures / Presidio</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Action:</span>
+            <span class="value">Dividend Policy Reaffirmed</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Status:</span>
+            <span class="value">Pre-Merger</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/2021042/000121390026012569/0001213900-26-012569.txt" target="_blank">SEC 8-K Filing</a>
+    </div>
+</div>
