@@ -1,0 +1,2778 @@
+0001437749-26-003106.txt : 20260205
+0001437749-26-003106.hdr.sgml : 20260205
+20260205090638
+ACCESSION NUMBER:		0001437749-26-003106
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20260205
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20260205
+DATE AS OF CHANGE:		20260205
+FILER:
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ECB Bancorp, Inc. /MD/
+		CENTRAL INDEX KEY:			0001914605
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED [6036]
+		ORGANIZATION NAME:           	02 Finance
+		EIN:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41456
+		FILM NUMBER:		26600765
+	BUSINESS ADDRESS:	
+		STREET 1:		419 BROADWAY
+		CITY:			EVERETT
+		STATE:			MA
+		ZIP:			02149
+		BUSINESS PHONE:		(617) 387-1110
+	MAIL ADDRESS:	
+		STREET 1:		419 BROADWAY
+		CITY:			EVERETT
+		STATE:			MA
+		ZIP:			02149
+8-K
+1
+ecbk20251117_8k.htm
+FORM 8-K
+ecbk20251117_8k.htm
+false
+0001914605
+0001914605
+2026-02-05
+2026-02-05
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM 
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):  
+February 5, 2026
+ECB BANCORP, INC.
+(Exact Name of Registrant as Specified in Its Charter)
+Maryland
+001-41456
+88-1502079
+(State or Other Jurisdiction
+(Commission
+(IRS Employer
+of Incorporation or Organization)
+File Number)
+Identification No.)
+419 Broadway
+, 
+Everett
+, 
+Massachusetts
+02149
+(Address of principal executive offices) (Zip Code)
+(
+617
+) 
+387-1110
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+ECBK
+The 
+Nasdaq
+ Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+Emerging growth company 
+☒
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+☐
+Item 2.02 Results of Operations and Financial Condition 
+On February 5, 2026, ECB Bancorp, Inc., the holding company for Everett Co-operative Bank, issued a press release announcing its financial results at and for the three months and year ended December 31, 2025.
+A copy of the press release announcing the results is included as Exhibit 99.1 to this Current Report on Form 8-K and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933.
+Item 8.01
+Other Events
+On February 5, 2026, ECB Bancorp, Inc. also announced that its annual meeting of stockholders will be held on May 20, 2026. 
+Item 9.01
+Financial Statements and Exhibits
+(d)
+Exhibits
+99.1
+Press release dated February 5, 2026
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized.
+ECB BANCORP, INC.
+Date:  February 5, 2026
+By: 
+/s/Brandon N. Lavertu
+Brandon N. Lavertu
+Executive Vice President and Chief Financial Officer
+EX-99.1
+2
+ex_889532.htm
+EXHIBIT 99.1
+ex_889532.htm
+Exhibit 99.1
+For Immediate Release
+Date: February 5, 
+2026
+Contact:
+Richard J. O
+’
+Neil, Jr. 
+President and Chief Executive Officer
+Phone:
+617-387-1110
+Email:
+rjoneil@everettbank.com
+ECB Bancorp, Inc. Reports Fourth Quarter and Year End Results
+EVERETT, MA, February 5, 
+2026
+ - ECB Bancorp, Inc. (NASDAQ-ECBK) (the “Company”), the holding company for Everett Co-operative Bank (the “Bank”), a state-chartered co-operative bank headquartered in Everett, Massachusetts, today reported net income of $2.6 million, or $0.31 per diluted share, for the quarter ended 
+December 31, 2025
+, as compared to $1.4 million, or $0.17 per diluted share, for the quarter ended 
+December 31, 2024
+. For the year ended 
+December 31, 2025
+, the Company reported net income of $7.8 million, or $0.94 per diluted share, as compared to net income of $4.0 million, or $0.48 per diluted share, for the year ended 
+December 31, 2024
+.
+Richard J. O’Neil, Jr., President and Chief Executive Officer, said, "During the fourth quarter, we continued to execute on our strategy of disciplined balance sheet growth and thoughtful capital deployment. Loans increased $237.0 million, or 20.7% year over year, while deposits grew $133.8 million, or 13.4% over the same period. Net interest margin expanded during the year, and we continued to make meaningful progress improving our efficiency ratio from 78.8% in 2024, to 64.2% in 2025. Credit quality remains extremely strong, with nonperforming assets representing just 0.07% of total assets. As we look ahead to 2026, we are excited to further expand our footprint with the opening of our new branch in Medford, MA."
+NET INTEREST AND DIVIDEND INCOME
+Net interest and dividend income before provision for credit losses was $9.2 million for the quarter ended 
+December 31, 2025
+, as compared to $6.8 million for the quarter ended 
+December 31, 2024
+, representing an increase of $2.4 million, or 34.9%. This increase was driven by increases in the average balance and yields on loans as well as a decrease in the average cost of interest-bearing liabilities. The resulting net interest margin expanded by 38 basis points to 2.32% for the quarter ended 
+December 31, 2025
+ as compared to 1.94% for the quarter ended 
+December 31, 2024
+. The provision for credit losses was $241,000 for the quarter ended 
+December 31, 2025
+ as compared to a benefit of $311,000 for the quarter ended 
+December 31, 2024
+. The combination of these items resulted in net interest and dividend income after provision for credit losses of $8.9 million for the quarter ended 
+December 31, 2025
+, as compared to $7.1 million for the quarter ended 
+December 31, 2024
+, or an increase of $1.8 million, or 25.6%.
+Net interest and dividend income before provision for credit losses was $31.9 million for the year ended 
+December 31, 2025
+, as compared to $25.0 million for the year ended 
+December 31, 2024
+, or an increase of $6.9 million, or 27.7%. This increase was primarily due to increases in the average balance and yields on loans as well as a decrease in the average cost of interest-bearing liabilities. The resulting net interest margin expanded 26 basis points to 2.12% for the year ended 
+December 31, 2025
+ as compared to 1.86% for the year ended 
+December 31, 2024
+. The provision for credit losses was $1.5 million for the year ended 
+December 31, 2025
+, as compared to $174,000 for the year ended 
+December 31, 2024
+. The combination of these items resulted in net interest and dividend income after provision for credit losses of $30.4 million for the year ended 
+December 31, 2025
+, as compared to $24.8 million for the year ended 
+December 31, 2024
+, or an increase of $5.6 million, or 22.4%.
+NONINTEREST INCOME
+Noninterest income was $360,000 for the quarter ended 
+December 31, 2025
+, as compared to $327,000 for the quarter ended 
+December 31, 2024
+, or an increase of $33,000, or 10.1%, and was $1.3 million for the year ended 
+December 31, 2025
+, as compared to $1.2 million for the year ended 
+December 31, 2024
+, or an increase of $100,000, or 8.2%.
+NONINTEREST EXPENSE
+Noninterest expense was $5.8 million for the quarter ended 
+December 31, 2025
+, as compared to $5.5 million for the quarter ended 
+December 31, 2024
+, or an increase of $302,000, or 5.5%.
+Noninterest expense was $21.3 million for year ended 
+December 31, 2025
+, as compared to $20.7 million for the year ended 
+December 31, 2024
+, or an increase of $661,000, or 3.2%.
+INCOME TAXES
+Income tax expense was $891,000 for the quarter ended December 31, 2025, as compared to $493,000 for the quarter ended December 31, 2024, reflecting effective tax rates of 25.5% and 25.4%, respectively.
+Income tax expense was $2.6 million for the year ended December 31, 2025, as compared to $1.4 million for the year ended December 31, 2024, reflecting effective tax rates of 25.1% and 25.7%, respectively.
+BALANCE SHEET
+Total assets were $1.61 billion at 
+December 31, 2025
+, as compared to $1.42 billion at 
+December 31, 2024
+, or an increase of $187.5 million, or 13.2%.
+Cash and cash equivalents decreased $70.7 million, or 44.9%, to $86.9 million at 
+December 31, 2025
+ from $157.6 million at 
+December 31, 2024
+. The decrease in cash and cash equivalents was driven by growth in both loans and investments that in aggregate was greater than our growth in deposits and borrowings.
+Interest-bearing time deposits were $8.0 million at December 31, 2025, as compared to $100,000 at December 31, 2024, or an increase of $7.9 million. This increase was due to purchases of new interest-bearing time deposits.
+Investments in securities available for sale were $34.3 million at December 31, 2025, as compared to $6.6 million at December 31, 2024, or an increase of $27.8 million, or 422.8%. This increase was due to purchases of new securities.
+Investments in securities held to maturity were $55.8 million at December 31, 2025, as compared to $73.2 million at December 31, 2024, or a $17.5 million, or 23.8%, decrease. This decrease was due to maturities and principal paydowns of securities.
+Total gross loans were $1.38 billion at 
+December 31, 2025
+, as compared to $1.15 billion at 
+December 31, 2024
+, or an increase of $237.0 million, or 20.7%.
+•
+Commercial real estate loans increased $107.4 million, or 46.9%, to $336.4 million at 
+December 31, 2025
+, from $229.0 million at 
+December 31, 2024
+.
+•
+Multi-family real estate loans increased $81.5 million, or 23.7%, to $425.4 million at 
+December 31, 2025
+, from $344.0 million at 
+December 31, 2024
+.
+•
+Residential real estate loans increased $50.6 million, or 12.0%, to $473.4 million at 
+December 31, 2025
+, from $422.8 million at 
+December 31, 2024
+.
+•
+Home equity lines of credit increased $4.7 million, or 10.4%, to $49.9 million at 
+December 31, 2025
+, from $45.2 million at 
+December 31, 2024
+.
+•
+Consumer loans increased $728,000, or 516.3%, to $869,000 at December 31, 2025, from $141,000 at December 31, 2024.
+•
+Construction loans decreased $1.9 million, or 2.1%, to $89.0 million at 
+December 31, 2025
+, from $90.9 million at 
+December 31, 2024
+.
+•
+Commercial loans decreased $5.9 million, or 42.7%, to $7.9 million at 
+December 31, 2025
+, from $13.8 million at 
+December 31, 2024
+.
+Total deposits were $1.13 billion at December 31, 2025, as compared to $998.5 million at December 31, 2024, or an increase of $133.8 million, or 13.4%.
+•
+Certificates of deposit increased $122.8 million, or 20.3%, to $728.3 million at 
+December 31, 2025
+ from $605.5 million at 
+December 31, 2024
+.
+•
+Money market deposit accounts increased $27.2 million, or 14.7%, to $211.8 million at 
+December 31, 2025
+ from $184.6 million at 
+December 31, 2024
+.
+•
+Interest-bearing checking accounts decreased $1.2 million, or 5.7%, to $19.4 million at 
+December 31, 2025
+ from $20.5 million at 
+December 31, 2024
+.
+•
+Demand deposit accounts decreased $3.5 million, or 4.1%, to $81.5 million at 
+December 31, 2025
+ from $85.0 million at 
+December 31, 2024
+.
+•
+Savings accounts decreased $11.6 million, or 11.2%, to $91.4 million at 
+December 31, 2025
+ from $102.9 million at 
+December 31, 2024
+.
+FHLB advances increased $50.8 million, or 21.7%, to $284.8 million at December 31, 2025 from $234.0 million at December 31, 2024. The increase in FHLB advances was used primarily to fund loan growth.
+Total shareholders' equity increased $3.7 million, or 2.2%, to $171.9 million as of 
+December 31, 2025
+ from $168.3 million as of 
+December 31, 2024
+. This increase is primarily the result of earnings of $7.8 million. Partially offsetting the increase from earnings were decreases in additional paid-in capital ("APIC") and accumulated other comprehensive income ("AOCI") of $3.2 million and $1.3 million, respectively. The decrease in APIC was driven by $4.6 million in shares repurchased under our share repurchase plan, partially offset by an increase in APIC of $1.5 million related to stock-based compensation and ESOP shares committed to be released. The decrease in AOCI was driven by a decrease in the fair value of cash flow hedges. The book value per share increased $1.05 to $19.55 at 
+December 31, 2025
+ from $18.50 at 
+December 31, 2024
+.
+ASSET QUALITY
+Asset quality remains strong. The allowance for credit losses on loans in total and as a percentage of total gross loans as of 
+December 31, 2025
+ was $10.3 million and 0.74%, respectively, as compared to $8.9 million and 0.78%, respectively, as of 
+December 31, 2024
+. For the years ended 
+December 31, 2025
+ and 
+December 31, 2024
+, the Company recorded net charge offs of $86,000 and $3,000, respectively. Total non-performing assets were $1.1 million, or 0.07%, of total assets as of 
+December 31, 2025
+, and $2.0 million, or 0.14% of total assets, as of 
+December 31, 2024
+.
+Company Profile
+ECB Bancorp, Inc. is headquartered in Everett, Massachusetts and is the holding company for Everett Co-operative Bank. The Bank provides financial services to individuals, families, municipalities and businesses through its three full-service branch offices located in Everett, Lynnfield and Woburn, Massachusetts. The Company's common stock is traded on the NASDAQ Capital Market under the symbol "ECBK." For more information, visit the Company's website at www.everettbank.com.
+Forward-looking statements
+Certain statements herein constitute "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, as amended. These statements are based on the beliefs and expectations of management, as well as the assumptions made using information currently available to management. Since these statements reflect the views of management concerning future events, these statements involve risks, uncertainties and assumptions. As a result, actual results may differ from those contemplated by these statements. Forward-looking statements can be identified by the fact that they do not relate strictly to historical or current facts. They often include words like "believe," "expect," "anticipate," "estimate," and "intend" or future or conditional verbs such as "will," "would," "should," "could" or "may." Certain factors that could cause actual results to differ materially from expected results include changes in the interest rate environment, changes in general economic conditions, the Company's ability to continue to increase loans and deposit growth, legislative and regulatory changes that adversely affect the businesses in which the Company is engaged and changes in the securities market. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this release. The Company disclaims any intent or obligation to update any forward-looking statements, whether in response to new information, future events or otherwise, except as may be required by law.
+ECB Bancorp, Inc. and Subsidiary
+Consolidated Balance Sheets 
+December 31, 2025
+ and 
+December 31, 2024
+(unaudited)
+(in thousands except share data)
+December 31, 2025
+December 31, 2024
+ASSETS
+Cash and due from banks
+$
+4,121
+$
+5,828
+Short-term investments
+82,801
+151,789
+Total cash and cash equivalents
+86,922
+157,617
+Interest-bearing time deposits
+7,998
+100
+Investments in available-for-sale securities (at fair value)
+34,317
+6,564
+Investments in held-to-maturity securities, at cost (fair values of $52,326 at December 31, 2025 and $67,505 at December 31, 2024)
+55,764
+73,215
+Loans held-for-sale
+357
+—
+Loans, net of allowance for credit losses of $10,255 as of December 31, 2025 and $8,884 as of December 31, 2024
+1,371,819
+1,136,449
+Federal Home Loan Bank stock, at cost
+11,852
+10,000
+Premises and equipment, net
+3,429
+3,512
+Accrued interest receivable
+5,214
+4,015
+Deferred tax asset, net
+5,667
+4,914
+Bank-owned life insurance
+15,420
+14,945
+Other assets
+6,894
+6,822
+Total assets
+$
+1,605,653
+$
+1,418,153
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Deposits:
+Noninterest-bearing
+$
+81,497
+$
+84,958
+Interest-bearing
+1,050,847
+913,575
+Total deposits
+1,132,344
+998,533
+Federal Home Loan Bank advances
+284,815
+234,000
+Other liabilities
+16,560
+17,352
+Total liabilities
+1,433,719
+1,249,885
+Shareholders' Equity:
+Preferred Stock, par value $0.01; Authorized: 1,000,000 shares; No shares issued or outstanding
+—
+—
+Common Stock, par value $0.01; Authorized: 30,000,000 shares; Issued and outstanding: 8,792,719 shares and 9,095,833 shares, at December 31, 2025 and December 31, 2024, respectively
+88
+91
+Additional paid-in capital
+82,997
+86,189
+Retained earnings
+95,617
+87,845
+Accumulated other comprehensive (loss) income
+(896
+)
+382
+Unearned compensation - ESOP
+(5,872
+)
+(6,239
+)
+Total stockholders' equity
+171,934
+168,268
+Total liabilities and stockholders' equity
+$
+1,605,653
+$
+1,418,153
+Book value per common share
+$
+19.55
+$
+18.50
+Regulatory Capital Ratios (Everett Co-operative Bank)
+Total capital to risk weighted assets
+14.29
+%
+16.58
+%
+Tier 1 capital to risk weighted assets
+13.34
+%
+15.56
+%
+Tier 1 capital to average assets
+9.86
+%
+10.47
+%
+ECB Bancorp, Inc. and Subsidiary
+Consolidated Statements of Income 
+(unaudited)
+(in thousands except share data)
+Three months ended
+Year ended
+December 31,
+December 31,
+2025
+2024
+2025
+2024
+Interest and dividend income:
+Interest and fees on loans
+$
+18,928
+$
+15,384
+$
+69,085
+$
+57,852
+Interest and dividends on securities
+1,129
+840
+4,008
+3,186
+Interest on short term investments
+896
+1,585
+4,970
+6,004
+Interest on interest-bearing time deposits
+87
+2
+117
+3
+Total interest and dividend income
+21,040
+17,811
+78,180
+67,045
+Interest expense:
+Interest on deposits
+9,532
+8,956
+37,061
+33,435
+Interest on Federal Home Loan Bank advances
+2,356
+2,072
+9,202
+8,622
+Total interest expense
+11,888
+11,028
+46,263
+42,057
+Net interest and dividend income
+9,152
+6,783
+31,917
+24,988
+Provision (benefit) for credit losses
+241
+(311
+)
+1,534
+174
+Net interest and dividend income after provision (benefit) for credit losses
+8,911
+7,094
+30,383
+24,814
+Noninterest income:
+Customer service fees
+157
+150
+598
+577
+Income from bank-owned life insurance
+121
+119
+475
+473
+Net gain on sales of loans
+34
+39
+132
+119
+Other income
+48
+19
+121
+57
+Total noninterest income
+360
+327
+1,326
+1,226
+Noninterest expense:
+Salaries and employee benefits
+3,543
+3,419
+13,188
+13,062
+Director compensation
+205
+210
+797
+834
+Occupancy and equipment
+306
+245
+1,102
+1,033
+Data processing
+341
+314
+1,297
+1,198
+Computer software and licensing
+111
+126
+441
+443
+Advertising and promotions
+146
+155
+639
+551
+Professional fees
+496
+427
+1,368
+1,258
+Federal Deposit Insurance Corporation deposit insurance
+245
+191
+883
+752
+Other
+390
+394
+1,615
+1,538
+Total noninterest expense
+5,783
+5,481
+21,330
+20,669
+Income before income tax expense
+3,488
+1,940
+10,379
+5,371
+Income tax expense
+891
+493
+2,607
+1,380
+Net income
+$
+2,597
+$
+1,447
+$
+7,772
+$
+3,991
+Share data:
+Weighted average shares outstanding, basic
+8,014,187
+8,224,033
+8,100,328
+8,257,014
+Weighted average shares outstanding, diluted
+8,258,297
+8,375,643
+8,311,966
+8,345,737
+Basic earnings per share
+$
+0.32
+$
+0.18
+$
+0.96
+$
+0.48
+Diluted earnings per share
+$
+0.31
+$
+0.17
+$
+0.94
+$
+0.48
+EX-101.SCH
+3
+ecbk-20260205.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+000 - Document - Document And Entity Information
+link:calculationLink
+link:definitionLink
+link:presentationLink
+EX-101.DEF
+4
+ecbk-20260205_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+EX-101.LAB
+5
+ecbk-20260205_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+Entity [Domain]
+Legal Entity [Axis]
+Document Information [Line Items]
+Document Information [Table]
+Document, Type
+Document, Period End Date
+Entity, Registrant Name
+Entity, Incorporation, State or Country Code
+Entity, File Number
+Entity, Tax Identification Number
+Entity, Address, Address Line One
+Entity, Address, City or Town
+Entity, Address, State or Province
+Entity, Address, Postal Zip Code
+City Area Code
+Local Phone Number
+Written Communications
+Soliciting Material
+Pre-commencement Tender Offer
+Pre-commencement Issuer Tender Offer
+Title of 12(b) Security
+Trading Symbol
+Security Exchange Name
+Entity, Emerging Growth Company
+Entity, Ex Transition Period
+Amendment Flag
+Entity, Central Index Key
+EX-101.PRE
+6
+ecbk-20260205_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+XML
+8
+R1.htm
+IDEA: XBRL DOCUMENT
+v3.25.4
+Document And Entity Information
+Feb. 05, 2026
+Document Information [Line Items]
+Entity, Registrant Name
+ECB BANCORP, INC.
+Document, Type
+8-K
+Document, Period End Date
+Feb.  05,  2026
+Entity, Incorporation, State or Country Code
+MD
+Entity, File Number
+001-41456
+Entity, Tax Identification Number
+88-1502079
+Entity, Address, Address Line One
+419 Broadway
+Entity, Address, City or Town
+Everett
+Entity, Address, State or Province
+MA
+Entity, Address, Postal Zip Code
+02149
+City Area Code
+617
+Local Phone Number
+387-1110
+Written Communications
+false
+Soliciting Material
+false
+Pre-commencement Tender Offer
+false
+Pre-commencement Issuer Tender Offer
+false
+Title of 12(b) Security
+Common Stock, par value $0.01 per share
+Trading Symbol
+ECBK
+Security Exchange Name
+NASDAQ
+Entity, Emerging Growth Company
+true
+Entity, Ex Transition Period
+false
+Amendment Flag
+false
+Entity, Central Index Key
+0001914605
+X
+- Definition
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.
++ References
+No definition available.
++ Details
+ Name:
+dei_AmendmentFlag
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Area code of city
++ References
+No definition available.
++ Details
+ Name:
+dei_CityAreaCode
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
++ References
+No definition available.
++ Details
+ Name:
+dei_DocumentInformationLineItems
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:stringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.
++ References
+No definition available.
++ Details
+ Name:
+dei_DocumentPeriodEndDate
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:dateItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
++ References
+No definition available.
++ Details
+ Name:
+dei_DocumentType
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:submissionTypeItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Address Line 1 such as Attn, Building Name, Street Name
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityAddressAddressLine1
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Name of the City or Town
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityAddressCityOrTown
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Code for the postal or zip code
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityAddressPostalZipCode
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Name of the state or province.
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityAddressStateOrProvince
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:stateOrProvinceItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
++ Details
+ Name:
+dei_EntityCentralIndexKey
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:centralIndexKeyItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Indicate if registrant meets the emerging growth company criteria.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
++ Details
+ Name:
+dei_EntityEmergingGrowthCompany
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 7A
+ -Section B
+ -Subsection 2
++ Details
+ Name:
+dei_EntityExTransitionPeriod
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityFileNumber
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:fileNumberItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Two-character EDGAR code representing the state or country of incorporation.
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityIncorporationStateCountryCode
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:edgarStateCountryItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
++ Details
+ Name:
+dei_EntityRegistrantName
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
++ Details
+ Name:
+dei_EntityTaxIdentificationNumber
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:employerIdItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Local phone number for entity.
++ References
+No definition available.
++ Details
+ Name:
+dei_LocalPhoneNumber
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 13e
+ -Subsection 4c
++ Details
+ Name:
+dei_PreCommencementIssuerTenderOffer
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 14d
+ -Subsection 2b
++ Details
+ Name:
+dei_PreCommencementTenderOffer
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Title of a 12(b) registered security.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b
++ Details
+ Name:
+dei_Security12bTitle
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:securityTitleItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Name of the Exchange on which a security is registered.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection d1-1
++ Details
+ Name:
+dei_SecurityExchangeName
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:edgarExchangeCodeItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 14a
+ -Subsection 12
++ Details
+ Name:
+dei_SolicitingMaterial
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Trading symbol of an instrument as listed on an exchange.
++ References
+No definition available.
++ Details
+ Name:
+dei_TradingSymbol
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:tradingSymbolItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ -Section 425
++ Details
+ Name:
+dei_WrittenCommunications
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+XML
+9
+Show.js
+IDEA: XBRL DOCUMENT
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission.  Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+10
+report.css
+IDEA: XBRL DOCUMENT
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+/* DefRef Styles */
+.report table.authRefData{
+	background-color: #def;
+	border: 2px solid #2F4497;
+	font-size: 1em;
+	position: absolute;
+}
+.report table.authRefData a {
+	display: block;
+	font-weight: bold;
+}
+.report table.authRefData p {
+	margin-top: 0px;
+}
+.report table.authRefData .hide {
+	background-color: #2F4497;
+	padding: 1px 3px 0px 0px;
+	text-align: right;
+}
+.report table.authRefData .hide a:hover {
+	background-color: #2F4497;
+}
+.report table.authRefData .body {
+	height: 150px;
+	overflow: auto;
+	width: 400px;
+}
+.report table.authRefData table{
+	font-size: 1em;
+}
+/* Report Styles */
+.pl a, .pl a:visited {
+	color: black;
+	text-decoration: none;
+}
+/* table */
+.report {
+	background-color: white;
+	border: 2px solid #acf;
+	clear: both;
+	color: black;
+	font: normal 8pt Helvetica, Arial, san-serif;
+	margin-bottom: 2em;
+}
+.report hr {
+	border: 1px solid #acf;
+}
+/* Top labels */
+.report th {
+	background-color: #acf;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+.report th.void	{
+	background-color: transparent;
+	color: #000000;
+	font: bold 10pt Helvetica, Arial, san-serif;
+	text-align: left;
+}
+.report .pl {
+	text-align: left;
+	vertical-align: top;
+	white-space: normal;
+	width: 200px;
+	white-space: normal; /* word-wrap: break-word; */
+}
+.report td.pl a.a {
+	cursor: pointer;
+	display: block;
+	width: 200px;
+	overflow: hidden;
+}
+.report td.pl div.a {
+	width: 200px;
+}
+.report td.pl a:hover {
+	background-color: #ffc;
+}
+/* Header rows... */
+.report tr.rh {
+	background-color: #acf;
+	color: black;
+	font-weight: bold;
+}
+/* Calendars... */
+.report .rc {
+	background-color: #f0f0f0;
+}
+/* Even rows... */
+.report .re, .report .reu {
+	background-color: #def;
+}
+.report .reu td {
+	border-bottom: 1px solid black;
+}
+/* Odd rows... */
+.report .ro, .report .rou {
+	background-color: white;
+}
+.report .rou td {
+	border-bottom: 1px solid black;
+}
+.report .rou table td, .report .reu table td {
+	border-bottom: 0px solid black;
+}
+/* styles for footnote marker */
+.report .fn {
+	white-space: nowrap;
+}
+/* styles for numeric types */
+.report .num, .report .nump {
+	text-align: right;
+	white-space: nowrap;
+}
+.report .nump {
+	padding-left: 2em;
+}
+.report .nump {
+	padding: 0px 0.4em 0px 2em;
+}
+/* styles for text types */
+.report .text {
+	text-align: left;
+	white-space: normal;
+}
+.report .text .big {
+	margin-bottom: 1em;
+	width: 17em;
+}
+.report .text .more {
+	display: none;
+}
+.report .text .note {
+	font-style: italic;
+	font-weight: bold;
+}
+.report .text .small {
+	width: 10em;
+}
+.report sup {
+	font-style: italic;
+}
+.report .outerFootnotes {
+	font-size: 1em;
+}
+XML
+12
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.25.4
+html
+1
+23
+1
+false
+0
+0
+false
+0
+false
+false
+R1.htm
+000 - Document - Document And Entity Information
+Sheet
+http://www.ecbk.com/20260205/role/statement-document-and-entity-information
+Document And Entity Information
+Cover
+1
+false
+false
+All Reports
+Book
+All Reports
+ecbk-20260205.xsd
+ecbk-20260205_def.xml
+ecbk-20260205_lab.xml
+ecbk-20260205_pre.xml
+ecbk20251117_8k.htm
+http://xbrl.sec.gov/dei/2024
+true
+false
+JSON
+14
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+{
+ "version": "2.2",
+ "instance": {
+  "ecbk20251117_8k.htm": {
+   "nsprefix": "ecbk",
+   "nsuri": "http://www.ecbk.com/20260205",
+   "dts": {
+    "schema": {
+     "local": [
+      "ecbk-20260205.xsd"
+     ],
+     "remote": [
+      "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+      "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+      "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+      "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+      "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+      "https://www.xbrl.org/dtr/type/2022-03-31/types.xsd",
+      "https://xbrl.sec.gov/country/2024/country-2024.xsd",
+      "https://xbrl.sec.gov/currency/2024/currency-2024.xsd",
+      "https://xbrl.sec.gov/cyd/2024/cyd-2024.xsd",
+      "https://xbrl.sec.gov/cyd/2024/cyd-8k-sub-2024.xsd",
+      "https://xbrl.sec.gov/cyd/2024/cyd-cr-2024.xsd",
+      "https://xbrl.sec.gov/dei/2024/dei-2024.xsd",
+      "https://xbrl.sec.gov/exch/2024/exch-2024.xsd",
+      "https://xbrl.sec.gov/sic/2024/sic-2024.xsd",
+      "https://xbrl.sec.gov/stpr/2024/stpr-2024.xsd"
+     ]
+    },
+    "definitionLink": {
+     "local": [
+      "ecbk-20260205_def.xml"
+     ]
+    },
+    "labelLink": {
+     "local": [
+      "ecbk-20260205_lab.xml"
+     ]
+    },
+    "presentationLink": {
+     "local": [
+      "ecbk-20260205_pre.xml"
+     ]
+    },
+    "inline": {
+     "local": [
+      "ecbk20251117_8k.htm"
+     ]
+    }
+   },
+   "keyStandard": 23,
+   "keyCustom": 0,
+   "axisStandard": 0,
+   "axisCustom": 0,
+   "memberStandard": 0,
+   "memberCustom": 0,
+   "hidden": {
+    "total": 2,
+    "http://xbrl.sec.gov/dei/2024": 2
+   },
+   "contextCount": 1,
+   "entityCount": 1,
+   "segmentCount": 0,
+   "elementCount": 37,
+   "unitCount": 0,
+   "baseTaxonomies": {
+    "http://xbrl.sec.gov/dei/2024": 23
+   },
+   "report": {
+    "R1": {
+     "role": "http://www.ecbk.com/20260205/role/statement-document-and-entity-information",
+     "longName": "000 - Document - Document And Entity Information",
+     "shortName": "Document And Entity Information",
+     "isDefault": "true",
+     "groupType": "document",
+     "subGroupType": "",
+     "menuCat": "Cover",
+     "order": "1",
+     "firstAnchor": {
+      "contextRef": "d20268K",
+      "name": "dei:EntityRegistrantName",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "b",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "ecbk20251117_8k.htm",
+      "first": true,
+      "unique": true
+     },
+     "uniqueAnchor": {
+      "contextRef": "d20268K",
+      "name": "dei:EntityRegistrantName",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "b",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "ecbk20251117_8k.htm",
+      "first": true,
+      "unique": true
+     }
+    }
+   },
+   "tag": {
+    "dei_AmendmentFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "AmendmentFlag",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Amendment Flag",
+        "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CityAreaCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "CityAreaCode",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "City Area Code",
+        "documentation": "Area code of city"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentInformationLineItems": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentInformationLineItems",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Information [Line Items]",
+        "documentation": "Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentInformationTable": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentInformationTable",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Information [Table]",
+        "documentation": "Container to support the formal attachment of each official or unofficial, public or private document as part of a submission package."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentPeriodEndDate": {
+     "xbrltype": "dateItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentPeriodEndDate",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document, Period End Date",
+        "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentType": {
+     "xbrltype": "submissionTypeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentType",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document, Type",
+        "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressAddressLine1": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityAddressAddressLine1",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Address, Address Line One",
+        "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressCityOrTown": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityAddressCityOrTown",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Address, City or Town",
+        "documentation": "Name of the City or Town"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressPostalZipCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityAddressPostalZipCode",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Address, Postal Zip Code",
+        "documentation": "Code for the postal or zip code"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressStateOrProvince": {
+     "xbrltype": "stateOrProvinceItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityAddressStateOrProvince",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Address, State or Province",
+        "documentation": "Name of the state or province."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityCentralIndexKey": {
+     "xbrltype": "centralIndexKeyItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityCentralIndexKey",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Central Index Key",
+        "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityDomain": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityDomain",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity [Domain]",
+        "documentation": "All the names of the entities being reported upon in a document. Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts. This item does not include business and geographical segments which are included in the geographical or business segments domains."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityEmergingGrowthCompany": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityEmergingGrowthCompany",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Emerging Growth Company",
+        "documentation": "Indicate if registrant meets the emerging growth company criteria."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityExTransitionPeriod": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityExTransitionPeriod",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Ex Transition Period",
+        "documentation": "Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards."
+       }
+      }
+     },
+     "auth_ref": [
+      "r11"
+     ]
+    },
+    "dei_EntityFileNumber": {
+     "xbrltype": "fileNumberItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityFileNumber",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, File Number",
+        "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityIncorporationStateCountryCode": {
+     "xbrltype": "edgarStateCountryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityIncorporationStateCountryCode",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Incorporation, State or Country Code",
+        "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityRegistrantName": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityRegistrantName",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Registrant Name",
+        "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityTaxIdentificationNumber": {
+     "xbrltype": "employerIdItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityTaxIdentificationNumber",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity, Tax Identification Number",
+        "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_LegalEntityAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "LegalEntityAxis",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Legal Entity [Axis]",
+        "documentation": "The set of legal entities associated with a report."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_LocalPhoneNumber": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "LocalPhoneNumber",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Local Phone Number",
+        "documentation": "Local phone number for entity."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "cyd_MaterialCybersecurityIncidentAbstract": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentAbstract",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident [Abstract]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r7"
+     ]
+    },
+    "cyd_MaterialCybersecurityIncidentAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentAxis",
+     "presentation": [
+      "http://xbrl.sec.gov/cyd/role/MaterialCybersecurityIncidentDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident [Axis]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r7"
+     ]
+    },
+    "cyd_MaterialCybersecurityIncidentDomain": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentDomain",
+     "presentation": [
+      "http://xbrl.sec.gov/cyd/role/MaterialCybersecurityIncidentDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident [Domain]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r7"
+     ]
+    },
+    "cyd_MaterialCybersecurityIncidentInformationNotAvailableOrUndeterminedTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentInformationNotAvailableOrUndeterminedTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/cyd/role/MaterialCybersecurityIncidentDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident Information Not Available or Undetermined [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r8"
+     ]
+    },
+    "cyd_MaterialCybersecurityIncidentLineItems": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentLineItems",
+     "presentation": [
+      "http://xbrl.sec.gov/cyd/role/MaterialCybersecurityIncidentDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident [Line Items]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r9"
+     ]
+    },
+    "cyd_MaterialCybersecurityIncidentMaterialImpactOrReasonablyLikelyMaterialImpactTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentMaterialImpactOrReasonablyLikelyMaterialImpactTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/cyd/role/MaterialCybersecurityIncidentDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident Material Impact or Reasonably Likely Material Impact [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r9"
+     ]
+    },
+    "cyd_MaterialCybersecurityIncidentNatureTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentNatureTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/cyd/role/MaterialCybersecurityIncidentDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident Nature [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r9"
+     ]
+    },
+    "cyd_MaterialCybersecurityIncidentScopeTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentScopeTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/cyd/role/MaterialCybersecurityIncidentDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident Scope [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r9"
+     ]
+    },
+    "cyd_MaterialCybersecurityIncidentTable": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentTable",
+     "presentation": [
+      "http://xbrl.sec.gov/cyd/role/MaterialCybersecurityIncidentDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident [Table]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r7"
+     ]
+    },
+    "cyd_MaterialCybersecurityIncidentTimingTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/cyd/2024",
+     "localname": "MaterialCybersecurityIncidentTimingTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/cyd/role/MaterialCybersecurityIncidentDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Material Cybersecurity Incident Timing [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r9"
+     ]
+    },
+    "dei_PreCommencementIssuerTenderOffer": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "PreCommencementIssuerTenderOffer",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Pre-commencement Issuer Tender Offer",
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r3"
+     ]
+    },
+    "dei_PreCommencementTenderOffer": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "PreCommencementTenderOffer",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Pre-commencement Tender Offer",
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r5"
+     ]
+    },
+    "dei_Security12bTitle": {
+     "xbrltype": "securityTitleItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "Security12bTitle",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Title of 12(b) Security",
+        "documentation": "Title of a 12(b) registered security."
+       }
+      }
+     },
+     "auth_ref": [
+      "r0"
+     ]
+    },
+    "dei_SecurityExchangeName": {
+     "xbrltype": "edgarExchangeCodeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "SecurityExchangeName",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Security Exchange Name",
+        "documentation": "Name of the Exchange on which a security is registered."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "dei_SolicitingMaterial": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "SolicitingMaterial",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Soliciting Material",
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r4"
+     ]
+    },
+    "dei_TradingSymbol": {
+     "xbrltype": "tradingSymbolItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "TradingSymbol",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Trading Symbol",
+        "documentation": "Trading symbol of an instrument as listed on an exchange."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_WrittenCommunications": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "WrittenCommunications",
+     "presentation": [
+      "http://www.ecbk.com/20260205/role/statement-document-and-entity-information"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Written Communications",
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r10"
+     ]
+    }
+   }
+  }
+ },
+ "std_ref": {
+  "r0": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b"
+  },
+  "r1": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b-2"
+  },
+  "r2": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "d1-1"
+  },
+  "r3": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "13e",
+   "Subsection": "4c"
+  },
+  "r4": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "14a",
+   "Subsection": "12"
+  },
+  "r5": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "14d",
+   "Subsection": "2b"
+  },
+  "r6": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 6-K",
+   "Section": "General Instruction",
+   "Subsection": "B"
+  },
+  "r7": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 8-K",
+   "Section": "1.05"
+  },
+  "r8": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 8-K",
+   "Section": "1.05",
+   "Subsection": "Instruction",
+   "Paragraph": "2"
+  },
+  "r9": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 8-K",
+   "Section": "1.05",
+   "Subsection": "a"
+  },
+  "r10": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Securities Act",
+   "Number": "230",
+   "Section": "425"
+  },
+  "r11": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Securities Act",
+   "Number": "7A",
+   "Section": "B",
+   "Subsection": "2"
+  }
+ }
+}
+ZIP
+15
+0001437749-26-003106-xbrl.zip
+IDEA: XBRL DOCUMENT
+begin 644 0001437749-26-003106-xbrl.zip
+M4$L#!!0    ( -)(15R7G$$&? ,  !@.   1    96-B:RTR,#(V,#(P-2YX
+M
+'6=3@DC4%"$**%)YB!:)&W)L)['8M1?;2YM_S]C[
+MR+K=M)L<$*=X/?/-?#,>CR?G;^[R#/T1QDJM%DDZ&B=(**:Y5)M%\OT:O[U^
+MMUPFR#JJ.,VT$HM$Z>3-Q?-GYR\P_BB4,-0)CE8[=+,M%1?F4N<"?=7&T0QA
+M-"%3,AE/7J%T_O)LGD[1UT\8>_2=Y7/+MB*G""@H.[];F4PNDJUSQ9R0V]O;
+MD=\9:;,! ^,S(I4GP432Z%L>:=^>-;HI^?'IZCK8;I4SJ7[UJ:>SV8P$::-J
+M76%:S4#!"C;:Z#_$2WPP+QO5!T9CQEZ\HK9ES)W!;E<(VX\!,?%B[V*,QRF>
+MI$DG-]S%K&HW4U()6R="]K,'042>Z5(YL^M7KH41P$IV("^2Q99+8Z"(#IFN
+MI1%$W+%MO[J7Q-9W_(#A'8]MLE5\.GYCQ'0>"A)R/$T0=<[(5>G$!VWR2[&F
+M909I+M7ODF9R+06'ZY")7"@7*73$CIJ-<)]I+FQ!F7C"85/Y,B_@AB#5"SM4
+M]]5UN=*,NG!;#T+\%VYPV&_A=(+/TA&X3LC1'&;$Z$P0)3;^J@_CD1D3H3R+
+MF6>1OAK(XM#5Z_-N#^J'%?:K4X+OO9*'"#R%#-_VF.@?7/&!%=  ?-*GIZ1[
+MWRL&9;M1]XMC
++TV..>^&PH+N8]NMD"IW^
+M.LA]JQ]6IT>^X_CU+VS+U5&QURV^ X\9U!RH4MH%0PTK6A12K;7_],_RO'F;
+MOXDU"L__G!KF&];C0P(IC"Z$<5+8[O,>#&R-6"\2W_-QT^]_9G0U@M>H47G@
+M(.[;H6$"1&17>WH-UG>/16(AO9FHLOTO ^%B?6P@ )%*^D/X[Z(IC#@V&H!8
+M& /H
+%66U;[DZE&I2$S[,5X/(9Y_K+VT5V^51R]#^[0
+!?U$58
+M,YJQ,FNS6H-JC3Y 7%5/Z]\_MP<($AU4V+G7,$A_2ZD'0T17UAG*8"QTIH2R
+M\T?MS^IGDR#(3Y6>9?>(?8-<)$_HR S:@2_.RC3T.PM*I9=^-+HL%DGXVS27
+M4 (PBX8BK': $_R'6\*^#PO*-.S")9&:WP0]7IK*#6F#K)HP?/X%4$L#!!0
+M   ( -)(15PLQ-A.\ 0  &(N   5    96-B:RTR,#(V,#(P-5]D968N>&UL
+MS5I=;^(X%'U?:?]#)OL< K2=W:)A1HAV1FC;*2J,9K4O*Y-
+!D 3EF(Z:8<_!E%G
+MT.WUPB 7B*:(, KMD++PR^???_OT(8J^ 06.!*3!:!4,IW.: K]A&01]Q@4B
+M010TXZNX66]^#!JMRXM6XRKHWT>1>II@^M12+R.40R!9T+SXV ZG0LQ:<;Q8
+M+&K+$2
+RNHRH4O0/8BY!@F\^)";HZ1?,=B)3>&,>-9L0^\EJ"B1=M(!=>C VDT
+M2*688@6\DQ\W6$75B9HU"5@*D+O]WI9$6'(P9/EVR'-(:A/V'*> 5?^7ZD(E
+MXW(]:(#_NRTZO'FU*@@: 6F'NN8U$Z)V7<;W\G$^)N63[-T9W6Q&IO
+\OV("W^?[9=,!R4.(4T9#M.REZO09XW4U74&O N^4:R=-
+M.>3YYDWM8 TM3P/V'!R[\O*!#]E"?Z1ID>?@5\S^!][G[!FOOU8926K@YV#:
+M9[)D(O_BF7%IF\".6*J!ZW! &EYES:[.6!F0]*>,ZO<6'<01HY\<"UFP=EF6
+MS>EFHR@[^XTX1]P&C.!$EN]T
+(E!#3@QRQZG-060"YNHKZ0U7[_&$\
+M+AW-:O!Y6/;R? [\**[:1UR--B1S.
+9HB$5I#:^#.&(TY$C9?8-5-F)E
+M4Z^TW7%V;I?)%-$):.H\$\SI&7"; 9_(9'SC;"&F
+FP+I.UY/40ATQ[,AEEZJE]Y6@20FMTG:GV>K*SC@B/;D'+/\&_7AJ<#IN
+M+[Y,AR
+7<1K'^4D%>5FS%;-.0;%X):^**IT:)B%#?&BZC1=FYN,"EB*6U*
+BKK")_)0N65IRIU1I6%I(^>2K(RMRST_>FIODI3S$+;7WYKT]EI%LJN
+M_59F].!LSNKW*H4=Z3-X=S;J_"M%] Z@C1[_:A&SAVBCR\ZQ,* M!'F7R52
+M96#:J/*O\K U/FW4^5>$'&>5VFCTKQ QFZTVFOPK0 R.K8T@_^J.:K_7YLNT
+MK_6&A4UL(\^_@L/.8+;1YE_Q87"I;03Y5WE86-Q[7FK\BS89]NGS[KYZ4?]?
+MEG?^!U!+ P04    " #22$5<%-.,
++O=&?'W =O ;
+M/]NY#MV#?KE4L=VKJRM?[5V'ID07*$"[_I]?'@?A%">!1ZB4))2YI.0Z53\^
+M0AAPI>/!4T#&"/G-6X5Y\B>O>^%==L\6:=19"\<@QM_P&,G/[]]Z1L8K7T;X
+M%$]DE1Z#$8Y%Q@IBRO!8?US,6.$PF<65S*+[5F;QJPZ-+V?"&BE)9C'N^$?F
+MV<>,0/1 3YRP'M9"Y@,>,&XC]WW@DV8_!#%H3YOW/N1I,Q97+GSBC/<@3YKQ
+M5WQB9^P"GBK;!FGR_10KY1;+F$>QE8=)N)*+J&+++]E;L'C!L6A 6U?)&,*]
+M]--5ITAQ>#:!9S_"1':HUW+#DQLJ<_'EGP?*"5^*?A80NJ)2J=YT3+NS3&+9
+M"(#MGF$YA!=O*U5)@GUI&4YASL*L10HFV<4Q];X/.N\S+O0C8_O[G;])IICF
+M+5NI%K#P0!YYA!^"Z(4S7CR',8.D1"HXI$%V2H)""7FBHCZ*41-GG+<+DFKJ
+M:HBH6=H=%-O5571H56/)Z+;")M&@@AI6ZGP/X3S!E/?H&%BBYF7B"H-['">Z
+MHE<)K^F ,DC;=EAQHRUR]$/2(\7OUAR5Q(6ZJKFRS3 8Q;B:90JAQ]M%P;5C
+M%47=NDN*>IH=HA'*JCN& KS$$=N[&[I 0KBJ_"LDV5JI=4$I."2!U9JN5X?W
+M8E9=4EQM7,,J%[#
+D)2S@/*O0:*S
+M0EE8HQ5 $
+C0$-@.F^LN "__=P9QRMKR#
+MR.R)2D
+D8PHHVS!$AK9H(H>%HL]#!:]2#0U,B;9
+-OBF);>09#9XKO^2
+HJ
+MJPS:
+Z:?MB&
+ML.T U4LDF?MZ:Y6"0Q+8>5(J2A/WIT#-2U132-UGI3LPUA^62CZD"-M8?QA5
+M@RIR6*GU'XQPCND=),F
+Q]AJ75L,A=
+M/7J3+U*QI_%8>]4_'%S3!F9 VW80S%ZX18TR;J3(G1JC@JA03RT71NFEZ1RS
+M6G8Q'G*<:?9@G5LGR^!_XR"SSGH?'1#03K?!X5PTNF7W8C0D7/N6C2FD;J?9
+M@;'M#D6"8(RZ%[^-?D
+K>]QB0=5-'$2L&'+)#_6C)8)B/0S2RT^VN6NH!A
+MO
+G#.;+-"&.G\=KPV/F/6$.D)9
+M<<>MF)1&
+)$@;F&HFV2$ROKL>6'K)![%UOO-3R3[[V7Q
+MRW]02P,$%     @ TDA%7$(=AH6,!   ,2\  !4   !E8V)K+3(P,C8P,C U
+M7W!R92YX;6S=6EV/VC@4?:_4_Y"FSR$$9KH[J+1"S+1"RW300+6K?:E,<@%K
+MG!@Y9H!_O]?AHXR($X]61AJ_D ^?V,?'-_;-,9^_;E+F/8/(*<^Z?M1H^AYD
+M,4]H-N_Z/\=!;]P?#'POER1+".,9=/V,^U^_O'_W^4,0?(<,!)&0>-.M-UFL
+ML@3$+4_!&W$A"?,"KQ5>AZUFZY,7=:[:G>C:&]T'@7J:T>RIHWZF) 
+//Q\&+%B&>/C5BGA:Z-UNHA4*%R%="
+M"ID,$AZOBA,
+JR:S@_QE$/
+LLK[&V7P8Y5.06A)GD.L,IJ0S2!1<_V,[A;=&GHU
+M>*M<>TF"2UV^/Z@9(]+RK,!>@F,?3Q_$A*_U2YD6>0E^1?0_B)'@SW27?562
+MU, OP73$,4%A_])EY:M=!;;$4@U<3P#1\"HKMI6O8(5LM,"/"NW+JX-88O2W
+MH!+3PSY/TU6VGRC*$H%*G"5N8\YH3"5^F-UC4 M*6 DQ/<@2JY$ I0)^,Q:Y
+M^$3EUN)A-BL=S7KP95@.\GP%XE5
+B5EEM6YVX3+T@V!TV>5P6SN@;
+3U$(M,>SA:Y>H5^\;(_,26J7E5M7J8V."L '. 9N_
+M0#^>&IR.VZD/TA.QQP7.,5V_Z7M8@C.-@&2X:T)K&A6&2,$#&RN,KT[,> Y)
+MUY=B=8QY(N(S=^5E17M$N"1"&2KQ@K+C.,\$3ZMM!%YG>6#U1
+KK]A/,I'$D6ZW>R#"3PI$LM6(3Q4P'1Y+3^IT;,SF
+M^0]02P,$%     @ TDA%7,*/2@UO#P  4&4  !,   !E8V)K,C R-3$Q,3=?
+M.&LN:'1M[1QK<^(X\O/,K]"QMSM)50R81Q(@PU9"2):;O(HPMUOWY4K8 NO&
+MV!Y)3F!__77+-M@\\IH,"3/9FJU@Z]&M?G=+\L'OXY%+;IB0W/<^?C#SQ0^$
+M>99O
+;3OME^46/2U:/
+DEGYH7]3
+MT$TPIE1)S\M7HE N<$\JZEELVE_:RU8&?
+'/AB1!50%^8RJT9QWRB;4Z#0]
+5",]43-1YO>+LC&O ,H)
+M/9L)VQ^QS.CN\>D)AX4/9=[R1RD6/XS!XZ4&XQY<;,:7,PP:LI(FC2&EP5)Q
+MP(9,9\L//24FRV>.&S,#Q JQ$2@TYOZ
++M?+)KDZ)X8!?FC$%"6(C\&^AOSF8Z[E>XIYRNB!VN2(
+M%3U]S"DV5@7MD K-@T*$X4'?MR=$JHD+$CZ GH;D?[,Z,8N!:A#]8D!'W)W4
+MR6]?0U\U>GS$)+E@MZ3KCZ@7O6R0@-KH'NNDR#U2S)O<:Q!@F_1%G=!0^0V@
+MB
+DP1S@PE(]OC%*YE&L.J"O902$SWV/G;WO LTD+
+M  CJ=H!%XT]LDH93SC6+H,4UL[);K"X >Z_?I)<&/I^A9#,)SVA(ZU(K/R!
+MM*>K.SIH0/DQ$NG*@UO.Q
+M0A0#U>I\8\
+M6>>TD>E53A^YC2\&G FBD6-+/7RK\RF[]OG!B-O2^0,@CF]/'\'H"74,FM!$
+MO-!5SV:;M
+)V2;D:F0EL<"""YR+R6_:<7X,*<2
+M'QHS/=)JI!]OJ.#44R 0$(JXC1$50^[5L3G7_.T7<[?8N _.')B'0,$%&M3E
+M0Z]N =F9R,(]Z#<_7W1Z[6-RW3OLM:\/"OWFBV!QW6Y][G9ZG?8U.;PX)NV_
+M6G\<7IRV2>OR_+QS?=VYO'@9U/ZDT@&KIGQOAQRW""A?I?9#B\/)9?>
+Q /X04[;( @CFRE3RW*?@A)A5IW\"HN)G9V_4(T1C=!RACE-ZBXJFZ#9./
+MH)-CT\F$48@#EBGKE7:&[
+L+X(J9B0Z@Y!"(LJ_#H8M;D" ?KY
+ME,"SRX9<8CU#74!+FFN0<;1;1^3H\*)UV;W:(9V+5OYU6-ZM]IB"/4&$(Q5(
+MED"H)-
+7X\\6ZYK1SX6?PUQL1PV4#5=7(4OQ!\Z,1O(!Q_]_X=Y(^8GS4/%,2A
+M[_#13B#?,*&X1=V8]F#G@P:)8)!R^5<] 0QX;3*=,E58+<207K% ^#
+8\L4ZX
+MRV! GXDT9?8P,S.-BEFI+C'F/PEI>G3
+ZUZ0]"EQ_
+MPL1&"Q.X\HQAUF(EAM3C?^OG[
+>1-9,,S!;\
+MO!0]_]9+0:P6(:0'86-*/0W8HP.M&!OM)2[%%?3D>O=IAI*)$9:4U')""7C)
+M><2^A0A7/B#H_H<'
+8
+MXH J,KE-MF I!->R_EQFG:JV]3B6HZ@?"D;GF5S.-7?-O7D6;S]2H,Y\,,Q7
+MCN\MQL#52JY9WM\S3-,LOA))FJ7"O_VR7S+W&I(HYK( \2>>7L .Y,66&V(2
+M2BB0#0CPHPO4A:_(81"XX-# 0[T0:TZ@&T3(GBY:"&U*X9%&J@],&9"H5 I1
+M =I(XE*IB-#ENTWF3@9*RV'6%UTCI@&X#3!VF#WT_3'I,]>_12)@(Y**[!N?
+MR$"?AR!<@LPJYME '.4#?4:AJZC'_%"Z$R(A2I&#B1X9#_#[P(
+;>UPC/!Z'Q:HC>U4^)/\$:U,/W^7>(?KU#)%C.03PN=6 @]Z0:4-_W
+MW3X%QL+*QVF#_J?@"F0)T[W0BT-
+'U I?0"29#:N^F&(&F54C56AD]&]RJV3+W2.ND2TKE8AXZOL[P_TUCUJ,Q
+MUSYX3I -;W@.YAK8XZ;597>SU66V.#**5[>H*V:%&F8II2Z9?
+#;/*PM]EZ XLTK-0J[_4W9L4V2EO][8=I
+M4=3W38_>]&@J81TI0R96:-/^SZ9-9694MJR':5/<]W5JT]HR\%2(&V6#3$ ^
+M&2P[TZ3M5)P= C4W)QG,2.0\"1?DCF0L4OH 0:00R:OH"$'\+D+* "L$ X,Q
+MD1! V:3O4NO+M#&:8U5K/-U\\[VG$^+A?5\I?U2/AN(DOQ3U?XTY0SGBMNVR
+M^(C$"@7_[J6G'I['1U%BU'*(Y5(I[]\=SRXT12@Q[&\5=PC^VVZ0><<0+YBD
+M;=HW
+7M%2PQ'"#Z;EU.+R9V:='GQ!X
+M)#4PF'A)4CRJ%A];\(E9ZFN]2@< M5P3@P4@X;7RK2\[)*""W% W9.2?Q7S1
+M) '>-7"H6+BO\5UT,;V%NX&*^"BVQ#I[K54VQ9/=HCY!N.2X]C.J\PL+< \B
+MA*<$O:CSBYNFB8 GH=S
+60]KTZ\(NJ19Z
+3N9,2GHTQ.L,+=I;>W(#F+V#%F3X.-;?SP"6A'H$ 'V<8DJ'P;Y6#
+MH7Z NQ%4$IL-N!>=7(UJM,7JDD/UL[/TY6F
+-\0K^QSG=Y%
+ME_:0IQJ6.T'@MQQ HSAXL$)H$>R&2Q@'"DD]"ZO"U-)7EW5TJJAG4V'+:,?0
+M7I5'EK?H-(],JUS^NPC=N#==8W05(RUQY?L*).LUSSH3^IB[.CWZM+P^ELE&
+M=;*:34;A%=XNS
+%IVSCJM@\_&8
+,&"(.+
+M-YR3@(?T(00$W0@]V\@VZ
+J&I=+C\S?\]HA^@X1U>=Z=_!\;WY'FT/'
+M=W6BGWAAM,;QV42@H>%']+UA.!:R.8[%7YM0,+AX4DZ N:=@XJGG@5Y8^I (
+M,&9FK$7,*JHT?W!VA*H
+(>7FDCD9LX9A;#4U*D;.H%5.\-?M;&
+MPOO+>4]DVR$P(9B>AEE)X,CI1F35)W+P%!GR!,-)A_>Y(K5:WD0'J!SHT-(?
+MV$BN(&)Q8WJN!XD.N3C8%G37?0:!+T0!-L%#:Z5B8\!=9NO?9D.S#IQKX$NF
+M-6_J7/
+;MMRF@8^7?J(L&&TZ8'C0(L&K$,P1)/HZ< 2)
+MD9BIH_5C0H)'!J$$B728:Z.&G-,)@(C Y-?CX=;K1VLIP9HY37T^'/>](GL<
+MFY.7D;97O+L;BV2"\,K=S-+>-^\"/SI
+0SO-X&4Q!]>&O]W?[]6+9?PDUU37F**;P +
+M!;54G472&IT,2(5CMHY5%C^F0._>)%H#X^_M]QPTOSM)G%.K%R/%B^J 6:R\
+M7A5H^4!V
+N55K8>\,VTSNG%8>]SM_V:$KUGWWE(1TH5,SJ ERK?
+M1X6.KR$7<4[RT#H#=NIFMR7LT)T0BX92)X5<)M40  -IGP0$F4[\,%?L,X>Z
+M ZQ$X$2ZZA!WP R
+\JW/^=5Z+$&='7L
+M^US.>%6L4$4,GP_(O3&'AA>S(B9)[5LHO8@"F(4EWX%"\[ RN/HAB?R]X+W1
+M[V>G'WXO+_X^WY+<;EU4/8()#L"(>YDPRV96_#F6>N22,!:'W@59. (O9^/W
+M0?+DC&(^%1X4
+U=67?;
+M2G)^'O^*#L<>V^> -#:2H"7K1)9E6[E>-)9NDGG* 8FFB!@$> %0LO+K4]4
+M=T B91)H$C4G-Z*Q]59=]55U+<>#>.B=' ^X[9P\^]MQ[,8>/^&__L>R.DU#
+M;\#=XS?)1;C[;_4Z^\1]'MHQ=UCWGET/QK[#PP_!D+/+((QMC]69_L9XHZMZ
+MB[7?JNVWFL4NO[)Z_>1XR&.;]09V&/'X76T<]^M6+;WJVT/^KM8/PJ$=UQT>
+M\U[L!GZ-]0(_YCX\'7./CP:!S]_Y0>WDV?&;I,/'W<"Y9U%\[XG7_;@>N?_'
+MWS)-'<5'3%SHVT/7NW_+_O'7.(B/KMTAC]@W?L=^!$/;3RX>L9'M.*Y_\Y:I
+MKL_4AN;Z1ZPW#J,@?,OL<1P<89NCA8;6^FYVEV[MT+7]^"WS<<#>$1O:X8WK
+M0^OX2,Q_Q77;
+#&)H_+A[
+WX3??D^,WHY%E.IY9Z
+M
+4'O74U7?VFUZ:6$
+,W]LFN!_
+\O9]W[?[?%PS>G?AJS8VTUVB8):TBW6TMIUPVK7
+M-4U3]W\K(2X8VJXGZ60?CT_"_P5:<+U_YS Z'L==V__9Z 4 *L
+KN";\[/W[+WM]X)PI+ +O]< ;#4"Y!RQC\$XC ?LGX![
+MX$7!@_[%[9"=PX\?/!I[<;0#B/)(CW<]2_\[CF*W?[_8Z/E_GO\XO[Y6V-=3
+MI2 H:#9-:P8%DU'7V>IBO?IV>O7A])]UN//':_8J'G"&0EI7C\Z"X
+*&$*@SX_5QN&EER&1IGC>F-\-8+N<$6,"KN>
+MMLXXL#EG9;&:6UJK=MNTFK63#[S'AUUHS= 4AL_@PL%,1
+G3Q'IBP0E:N8&[Y>ZK>VC:*>8 PZ<<21)U77U+59:JW
+M*&PM> UXPG8=A=4^C$-DG+B>_40PIGM287=
+Z]DC%XU8
+M#A]YP?T0.MM@7P+;CY T0S2!., AC79#76 JNMIHOTCH+@"F*WY!/P
+W#HSC"41A 1R(8T!!^WN('<-(X3K_+_1YL
+M<9 I >N'P9"UK8;U D4)TC8*#M8R&_KD2K/!SF#SNC$NC>?&R!T C,)D :G
+M3^[=)[0)*Q+X-S A+LRX'_@P.C3U8=L@F3C,#; 5Z!3'?M\(ZF)J0X4IA26,
+M UR0Y+D&.XUPA%X0_&0V"CSL$TIM017 !:#IGALG0^\CV2 3%Q,FAMD/@G@$
+MLQ8G?<&I RGJBUGHBR=\6*1N"(0RP%%^Y0[TU$$DTJA)MZ]WT.BW\VMV\>T:
+M\-?5-3O]]H%]N/C/BP_G\./BV]GWK^=%=V>>_G$1'?<6>8@S$15=#NO#F2#E
+M"':4$ *]A"J] (@&Z 4$S?-.0U\0)U)CEM:2,)4(EBB+6]7VIXPQ!8^+:,LP
+M&YT7#78]<&<<5"R($P+3]UDWY1"3>_B4&*D-[-"^X5.FC6M_[W+/B9#->X(E
+MV\@+/.0-@(\=GGY]Z0.] "@'NC:AHGH76"5VW7/MK@M
+\^,='FZ=@3C&@7P;"084<, YB@/926]7*(N#3#9NITL!NCBY#^Z@753
+M4U0UQ8223[&=D@?W>=^-DW_@[C"TC<=0R HD'<)E@%%T71\!@"]D[X#CCHKY
+M,$JW1Z)9^H^Q9;N/0WIH47$^K$9G?YARNZ')RY2#<(45:UD:&6"VUHL'%13Y
+M#6N[!0J&ED>4I>OARQ0)BZENW-72Z+'5Z"SJ3&W0F*@ >!S6%J@$U!P. YT
+MC\"!WF*KH$"; P4E$U$.(K!::_50(CB@-9H3:EH4I]+M4JUMHM"79G[+$O:&
+MVC#WA;&:>0J8C(P51/HB8P4E[&$9?S#&BN_?IK:*
+EF2$!$2UW8
+M\S+B64-O;]#'TJC;,+"7B:%4;6@O4BNG'244!X+ D).K9(I:Z&Z.'4I&SJ*I
+MZG3RK89>/:9R_M^7Y]^NRN0J@"RYGP)CX/1/L@N62.[-1G.OE&9#U:<4#WW?
+M2U5Y/5K2,QFGG$P3C]?VAVNV6MJ4AHRJ<,T$?K'KT_\^ORJZZ01XQ?:O10JW
+M.MH# &>%_E81DMDQ-OB B4
+?>G,YO?;R%L+?::CK*KKR96UEV7.HR=7]7_JXFC3Q6EOLCB'LHM+
+M:?3]Z9?3;V?G[.KS^?EUP6U?SSD7L#L0DTA>K=30WTV%C1U+HK(!Y>N/=JT\
+M;<%JSXQR$\^61\3?/D"H,SM*_(1Z^(/_-79O;8^C=7=B5G;8\_8R1!$38.+Q
+MM_";>6ZUEL\52B*KQ+/GN=9L+SEZED5,
+3M]+W?:%_P')HY<\$8W@+^I
+M]5]8)V\!]0[%*_' 1@L-LV]N0GX###]I$[\$%^Q8^%[9B?_8[(-3URW\7#<(
+MX0:(CVC;HB"?GAWWEO4\8$_O:I>?WO^1'5F0O%Y'I_W4ES^](H('Q26,7ESX
+MUL?K']./S3OVI2[@;*Z!I7<'_3I,P^I%C(%@EY^^_?EU-@9X D,UY_\\.QY,
+MXQTN3S^=U]__.#_]HW[Z$33NM\SV[NS[Z"B-M4#?0Y\O=.:(#7@R*GWTZPBX
+MHX<1FG]7Q?_@/;OW$Y9O[#OUQ5LK$_#Y0_8$)*$/3QS^]?>S+Z[_\\$)F,Y#
+MMJ?FQG$6^;&C.)3"O$-S>S$1NX@-EP[98FAQNL?2#2E$L+5\K@F;=QU@F)BK
+M4AUR]14S4VRUE_ARIK=2
+]@9T>:*"CX,JYX<*02I=\1?G]7LQQ6F";
+M$>^-0W%VRNQ;V_5$^!2"] @8>(JR#'/9_+#>&K=FBD36&]E+K&=ZIYNZWK"R
+MG=-REGLV,%I:8,1>ZF 
+TNQ7]!9+Z?!A\K&T
+M):L)B+)V2C@F6HF9)#1CF.:,S95(+@7'Z1.CW36C_9'&!3[*:9MJ5FRRIC?4
+MR7X!%"D7HQ5*AM2,EG;0_N^@SWCHAB924,,PV%7H,*D+YMS^,;-LU)HJ#B*3
+M T]);-33W=-<=I>2;//L%4J9);E[@!Z7(+ ?C0$$K[+BMF[-'&6T5L.8'G-T
+MQ)EYMM*?'CTDH5R96OZR?-^K"
+P#@
+_R!!)._(@%#&7,3%8;&C!WC#[RSF'*W,
+MT>H&W&Y-GC4]U=@>VYKRV4?[_IO\=@=]/T,2Z0.1I!YOZ6Y:L&:N**P3B_8$
+MX@'T:QAE@Y.4[[;4%0]SB1GO8;&&)R,5VKM/Z?O7P.?W>#K[D\?3C6OW>L$X
+M.9N=I:=JSTY2$_%D3G&3KBVG!2C;#
+.^GR*(T
+MV<4+M@%]50HWIQM9ZTABZ)X<**HDAVD;5V$;?^!#D01A60+/[5TCRT/)G!GW
+MM#7V2H%[UUK)(T-[E_;N(>[=*QL3GD;9 E?+/%P&.9QNVXXFE\C55'T-*Z@L
+M^W:_/677<&__^/G+>V8[MYB1:MEK(
+NGZ;+&#Z!$[QO[-TFV)E+D@VM :GT;!E!KUB!$6N4=_B3E89/[&)/L\
+MC%Y.3L#GYM[(.O'6IUL:R'ME"Z%A+.W&3O=VWM R@EC"F^XKO=F$A4W_W^MI
+MZ O>:L*2)_^]/GHP[U?*-UK6BN]]_J"WRS^*&O1B8-F\?[\[GV NGF9V0VLH
+MJ&6^$ ]9">T;[-(.T47)P\3B?2RE,$F^/?VVF-_I5\0)Q43 ".]Y1"EX$BR<
+MS5VG+J+<DH3CKVJGEQ=GM=?")QW$TW@X]D21O4"DL,;#"R!T[D<8M9RF&H)W
+MOI]=P#LB<\62OIA&P?A"E326-L%"8#-;CKS#GBP%V3U?MM),TO8F.U D\$ZC
+M)1PF2@(FJ=CQYMP]-O)L:'ZT-)/8POQ1RZ0/21K+9D;#(4]F!S9Q% >]G_6N
+M:!FG">8H26F&8S^_^GXYZ2+<'+IQ^E87NR5JVCD9$P#3NC0!JSD$^[8;LEO;
+M&XNC(1&DV/>".S;@S@V/YH(:NYBL/'D0BQ8D<S)O<6^HZ1!3Q;[9G(0P'38?
+MLAI-]>&1[C/SR0GT6\$::\&438O[[4 TGUY=G5^S?_YY^N7B^E]%MXT!^BM5
+M!I*R LGV!6X2W(EDH!G9!_VI_]*DF@ R64P,"AL20UXQ%^BTU,!\9(P0C.6
+M_"3-I;HBJJ'K:J.]G#MD]8A[);ER^J:5]6;&((LO<A.5F'E(S$XY$46+Y75Z
+M:-E(RNM@,15!F/TT778K<9M#F9YFQ5L2Y()^_<"OKU;8F/I+K.)A46I#6:ZU
+M42+M)SG^GNM9)8#4AF:NU 4IE88+# 6E? "4#V#W^0"VWJ:HNYLPN,LPZ+O>
+M+@I)/UI4<*66GQNM6S,OR2<2;5[2+P$GHKB?R(_LP*CZK@_=0+='F,Y;%XTQ
+M(LFY2*L,$ ?F6<R"BS,^'/NN"$^>12QWQQ&Z^".RB0<AEJYBKDAQ$G) /V//
+MJZ??G=0Q"D1I+80T/3M>&N:7>]_O8^IT\>G_"KKCT%\:?#*&= %?)GH4P FA
+M=XE)"6V46$&B%B7U$=E9JM=^3?P5$I50E+>Z'W8#C]6P@&*C)N3_,! *45+]
+M7?!Y3"0=SPO&ERC NG"1H['K[NZNL51/M!+IN9*R['=VZ-2Q A92H8B4$N'Y
+M)6PI=">ST08P[01LJ)"C60/]WMT8J[)!)_*Z7!-5N%)].JU1AF+\BB<.\WK[
+M-$U,CI<F4?NG/6&MT3J&(8AV^K1VGO'T^2^ 43[ J-EKIH +@ 80;0KJ!JU^
+M;@RHGR?VA)2FNQPV8S_9?9C6KA<+.A60 Z82M =\49FO.2"J#$31>#A*GAS"
+M'F&X<6_F*9U!-T-XU;N?RY0A<A1,/MI@5RYJ-?%R)]-T=J*A6Y??+74&5Z#'
+MA24*>$(\QLIHM_BBLOHIU[\-/&!8H1O]A/MC?!'7=<IQY@8B*K#9J=$,1MR+
+MQR)J3Y2GA?;OF>/V^[#7A8X?#X(HJ4?'AZ/$8M.]7^F T )R2(3U;!^--4F
+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
+M <\M_'EV/)A*P,O33^?U]S_.3_^HGWZ\/O_QEMG>G7T?3=QM44[X?*$S1VS
+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
+M    " #22$5<%-.,<Q\&  !@/@  %0              @ '."   96-B:RTR
+M,#(V,#(P-5]L86(N>&UL4$L! A0#%     @ TDA%7$(=AH6,!   ,2\  !4
+M             ( !( \  &5C8FLM,C R-C R,#5?<')E+GAM;%!+ 0(4 Q0
+M   ( -)(15S"CTH-;P\  %!E   3              "  =\3  !E8V)K,C R
+M-3$Q,3=?.&LN:'1M4$L! A0#%     @ TDA%7$?D;30S*@  ^CD#  T
+M         ( !?R,  &5X7S@X.34S,BYH=&U02P4&      8 !@"$ 0  W4T
+#
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>16
+<FILENAME>ecbk20251117_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:dei="http://xbrl.sec.gov/dei/2024"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="ecbk-20260205.xsd" xlink:type="simple"/>
+    <context id="d20268K">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0001914605</identifier>
+        </entity>
+        <period>
+            <startDate>2026-02-05</startDate>
+            <endDate>2026-02-05</endDate>
+        </period>
+    </context>
+    <dei:AmendmentFlag contextRef="d20268K" id="ixv-232">false</dei:AmendmentFlag>
+    <dei:EntityCentralIndexKey contextRef="d20268K" id="ixv-233">0001914605</dei:EntityCentralIndexKey>
+    <dei:DocumentType contextRef="d20268K" id="ixv-243">8-K</dei:DocumentType>
+    <dei:DocumentPeriodEndDate contextRef="d20268K" id="ixv-244">2026-02-05</dei:DocumentPeriodEndDate>
+    <dei:EntityRegistrantName contextRef="d20268K" id="ixv-245">ECB BANCORP, INC.</dei:EntityRegistrantName>
+    <dei:EntityIncorporationStateCountryCode contextRef="d20268K" id="ixv-246">MD</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityFileNumber contextRef="d20268K" id="ixv-247">001-41456</dei:EntityFileNumber>
+    <dei:EntityTaxIdentificationNumber contextRef="d20268K" id="ixv-248">88-1502079</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1 contextRef="d20268K" id="ixv-249">419 Broadway</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown contextRef="d20268K" id="ixv-250">Everett</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressStateOrProvince contextRef="d20268K" id="ixv-251">MA</dei:EntityAddressStateOrProvince>
+    <dei:EntityAddressPostalZipCode contextRef="d20268K" id="ixv-252">02149</dei:EntityAddressPostalZipCode>
+    <dei:CityAreaCode contextRef="d20268K" id="ixv-253">617</dei:CityAreaCode>
+    <dei:LocalPhoneNumber contextRef="d20268K" id="ixv-254">387-1110</dei:LocalPhoneNumber>
+    <dei:WrittenCommunications contextRef="d20268K" id="ixv-255">false</dei:WrittenCommunications>
+    <dei:SolicitingMaterial contextRef="d20268K" id="ixv-256">false</dei:SolicitingMaterial>
+    <dei:PreCommencementTenderOffer contextRef="d20268K" id="ixv-257">false</dei:PreCommencementTenderOffer>
+    <dei:PreCommencementIssuerTenderOffer contextRef="d20268K" id="ixv-258">false</dei:PreCommencementIssuerTenderOffer>
+    <dei:Security12bTitle contextRef="d20268K" id="ixv-259">Common Stock, par value $0.01 per share</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="d20268K" id="ixv-260">ECBK</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="d20268K" id="ixv-261">NASDAQ</dei:SecurityExchangeName>
+    <dei:EntityEmergingGrowthCompany contextRef="d20268K" id="ixv-262">true</dei:EntityEmergingGrowthCompany>
+    <dei:EntityExTransitionPeriod contextRef="d20268K" id="ixv-263">false</dei:EntityExTransitionPeriod>
+</xbrl>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

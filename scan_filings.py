@@ -13,13 +13,13 @@ except FileNotFoundError:
 print(f"Scanning {len(links)} filings...")
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (AgentVillage/1.0; mailto:gemini-3-pro@agentvillage.org)"
+    "User-Agent": "AgentVillage gemini-3-pro@agentvillage.org"
 }
 
 for url in links:
     try:
         # Rate limit
-        time.sleep(0.15)
+        time.sleep(0.2)
         
         response = requests.get(url, headers=headers, timeout=10)
         content = response.text
@@ -40,4 +40,3 @@ for url in links:
             
     except Exception as e:
         print(f"Error fetching {url}: {e}")
-

@@ -1,0 +1,64 @@
+
+--- Item 8.01 Other Events ---
+
+Item 8.01 Other Events
+On February 5, 2026, it was announced that Peter Gray has joined the Executive Management Team of The Fidelity Deposit and Discount Bank (the “Bank”), the wholly-owned subsidiary of Fidelity D & D Bancorp, Inc. (the “Corporation”), as Executive Vice President, Chief Lending Officer and Lehigh Valley Market President. A press release regarding Mr. Gray's hire is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+The information in this Item 8.01 is being furnished and shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934 (the “Exchange Act”), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933 or the Exchange Act, regardless of any general incorporation language in such filing.
+Item
+9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit Number
+Description
+99.1
+Copy of the press release dated February 5, 2026.
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned, thereunto duly authorized.
+FIDELITY D & D BANCORP, INC.
+(Registrant)
+Dated:
+February 5, 2026
+/s/ Salvatore R. DeFrancesco, Jr.
+Salvatore R. DeFrancesco, Jr.
+Treasurer and Chief Financial Officer
+EX-99.1
+2
+ex_913976.htm
+EXHIBIT 99.1 P GRAY PRESS RELEASE
+ex_913976.htm
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+Contact:
+Tara Smith
+VP & Director of Marketing
+(570) 504.2231
+Tara.Smith@fddbank.com
+Peter A. Gray Joins Fidelity Bank as Executive Vice President, Chief Lending Officer and Market President for the Lehigh Valley
+Dunmore, PA
+–
+February 5, 2026
+– Daniel J. Santaniello, President and CEO of Fidelity Bank, is pleased to announce that Peter A. Gray has joined Fidelity Bank as Executive Vice President, Chief Lending Officer and Market President for the Lehigh Valley.
+Gray brings more than two decades of executive leadership in community banking, lending, operational transformation, and client-focused strategy.
+Gray most recently served as Senior Executive Vice President and Chief Operating Officer at another area financial institution, where he played a pivotal role in advancing strategic initiatives centered on delivering efficiency. Throughout his career, he has also held leadership roles with oversight on business development and revenue enhancement.
+Earlier in his career, Pete Gray served another financial institution guiding commercial and retail growth across a diverse Northeast Pennsylvania regional footprint.
+A dedicated community leader, Gray serves on the Board of the Pocono Mountains United Way and sits on the Board of Directors for the State Theatre of Easton. He previously contributed to the Lehigh Valley Economic Development Corporation (LVEDC) Board. He holds an MBA in Corporate Finance from Fairleigh Dickinson University and a BS in Business Management from Kutztown University of Pennsylvania.
+“Pete is a proven relationship-driven leader,” said Santaniello. “His experience and client experience delivery align with Fidelity Bank’s mission and long-term strategy. We are pleased to welcome him to the executive team.”
+In his new role, Gray will partner closely with executive leadership and frontline bankers to further strengthen Fidelity Bank’s focus on managing all commercial lending activities to ensure full compliance with regulatory requirements, strategic objectives, and established lending policies.
+About Fidelity Bank
+Fidelity Bank has built a strong history as a trusted financial advisor and continues its mission of exceeding client expectations through a unique banking experience. It operates 21 full-service offices throughout Lackawanna, Luzerne, Lehigh, and Northampton Counties, along with a limited production commercial office in Luzerne County and a Fidelity Bank Wealth Management Office in Schuylkill County. Fidelity Bank provides a digital banking experience online at www.bankatfidelity.com, through the Fidelity Mobile Banking app, and in the Client Care Center at 1-800-388-4380. Part of the Company’s vision is to serve as the best bank for the community, which was accomplished by having provided over 6,000 hours of volunteer time and over $1.5 million in donations to non-profit organizations directly within the markets served throughout 2025. Fidelity Bank's deposits are insured by the Federal Deposit Insurance Corporation up to the full extent permitted by law.
+EX-101.SCH
+3
+fdbc-20260205.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+000 - Document - Document And Entity Information
+link:calculationLink
+link:definitionLink
+link:presentationLink
+EX-101.DEF
+4
+fdbc-20260205_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+EX-101.LAB
+5
+fdbc-20260205_lab.xml

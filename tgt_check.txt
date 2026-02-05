@@ -1,0 +1,64 @@
+
+--- Item 5.02 ---
+
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+.
+As previously disclosed, Michael J. Fiddelke was appointed as Target’s next Chief Executive Officer and a member of the Board, effective February 1, 2026. On January 31, 2026, Mr. Fiddelke’s compensation was set in connection with that appointment. Mr. Fiddelke will receive an annual base salary of $1.30 million, will be eligible for an annual cash incentive under Target’s Short-Term Incentive Plan with a target incentive opportunity of 200% of base salary, and will be granted stock-based awards under Target’s 2020 Long-Term Incentive Plan with a target payout value of $12.1 million. The stock-based awards will be granted in March 2026 on terms consistent with the prior annual awards granted to Mr. Fiddelke (in his previous capacity as Chief Operating Officer) and Target’s other leadership team members. Mr. Fiddelke will also remain eligible for benefits under Target’s Income Continuation Plan and other benefits available to members of Target’s leadership team. Mr. Fiddelke will be an “at-will” employee of Target and will have no specified term as Chief Executive Officer.
+Also as previously disclosed, effective February 1, 2026, Brian C. Cornell stepped down from his position as Chief Executive Officer and will continue to serve as Target’s Executive Chair of the Board. In connection with this transition, Target and Mr. Cornell entered into a letter agreement on February 2, 2026 pursuant to which he will receive an annual base salary of $1.12 million and will be eligible for a fiscal year 2026 annual cash incentive under Target’s Short-Term Incentive Plan with a target incentive opportunity of 200% of base salary. In March 2026, Mr. Cornell will be granted an award of restricted stock units under Target’s 2020 Long-Term Incentive Plan with a present value of $6.0 million. Mr. Cornell’s equity awards granted prior to the effective date will continue to vest in accordance with the terms of such awards. Mr. Cornell will no longer be entitled to severance under Target’s Income Continuation Plan. During his term of employment, he will also remain eligible for benefits on the same terms as other members of Target’s leadership team. Mr. Cornell will be an “at-will” employee of Target and is anticipated to serve as executive chair or special advisor until March 13, 2027.
+The foregoing description of the letter agreement is qualified in its entirety by reference to the full text of the letter agreement and the restricted stock unit agreement, copies of which will be filed as exhibits to Target’s Annual Report on Form 10-K for the fiscal year ending January 31, 2026.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+TARGET CORPORATION
+Date: February 5, 2026
+By:
+/s/ Melissa K. Kremer
+Name: Melissa K. Kremer
+Title: Executive Vice President and Chief Human Resources Officer
+EX-101.SCH
+2
+tgt-20260131.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Document and Entity Information
+link:presentationLink
+link:calculationLink
+link:definitionLink
+EX-101.LAB
+3
+tgt-20260131_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Soliciting Material
+Soliciting Material
+Written Communications
+Written Communications
+Local Phone Number
+Local Phone Number
+Document Period End Date
+Document Period End Date
+Pre-commencement Tender Offer
+Pre-commencement Tender Offer
+Amendment Flag
+Amendment Flag
+Entity Central Index Key
+Entity Central Index Key
+Pre-commencement Issuer Tender Offer
+Pre-commencement Issuer Tender Offer
+Entity Tax Identification Number
+Entity Tax Identification Number
+Entity Emerging Growth Company
+Entity Emerging Growth Company
+Entity File Number
+Entity File Number
+Entity Registrant Name
+Entity Registrant Name
+Security Exchange Name
+Security Exchange Name
+Trading Symbol
+Trading Symbol
+Entity Incorporation, State or Country Code
+Entity Incorporation, State or Country Code
+Title of 12(b) Security
+Title of 12(b) Security
+Cover Page [Abstract]
+Cover Page [Abstract]
+Cover Page [Abstract]

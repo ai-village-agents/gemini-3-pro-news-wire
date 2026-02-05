@@ -1,0 +1,64 @@
+
+--- Item 5.02 Departure of Directors or Certain ---
+
+Item 5.02 Departure of Directors or Certain
+Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On January 30, 2026, R. Jeffrey Harris
+informed the Board of Directors (the “Board”) of AMN Healthcare Services, Inc. (the “Company”) of his
+decision to retire as a member of the Board effective as of the Company’s 2026 annual meeting of shareholders (the “2026
+Annual Meeting”). Therefore, Mr. Harris will not stand for re-election to the Board at the 2026 Annual Meeting. Mr.
+Harris’ decision was not due to any disagreement with the Company or the Board.
+In connection with Mr. Harris’ departure,
+the Board intends to nominate Eric Palmer to stand for election to the Board at the 2026 Annual Meeting. Mr. Palmer brings to the Board
+more than 25 years of experience leading and transforming large organizations across the healthcare services, care management, benefits,
+and insurance industries. Mr. Palmer previously served as Executive Vice President, Enterprise Strategy, for The Cigna Group, a managed
+healthcare and insurance company, from January 2024 until March 2025, where he had also previously served as Executive Vice President
+and Chief Financial Officer from June 2017 until January 2021. Mr. Palmer served as President and Chief Executive Officer of Evernorth
+Health Services, the health services brand of The Cigna Group, from January 2022 to March 2025, where he had previously served as President
+and Chief Operating Officer from January 2021 to December 2021.
+SIGNATURES
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+AMN Healthcare Services, Inc.
+Date: February 5, 2026
+By:
+/s/ Whitney M. Laughlin
+Whitney M. Laughlin
+Chief Legal Officer and Corporate Secretary
+EX-101.SCH
+2
+amn-20260130.xsd
+XBRL SCHEMA FILE
+00000001 - Document - Cover
+link:presentationLink
+link:calculationLink
+link:definitionLink
+EX-101.LAB
+3
+amn-20260130_lab.xml
+XBRL LABEL FILE
+Cover [Abstract]
+Document Type
+Amendment Flag
+Amendment Description
+Document Registration Statement
+Document Annual Report
+Document Quarterly Report
+Document Transition Report
+Document Shell Company Report
+Document Shell Company Event Date
+Document Period Start Date
+Document Period End Date
+Document Fiscal Period Focus
+Document Fiscal Year Focus
+Current Fiscal Year End Date
+Entity File Number
+Entity Registrant Name
+Entity Central Index Key
+Entity Primary SIC Number
+Entity Tax Identification Number
+Entity Incorporation, State or Country Code
+Entity Address, Address Line One
+Entity Address, Address Line Two
+Entity Address, Address Line Three
+Entity Address, City or Town

@@ -1,0 +1,2571 @@
+0001104659-26-010793.txt : 20260205
+0001104659-26-010793.hdr.sgml : 20260205
+20260205130322
+ACCESSION NUMBER:		0001104659-26-010793
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		12
+CONFORMED PERIOD OF REPORT:	20260205
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20260205
+DATE AS OF CHANGE:		20260205
+FILER:
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PLUG POWER INC
+		CENTRAL INDEX KEY:			0001093691
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				223672377
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34392
+		FILM NUMBER:		26601744
+	BUSINESS ADDRESS:	
+		STREET 1:		125 VISTA BOULEVARD
+		CITY:			SLINGERLANDS
+		STATE:			NY
+		ZIP:			12159
+		BUSINESS PHONE:		5187827700
+	MAIL ADDRESS:	
+		STREET 1:		125 VISTA BOULEVARD
+		CITY:			SLINGERLANDS
+		STATE:			NY
+		ZIP:			12159
+8-K
+1
+tm265369d1_8k.htm
+FORM 8-K
+false
+0001093691
+0001093691
+2026-02-05
+2026-02-05
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549 
+FORM 
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) 
+of
+the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+February 5, 2026
+Plug Power Inc.
+(Exact name of registrant as specified in its
+charter) 
+Delaware
+1-34392
+22-3672377
+(State
+    or other jurisdiction
+(Commission
+    File
+(IRS
+    Employer
+of
+    incorporation)
+Number)
+Identification
+    No.)
+125 Vista Boulevard
+,
+Slingerlands
+, 
+New York
+12159
+(Address
+    of principal executive offices)
+(Zip
+    Code)
+(
+518
+) 
+782-7700
+Registrant’s telephone number, including
+area code: 
+N/A
+(Former name or former address, if changed
+since last report.)
+Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (
+see 
+General
+Instruction A.2. below):
+¨
+Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to 12(b) of the Act:
+Title of each class
+Trading
+Symbol(s)
+Name of each exchange
+on which registered
+Common
+    Stock, par value $0.01 per share
+PLUG
+The
+Nasdaq
+Capital
+    Market
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter). 
+Emerging growth
+company 
+¨
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+¨
+Item 8.01. Other Events.
+On February 5, 2026, Plug Power Inc. (the “Company”) reconvened
+its special meeting of stockholders (the “Special Meeting”) at 10:00 a.m., Eastern Standard Time, with respect to the following
+proposals:
+1.
+The approval of an amendment to the Company’s amended and restated certificate of incorporation, as amended (the “Charter”), to adjust the voting requirements for certain future amendments to align with Section 242(d)(2) of the Delaware General Corporation Law (“Proposal 1”).
+2.
+The approval of an amendment to the Charter to increase the number of authorized shares of the Company’s common stock from 1,500,000,000 shares to 3,000,000,000 shares (“Proposal 2”).
+Based on the preliminary tabulation of votes received as of the reconvened
+meeting date, approximately 39.63% and 49.40% of the outstanding shares of the Company's common stock voted in favor of Proposal 1 and Proposal 2, respectively.
+As the Company did not receive sufficient votes to approve Proposal 1 or Proposal 2,
+the Company further adjourned the Special Meeting to permit additional time to solicit proxies.
+The Special Meeting is scheduled to reconvene at 4:00 p.m., Eastern
+Standard Time, on Tuesday, February 17, 2026. No other matters are expected to be presented for consideration at the adjourned Special
+Meeting other than the vote on Proposals 1 and 2.
+The Company’s stockholders of record as of December 12, 2025
+(the “Record Date”) are entitled to attend the adjourned Special Meeting and vote their shares using the same process in place
+for the originally scheduled Special Meeting, the details of which are set forth in the Company’s definitive proxy statement filed
+with the Securities and Exchange Commission (the “SEC”) on December 12, 2025.
+Proxies previously submitted will continue to be valid for the adjourned
+Special Meeting unless properly revoked or changed in accordance with the procedures described in the definitive proxy statement.
+The Company encourages all stockholders as of the Record Date who have
+not yet voted to do so as soon as possible but no later than February 16, 2026 at 11:59 p.m., Eastern Standard Time.
+Important Additional Information and Where to Find It
+The Company has filed a definitive proxy statement and other relevant documents with the SEC in connection with the Special Meeting.
+INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE DEFINITIVE PROXY STATEMENT AND OTHER RELEVANT DOCUMENTS FILED WITH THE SEC CAREFULLY
+AND IN THEIR ENTIRETY because they contain important information about the matters to be voted on at the Special Meeting. Stockholders
+may obtain copies of these documents free of charge at the SEC’s website at 
+www.sec.gov
+ or on the Company’s
+website at 
+www.plugpower.com
+.
+Participants in the Solicitation
+The Company and its directors and executive officers may be deemed to be participants in the solicitation of proxies from the Company’s
+stockholders in connection with the Special Meeting. Information about the Company’s directors and executive officers is outlined
+in the definitive proxy statement for the 2025 Annual Meeting of Stockholders, which was filed with the SEC on June 9, 2025, and information
+about their ownership of the Company’s stock is outlined in the definitive proxy statement for the Special Meeting filed with the
+SEC on December 12, 2025.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+PLUG POWER INC.
+February 5, 2026
+By:
+/s/ Paul Middleton
+Paul Middleton
+Chief Financial Officer
+EX-101.SCH
+2
+plug-20260205.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+00000001 - Document - Cover
+link:presentationLink
+link:calculationLink
+link:definitionLink
+EX-101.LAB
+3
+plug-20260205_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+Cover [Abstract]
+Document Type
+Amendment Flag
+Amendment Description
+Document Registration Statement
+Document Annual Report
+Document Quarterly Report
+Document Transition Report
+Document Shell Company Report
+Document Shell Company Event Date
+Document Period Start Date
+Document Period End Date
+Document Fiscal Period Focus
+Document Fiscal Year Focus
+Current Fiscal Year End Date
+Entity File Number
+Entity Registrant Name
+Entity Central Index Key
+Entity Primary SIC Number
+Entity Tax Identification Number
+Entity Incorporation, State or Country Code
+Entity Address, Address Line One
+Entity Address, Address Line Two
+Entity Address, Address Line Three
+Entity Address, City or Town
+Entity Address, State or Province
+Entity Address, Country
+Entity Address, Postal Zip Code
+Country Region
+City Area Code
+Local Phone Number
+Extension
+Written Communications
+Soliciting Material
+Pre-commencement Tender Offer
+Pre-commencement Issuer Tender Offer
+Title of 12(b) Security
+No Trading Symbol Flag
+Trading Symbol
+Security Exchange Name
+Title of 12(g) Security
+Security Reporting Obligation
+Annual Information Form
+Audited Annual Financial Statements
+Entity Well-known Seasoned Issuer
+Entity Voluntary Filers
+Entity Current Reporting Status
+Entity Interactive Data Current
+Entity Filer Category
+Entity Small Business
+Entity Emerging Growth Company
+Elected Not To Use the Extended Transition Period
+Document Accounting Standard
+Other Reporting Standard Item Number
+Entity Shell Company
+Entity Public Float
+Entity Bankruptcy Proceedings, Reporting Current
+Entity Common Stock, Shares Outstanding
+Documents Incorporated by Reference [Text Block]
+EX-101.PRE
+4
+plug-20260205_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+XML
+6
+R1.htm
+IDEA: XBRL DOCUMENT
+v3.25.4
+Cover
+Feb. 05, 2026
+Cover [Abstract]
+Document Type
+8-K
+Amendment Flag
+false
+Document Period End Date
+Feb.  05,  2026
+Entity File Number
+1-34392
+Entity Registrant Name
+Plug Power Inc.
+Entity Central Index Key
+0001093691
+Entity Tax Identification Number
+22-3672377
+Entity Incorporation, State or Country Code
+DE
+Entity Address, Address Line One
+125 Vista Boulevard
+Entity Address, City or Town
+Slingerlands
+Entity Address, State or Province
+NY
+Entity Address, Postal Zip Code
+12159
+City Area Code
+518
+Local Phone Number
+782-7700
+Written Communications
+false
+Soliciting Material
+false
+Pre-commencement Tender Offer
+false
+Pre-commencement Issuer Tender Offer
+false
+Title of 12(b) Security
+Common
+    Stock, par value $0.01 per share
+Trading Symbol
+PLUG
+Security Exchange Name
+NASDAQ
+Entity Emerging Growth Company
+false
+X
+- Definition
+Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.
++ References
+No definition available.
++ Details
+ Name:
+dei_AmendmentFlag
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Area code of city
++ References
+No definition available.
++ Details
+ Name:
+dei_CityAreaCode
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Cover page.
++ References
+No definition available.
++ Details
+ Name:
+dei_CoverAbstract
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:stringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.
++ References
+No definition available.
++ Details
+ Name:
+dei_DocumentPeriodEndDate
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:dateItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
++ References
+No definition available.
++ Details
+ Name:
+dei_DocumentType
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:submissionTypeItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Address Line 1 such as Attn, Building Name, Street Name
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityAddressAddressLine1
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Name of the City or Town
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityAddressCityOrTown
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Code for the postal or zip code
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityAddressPostalZipCode
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Name of the state or province.
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityAddressStateOrProvince
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:stateOrProvinceItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
++ Details
+ Name:
+dei_EntityCentralIndexKey
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:centralIndexKeyItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Indicate if registrant meets the emerging growth company criteria.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
++ Details
+ Name:
+dei_EntityEmergingGrowthCompany
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityFileNumber
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:fileNumberItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Two-character EDGAR code representing the state or country of incorporation.
++ References
+No definition available.
++ Details
+ Name:
+dei_EntityIncorporationStateCountryCode
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:edgarStateCountryItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
++ Details
+ Name:
+dei_EntityRegistrantName
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
++ Details
+ Name:
+dei_EntityTaxIdentificationNumber
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:employerIdItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Local phone number for entity.
++ References
+No definition available.
++ Details
+ Name:
+dei_LocalPhoneNumber
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:normalizedStringItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 13e
+ -Subsection 4c
++ Details
+ Name:
+dei_PreCommencementIssuerTenderOffer
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 14d
+ -Subsection 2b
++ Details
+ Name:
+dei_PreCommencementTenderOffer
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Title of a 12(b) registered security.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b
++ Details
+ Name:
+dei_Security12bTitle
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:securityTitleItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Name of the Exchange on which a security is registered.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection d1-1
++ Details
+ Name:
+dei_SecurityExchangeName
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:edgarExchangeCodeItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 14a
+ -Subsection 12
++ Details
+ Name:
+dei_SolicitingMaterial
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Trading symbol of an instrument as listed on an exchange.
++ References
+No definition available.
++ Details
+ Name:
+dei_TradingSymbol
+ Namespace Prefix:
+dei_
+ Data Type:
+dei:tradingSymbolItemType
+ Balance Type:
+na
+ Period Type:
+duration
+X
+- Definition
+Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.
++ References
+Reference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ -Section 425
++ Details
+ Name:
+dei_WrittenCommunications
+ Namespace Prefix:
+dei_
+ Data Type:
+xbrli:booleanItemType
+ Balance Type:
+na
+ Period Type:
+duration
+XML
+7
+Show.js
+IDEA: XBRL DOCUMENT
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission.  Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+XML
+8
+report.css
+IDEA: XBRL DOCUMENT
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+/* DefRef Styles */
+.report table.authRefData{
+	background-color: #def;
+	border: 2px solid #2F4497;
+	font-size: 1em;
+	position: absolute;
+}
+.report table.authRefData a {
+	display: block;
+	font-weight: bold;
+}
+.report table.authRefData p {
+	margin-top: 0px;
+}
+.report table.authRefData .hide {
+	background-color: #2F4497;
+	padding: 1px 3px 0px 0px;
+	text-align: right;
+}
+.report table.authRefData .hide a:hover {
+	background-color: #2F4497;
+}
+.report table.authRefData .body {
+	height: 150px;
+	overflow: auto;
+	width: 400px;
+}
+.report table.authRefData table{
+	font-size: 1em;
+}
+/* Report Styles */
+.pl a, .pl a:visited {
+	color: black;
+	text-decoration: none;
+}
+/* table */
+.report {
+	background-color: white;
+	border: 2px solid #acf;
+	clear: both;
+	color: black;
+	font: normal 8pt Helvetica, Arial, san-serif;
+	margin-bottom: 2em;
+}
+.report hr {
+	border: 1px solid #acf;
+}
+/* Top labels */
+.report th {
+	background-color: #acf;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+.report th.void	{
+	background-color: transparent;
+	color: #000000;
+	font: bold 10pt Helvetica, Arial, san-serif;
+	text-align: left;
+}
+.report .pl {
+	text-align: left;
+	vertical-align: top;
+	white-space: normal;
+	width: 200px;
+	white-space: normal; /* word-wrap: break-word; */
+}
+.report td.pl a.a {
+	cursor: pointer;
+	display: block;
+	width: 200px;
+	overflow: hidden;
+}
+.report td.pl div.a {
+	width: 200px;
+}
+.report td.pl a:hover {
+	background-color: #ffc;
+}
+/* Header rows... */
+.report tr.rh {
+	background-color: #acf;
+	color: black;
+	font-weight: bold;
+}
+/* Calendars... */
+.report .rc {
+	background-color: #f0f0f0;
+}
+/* Even rows... */
+.report .re, .report .reu {
+	background-color: #def;
+}
+.report .reu td {
+	border-bottom: 1px solid black;
+}
+/* Odd rows... */
+.report .ro, .report .rou {
+	background-color: white;
+}
+.report .rou td {
+	border-bottom: 1px solid black;
+}
+.report .rou table td, .report .reu table td {
+	border-bottom: 0px solid black;
+}
+/* styles for footnote marker */
+.report .fn {
+	white-space: nowrap;
+}
+/* styles for numeric types */
+.report .num, .report .nump {
+	text-align: right;
+	white-space: nowrap;
+}
+.report .nump {
+	padding-left: 2em;
+}
+.report .nump {
+	padding: 0px 0.4em 0px 2em;
+}
+/* styles for text types */
+.report .text {
+	text-align: left;
+	white-space: normal;
+}
+.report .text .big {
+	margin-bottom: 1em;
+	width: 17em;
+}
+.report .text .more {
+	display: none;
+}
+.report .text .note {
+	font-style: italic;
+	font-weight: bold;
+}
+.report .text .small {
+	width: 10em;
+}
+.report sup {
+	font-style: italic;
+}
+.report .outerFootnotes {
+	font-size: 1em;
+}
+XML
+10
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+3.25.4
+html
+1
+22
+1
+false
+0
+0
+false
+0
+false
+false
+R1.htm
+00000001 - Document - Cover
+Sheet
+http://plugpoweinc/role/Cover
+Cover
+Cover
+1
+false
+false
+All Reports
+Book
+All Reports
+plug-20260205.xsd
+plug-20260205_lab.xml
+plug-20260205_pre.xml
+tm265369d1_8k.htm
+http://xbrl.sec.gov/dei/2025
+true
+false
+JSON
+12
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+{
+ "version": "2.2",
+ "instance": {
+  "tm265369d1_8k.htm": {
+   "nsprefix": "plug",
+   "nsuri": "http://plugpoweinc/20260205",
+   "dts": {
+    "schema": {
+     "local": [
+      "plug-20260205.xsd"
+     ],
+     "remote": [
+      "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+      "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+      "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+      "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+      "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+      "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+      "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+      "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+      "https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+      "https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+      "https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+      "https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+      "https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+      "https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+      "https://xbrl.sec.gov/country/2025/country-2025.xsd",
+      "https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+      "https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+     ]
+    },
+    "labelLink": {
+     "local": [
+      "plug-20260205_lab.xml"
+     ]
+    },
+    "presentationLink": {
+     "local": [
+      "plug-20260205_pre.xml"
+     ]
+    },
+    "inline": {
+     "local": [
+      "tm265369d1_8k.htm"
+     ]
+    }
+   },
+   "keyStandard": 22,
+   "keyCustom": 0,
+   "axisStandard": 0,
+   "axisCustom": 0,
+   "memberStandard": 0,
+   "memberCustom": 0,
+   "hidden": {
+    "total": 2,
+    "http://xbrl.sec.gov/dei/2025": 2
+   },
+   "contextCount": 1,
+   "entityCount": 1,
+   "segmentCount": 0,
+   "elementCount": 59,
+   "unitCount": 0,
+   "baseTaxonomies": {
+    "http://xbrl.sec.gov/dei/2025": 22
+   },
+   "report": {
+    "R1": {
+     "role": "http://plugpoweinc/role/Cover",
+     "longName": "00000001 - Document - Cover",
+     "shortName": "Cover",
+     "isDefault": "true",
+     "groupType": "document",
+     "subGroupType": "",
+     "menuCat": "Cover",
+     "order": "1",
+     "firstAnchor": {
+      "contextRef": "AsOf2026-02-05",
+      "name": "dei:DocumentType",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "b",
+       "p",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "tm265369d1_8k.htm",
+      "first": true,
+      "unique": true
+     },
+     "uniqueAnchor": {
+      "contextRef": "AsOf2026-02-05",
+      "name": "dei:DocumentType",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "b",
+       "p",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "tm265369d1_8k.htm",
+      "first": true,
+      "unique": true
+     }
+    }
+   },
+   "tag": {
+    "dei_AmendmentDescription": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AmendmentDescription",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Amendment Description",
+        "documentation": "Description of changes contained within amended document."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_AmendmentFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AmendmentFlag",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Amendment Flag",
+        "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_AnnualInformationForm": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AnnualInformationForm",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Annual Information Form",
+        "documentation": "Boolean flag with value true on a form if it is an annual report containing an annual information form."
+       }
+      }
+     },
+     "auth_ref": [
+      "r14"
+     ]
+    },
+    "dei_AuditedAnnualFinancialStatements": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AuditedAnnualFinancialStatements",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Audited Annual Financial Statements",
+        "documentation": "Boolean flag with value true on a form if it is an annual report containing audited financial statements."
+       }
+      }
+     },
+     "auth_ref": [
+      "r14"
+     ]
+    },
+    "dei_CityAreaCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CityAreaCode",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "City Area Code",
+        "documentation": "Area code of city"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CountryRegion": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CountryRegion",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Country Region",
+        "documentation": "Region code of country"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CoverAbstract": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CoverAbstract",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Cover [Abstract]",
+        "documentation": "Cover page."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CurrentFiscalYearEndDate": {
+     "xbrltype": "gMonthDayItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CurrentFiscalYearEndDate",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Current Fiscal Year End Date",
+        "documentation": "End date of current fiscal year in the format --MM-DD."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentAccountingStandard": {
+     "xbrltype": "accountingStandardItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentAccountingStandard",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Accounting Standard",
+        "documentation": "The basis of accounting the registrant has used to prepare the financial statements included in this filing This can either be 'U.S. GAAP', 'International Financial Reporting Standards', or 'Other'."
+       }
+      }
+     },
+     "auth_ref": [
+      "r13"
+     ]
+    },
+    "dei_DocumentAnnualReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentAnnualReport",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Annual Report",
+        "documentation": "Boolean flag that is true only for a form used as an annual report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r11",
+      "r13",
+      "r14"
+     ]
+    },
+    "dei_DocumentFiscalPeriodFocus": {
+     "xbrltype": "fiscalPeriodItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentFiscalPeriodFocus",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Fiscal Period Focus",
+        "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentFiscalYearFocus": {
+     "xbrltype": "gYearItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentFiscalYearFocus",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Fiscal Year Focus",
+        "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentPeriodEndDate": {
+     "xbrltype": "dateItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentPeriodEndDate",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Period End Date",
+        "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentPeriodStartDate": {
+     "xbrltype": "dateItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentPeriodStartDate",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Period Start Date",
+        "documentation": "The start date of the period covered in the document, in YYYY-MM-DD format."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentQuarterlyReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentQuarterlyReport",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Quarterly Report",
+        "documentation": "Boolean flag that is true only for a form used as an quarterly report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r12"
+     ]
+    },
+    "dei_DocumentRegistrationStatement": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentRegistrationStatement",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Registration Statement",
+        "documentation": "Boolean flag that is true only for a form used as a registration statement."
+       }
+      }
+     },
+     "auth_ref": [
+      "r0"
+     ]
+    },
+    "dei_DocumentShellCompanyEventDate": {
+     "xbrltype": "dateItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentShellCompanyEventDate",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Shell Company Event Date",
+        "documentation": "Date of event requiring a shell company report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r13"
+     ]
+    },
+    "dei_DocumentShellCompanyReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentShellCompanyReport",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Shell Company Report",
+        "documentation": "Boolean flag that is true for a Shell Company Report pursuant to section 13 or 15(d) of the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r13"
+     ]
+    },
+    "dei_DocumentTransitionReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentTransitionReport",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Transition Report",
+        "documentation": "Boolean flag that is true only for a form used as a transition report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r15"
+     ]
+    },
+    "dei_DocumentType": {
+     "xbrltype": "submissionTypeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentType",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Type",
+        "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentsIncorporatedByReferenceTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentsIncorporatedByReferenceTextBlock",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Documents Incorporated by Reference [Text Block]",
+        "documentation": "Documents incorporated by reference."
+       }
+      }
+     },
+     "auth_ref": [
+      "r3"
+     ]
+    },
+    "dei_EntityAddressAddressLine1": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressAddressLine1",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, Address Line One",
+        "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressAddressLine2": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressAddressLine2",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, Address Line Two",
+        "documentation": "Address Line 2 such as Street or Suite number"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressAddressLine3": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressAddressLine3",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, Address Line Three",
+        "documentation": "Address Line 3 such as an Office Park"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressCityOrTown": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressCityOrTown",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, City or Town",
+        "documentation": "Name of the City or Town"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressCountry": {
+     "xbrltype": "countryCodeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressCountry",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, Country",
+        "documentation": "ISO 3166-1 alpha-2 country code."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressPostalZipCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressPostalZipCode",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, Postal Zip Code",
+        "documentation": "Code for the postal or zip code"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressStateOrProvince": {
+     "xbrltype": "stateOrProvinceItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressStateOrProvince",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, State or Province",
+        "documentation": "Name of the state or province."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityBankruptcyProceedingsReportingCurrent": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityBankruptcyProceedingsReportingCurrent",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Bankruptcy Proceedings, Reporting Current",
+        "documentation": "For registrants involved in bankruptcy proceedings during the preceding five years, the value Yes indicates that the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court; the value No indicates the registrant has not. Registrants not involved in bankruptcy proceedings during the preceding five years should not report this element."
+       }
+      }
+     },
+     "auth_ref": [
+      "r6"
+     ]
+    },
+    "dei_EntityCentralIndexKey": {
+     "xbrltype": "centralIndexKeyItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityCentralIndexKey",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Central Index Key",
+        "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "dei_EntityCommonStockSharesOutstanding": {
+     "xbrltype": "sharesItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityCommonStockSharesOutstanding",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Common Stock, Shares Outstanding",
+        "documentation": "Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityCurrentReportingStatus": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityCurrentReportingStatus",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Current Reporting Status",
+        "documentation": "Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityEmergingGrowthCompany": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityEmergingGrowthCompany",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Emerging Growth Company",
+        "documentation": "Indicate if registrant meets the emerging growth company criteria."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "dei_EntityExTransitionPeriod": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityExTransitionPeriod",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Elected Not To Use the Extended Transition Period",
+        "documentation": "Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards."
+       }
+      }
+     },
+     "auth_ref": [
+      "r19"
+     ]
+    },
+    "dei_EntityFileNumber": {
+     "xbrltype": "fileNumberItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityFileNumber",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity File Number",
+        "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityFilerCategory": {
+     "xbrltype": "filerCategoryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityFilerCategory",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Filer Category",
+        "documentation": "Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "dei_EntityIncorporationStateCountryCode": {
+     "xbrltype": "edgarStateCountryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityIncorporationStateCountryCode",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Incorporation, State or Country Code",
+        "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityInteractiveDataCurrent": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityInteractiveDataCurrent",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Interactive Data Current",
+        "documentation": "Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)."
+       }
+      }
+     },
+     "auth_ref": [
+      "r16"
+     ]
+    },
+    "dei_EntityPrimarySicNumber": {
+     "xbrltype": "sicNumberItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityPrimarySicNumber",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Primary SIC Number",
+        "documentation": "Primary Standard Industrial Classification (SIC) Number for the Entity."
+       }
+      }
+     },
+     "auth_ref": [
+      "r14"
+     ]
+    },
+    "dei_EntityPublicFloat": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityPublicFloat",
+     "crdr": "credit",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Public Float",
+        "documentation": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityRegistrantName": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityRegistrantName",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Registrant Name",
+        "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "dei_EntityShellCompany": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityShellCompany",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Shell Company",
+        "documentation": "Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "dei_EntitySmallBusiness": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntitySmallBusiness",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Small Business",
+        "documentation": "Indicates that the company is a Smaller Reporting Company (SRC)."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "dei_EntityTaxIdentificationNumber": {
+     "xbrltype": "employerIdItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityTaxIdentificationNumber",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Tax Identification Number",
+        "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "dei_EntityVoluntaryFilers": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityVoluntaryFilers",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Voluntary Filers",
+        "documentation": "Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityWellKnownSeasonedIssuer": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityWellKnownSeasonedIssuer",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Well-known Seasoned Issuer",
+        "documentation": "Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A."
+       }
+      }
+     },
+     "auth_ref": [
+      "r17"
+     ]
+    },
+    "dei_Extension": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "Extension",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Extension",
+        "documentation": "Extension number for local phone number."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_LocalPhoneNumber": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "LocalPhoneNumber",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Local Phone Number",
+        "documentation": "Local phone number for entity."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_NoTradingSymbolFlag": {
+     "xbrltype": "trueItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "NoTradingSymbolFlag",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "No Trading Symbol Flag",
+        "documentation": "Boolean flag that is true only for a security having no trading symbol."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_OtherReportingStandardItemNumber": {
+     "xbrltype": "otherReportingStandardItemNumberItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "OtherReportingStandardItemNumber",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Other Reporting Standard Item Number",
+        "documentation": "\"Item 17\" or \"Item 18\" specified when the basis of accounting is neither US GAAP nor IFRS."
+       }
+      }
+     },
+     "auth_ref": [
+      "r13"
+     ]
+    },
+    "dei_PreCommencementIssuerTenderOffer": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "PreCommencementIssuerTenderOffer",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Pre-commencement Issuer Tender Offer",
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r7"
+     ]
+    },
+    "dei_PreCommencementTenderOffer": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "PreCommencementTenderOffer",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Pre-commencement Tender Offer",
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r9"
+     ]
+    },
+    "dei_Security12bTitle": {
+     "xbrltype": "securityTitleItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "Security12bTitle",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Title of 12(b) Security",
+        "documentation": "Title of a 12(b) registered security."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_Security12gTitle": {
+     "xbrltype": "securityTitleItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "Security12gTitle",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Title of 12(g) Security",
+        "documentation": "Title of a 12(g) registered security."
+       }
+      }
+     },
+     "auth_ref": [
+      "r5"
+     ]
+    },
+    "dei_SecurityExchangeName": {
+     "xbrltype": "edgarExchangeCodeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "SecurityExchangeName",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Security Exchange Name",
+        "documentation": "Name of the Exchange on which a security is registered."
+       }
+      }
+     },
+     "auth_ref": [
+      "r4"
+     ]
+    },
+    "dei_SecurityReportingObligation": {
+     "xbrltype": "securityReportingObligationItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "SecurityReportingObligation",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Security Reporting Obligation",
+        "documentation": "15(d), indicating whether the security has a reporting obligation under that section of the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r10"
+     ]
+    },
+    "dei_SolicitingMaterial": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "SolicitingMaterial",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Soliciting Material",
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r8"
+     ]
+    },
+    "dei_TradingSymbol": {
+     "xbrltype": "tradingSymbolItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "TradingSymbol",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Trading Symbol",
+        "documentation": "Trading symbol of an instrument as listed on an exchange."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_WrittenCommunications": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "WrittenCommunications",
+     "presentation": [
+      "http://plugpoweinc/role/Cover"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Written Communications",
+        "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r18"
+     ]
+    }
+   }
+  }
+ },
+ "std_ref": {
+  "r0": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12"
+  },
+  "r1": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b"
+  },
+  "r2": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b-2"
+  },
+  "r3": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b-23"
+  },
+  "r4": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "d1-1"
+  },
+  "r5": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "g"
+  },
+  "r6": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12, 13, 15d"
+  },
+  "r7": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "13e",
+   "Subsection": "4c"
+  },
+  "r8": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "14a",
+   "Subsection": "12"
+  },
+  "r9": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "14d",
+   "Subsection": "2b"
+  },
+  "r10": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "15",
+   "Subsection": "d"
+  },
+  "r11": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 10-K",
+   "Number": "249",
+   "Section": "310"
+  },
+  "r12": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 10-Q",
+   "Number": "240",
+   "Section": "308",
+   "Subsection": "a"
+  },
+  "r13": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Number": "249",
+   "Section": "220",
+   "Subsection": "f"
+  },
+  "r14": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Number": "249",
+   "Section": "240",
+   "Subsection": "f"
+  },
+  "r15": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Forms 10-K, 10-Q, 20-F",
+   "Number": "240",
+   "Section": "13",
+   "Subsection": "a-1"
+  },
+  "r16": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-T",
+   "Number": "232",
+   "Section": "405"
+  },
+  "r17": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Securities Act",
+   "Number": "230",
+   "Section": "405"
+  },
+  "r18": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Securities Act",
+   "Number": "230",
+   "Section": "425"
+  },
+  "r19": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Securities Act",
+   "Number": "7A",
+   "Section": "B",
+   "Subsection": "2"
+  }
+ }
+}
+ZIP
+13
+0001104659-26-010793-xbrl.zip
+IDEA: XBRL DOCUMENT
+begin 644 0001104659-26-010793-xbrl.zip
+M4$L#!!0    ( &IH15QG#9V")@,  -\+   1    <&QU9RTR,#(V,#(P-2YX
+M
+],_T'U:\8VEX0T!)))R-"A0YH.Y-:\=(2\$$UDR9'D0/KU
+ME7SA9J! 6YZDW7/.[DJ[,HWS2
+]ZG:GLL]:1JOO^>#SVN'C#8R%?E$=$
+MN)U@7V,=JZE::5+*?MO1KZDB4_(!OC@:'T]Z]'$$_'/
+( YOGV_B$@E##K]RZ\DNGP0 6FE(1N*/$.(D;D+KIJ.K2\K
+M;USUA!SYE5*I[#]>=_L)SDF!]0FC_&45O'QR
+1& /EQ()J
+MI4K) (%!"%RWA0RO8(AC9O)XC3&C0PJ!@S26(]"VQU2$"6P6R_L4
+W?=)T%+7/GY/9GB4,FXX]
+_SI^F;,_T
+M40ZQ$39,7W)'RR>5!
+:XUN>6*6RU[$Q7,,MTEB=D)[)9$SMLCB34/^:KX:AW<+FP+'6T;=,T'
+M86/0E1P?F%:Y9>\4YC\??Y%#(K-3$@O7&6CI6PDK>NB6RN82UZ?S)V:R5WLU
+M 1$QU_)]ET:8I^2;_6YC]N'?[B)R?'H)]K_ OF'WZ()B\%4MT/!3-;/\#5!+
+M P04    " !J:$5<51H H/T*  !_A@  %0   '!L=6
+V[:)8T!+C
+M"*')@)(3^]^7E$19HG@D)45)SL6,1WP/]5)\3%)?QY]^W&TH>B$B33@['QT?
+M?1PAPB(>)VQ]/OJZ&%\L9O/Y"*499C&FG)'S$>.C'W_XXQ^0_//I3^,QNDH(
+MC<_0%QZ-Y^R!?X]N\(:
+:8D([*@V/$9
+M^N[H;QB-QP.J_498S,77^WE5[6.6/:=GD\GKZ^L1XR_XE8NG]"CBFV$5+C*<
+M;=.JMH^[C^6?(OP33=C3F?IKA5."Y.%BZ=DN3
+!7FPFZ%"3%3\A)$USDBL=G2J=G3\G=K1G\O-UWA%
+MZ @II>0#;-=IHZXR:.+:[!T1"8\OV?M
+[,OOCLC^AP;4XYTW8
+=\1/\2Y/])RF"?O.]*UR/^+[:QM^
+&VQY2[ZF*K+=W'C<(@.MGFR.SE2H.4
+MR%
+/'/1A4]3YIH:
+MFTD3EKHF*$8LQD T"BTJQ)Z(^,=6GK$30?>]4+24KKD K)IH&+*@Z+![ P&I
+MY'X960K,TD0-8+V0M*7.3S< LZU3#T,7%"> .?B4I-+[)67Q2"A5MP,PZQ]0
+M;&+7M,"&35[:RJ"( >V!S.01J P)!YO+%[4ZE\ND@8VMZ7W"T[+=Q4\E#A8A
+MT^% BO(PI.(\D52[#='#4$OIFA[ JLF-(0N*&+LWD)5"CG*]?T@N63P(D4KG
+M!Q##IAV/4A0@'$UG?6A(M4\PKI(TPK3P
+NEY?9> 9>HA1K YILPM 7:330J:FH!(L!H#:#AH
+M\V=*O1 QDR.3P'3.8K+[F>S!=K5T;ID ;#:A,$0!46%W!F!1BE&N1E+N!8P[
+MD6RPV"^2J&>J: O=H@$9;;)AJ@*" [ &T%&JT6(^\SF3+/%N'DM0DX>D>!Z\
+MAQ)0[Q:6'MM-9@!Q0.AT.P0(DD&H&>43I#F+N'CFM<<=9GPK!\#]C,?P"J4G
+MRBU4@YK01*LS)"# AO@$,&N$?BB>24%
+:#2\I_KA)%C
+ML/U6K5NZ.NPVF;(( R()=@?P4RH_Z ](Q:!;%@HTTS
+H?FNE0:*9!0S-]
+M#S3+5QX(-"=O:.J)?VA.AD)S$C0T)^^"1G:\U[%F)C_>BB5_M3V<#2J](-.V
+M:@7F( L/EY:W/EA4@%K/J!"?F.0+JUMQ)_A+PB)XR0S)O0 #F+928VC#0\=N
+ML(^?:D&LX[R.-<6BO/=+HF5^1IFF2?L04VC"@Z1IK'=P*=0^D;CC:8;IOY/G
+MSA-QN]@+'E;#5D@:RO!0L=GK Z:(03+(QXEUB:NZH6%]E
+%"+7W:P8%00#(T*SV%DG6TQ5?5PK"Z.+VX9:/9Q_KZ7&
+MQQ=997>A=X^
+AHRIWO;+ ^BQP%39J_G,I3K/%V-5QDF4OOP72MS
+M-K.;=JJ)7!<$T;NFF]8TK
+JESMMZAZW
+MBH+H_2YG)@FE%C7%CK%8<)I$29:P]2_RY%,DV-8JF\@5$+!!34-;$00*H"V3
+M@X,0::5C".X$41 2V1'Y2X JL9"X?7BPSO9=8E=0]!O6<,#*("#IM6?"(@/&
+M42T"%2$HC_&+S3Q-MT2\"1Y+B">$0/, 2"U]B#A!)GNA*@)]LK4@T5;.C_OC
+MZ6J99-1V
+4*@@Z+F@.+) @48%\F#3<
+;9$B1(Y+MRN:K#&0
+MG+!3[1J*#LLF'Q9I4*C _L QHPI!AQC7&2WS%&
+FPW'YH!Q$'@-,0A\.B,"AH_J2BDP\HK85Y(^L;IEF58Y.^2
+M"]O(!.C
+X,(*02HT+MYP7M(GM$M<@J?G<(;" D=_RZ=J=I
+MXZUMJS8@9CH-0N]PESD_#FOC(LK3*Y894;\7D;R0+SC#I3>PO9#<]4N57:;-
+MMREMVH 0ZC0(OC]9Q:A4,5@SY2UEC)C)I=::=SPE;JC<)XYI66SGCJDD >%A
+M\]61048@K?7"PF*#*?V\31-&4G@B,E1N6;!:;++0D 3$@LT7P$(N15KKA87+
+M#1%K.;W])/AK]ECF9P7;!JC=LM%IN
+(:6''U-"
+";HL?X:NG@F^
+MJ,?7+XU$D7HAHEB5LQ@+&T)=8N>_.@(:;OWV2$L9!$B]]N#?(:DBD YQ3,VM
+M9%C4S^-R$_.,;,"W'?I#7!$TU+SFJ$\?!$T#39I,Y6'-D^L\$*E(G]F,ZLGM
+MX25>0^1X96PQ:"R,:XH@& %M0
+SH_2P]9 $G\>7]/
+M'HA0[QTLR2[[+'?TU'&&,2#6]=G;X.:8)W.]@4% ^%:WT*E>BNH5H)5Z1JRL
+M OVF*D%Y+;;?+Z]ONI:?Y&:]2?ZUPBF16_X+4$L#!!0    ( &IH15RRDEED
+M60<  -)7   5    <&QU9RTR,#(V,#(P-5]P
+&ULS9Q=<]HX%(;O=V;_
+M@Y>])@32=C
+J-),BLM6]^2T%5$1RX2)V67KZ[A]-1Z,1JU(&R(2
+MPJ6@ERTA6^_^^O67R/Y<_-9N1T-&>=*//LBX/1)3^3;Z0E+:CSY2014Q4KV-
+MOA&>N2-RR#A5T4"F"TX-M5\4!?>C-R>O2-1N [+]1D4BU=?[T3;;N3$+W>]T
+MELOEB9!/9"G5HSZ)90K+<&R(R?0VM]/5Z>:G2'[!F7CLNU\3HFED<0G=7VEV
+MV7+E;HI=GIU(->OT3D^[G7\^WXSC.4U)FPF'+::M,I7+I2I=]_S\O)-_6TJ/
+ME*N)XF499YVR.MN<[;
+6TSD5;C_VJ6L[0ZUN[WV
+M6?=DI9-6"3\GJ"2G]W0:Y3;[9KVP/4DSUQ%:FV-S1:>7K07/9C:CWIO3WNEK
+ME\WO VG[9RMR&=AFWU;7"1=R29F(.^Z[SD;7V2MVH:BFPN1.;^R!O?+IRMC>
+M1).R!BZ;VOPW&3#CM)NNTHW:KE]EJ2W*?BR4FWJ4->$RWBN<._Y2[;LO^W).
+M6=/X9":?.@EEEG;OM?O@T!18[#\_\H*N)MHH$ILR)TXFE.?Y_[": TFG@5J5
+M)!YLCM65VE<
+^UU'&WW"@Z"Z)L1NUXSOBVD:=*
+MICXZ&Q+24]%=4+:(9FA>V?(35X
+9($72+U )70F2$
+MW].%5#7@]Y5 WJ\P>5=Y0\+\=T:4H8JO(:2/Q$#8KS%A>QPB\7Y01&CF^$"
+M'ZN!Q-^@WGAX/"(A'\\IYRY^(P+4RZOT0.Q_8&+W^WP!X*^?W/7=7EK@['>2
+M /'_^5+P'[E%:H$[JIA,["5= =@?B8'4SS&I>QRB\KX6"93V5@J.?_!A']A#
+M0CUD.B:\J-'0'M-AW!5R*'*4F+/6)BKV?RE18.@[8BARE#"TQF+#P >94GN5
+M"8XJ?C44.4H 6F>R8>;7PC"S=@_\OV3IY.>#TWW6QRHH8Y2@TV<*A6WYI$$8
+M-Y$1XGNHA#)&B35#YE X#ZP?1?A()'3UB:Y#H(^D4-(H,6;0'@KJ.\52HM9C
+M%M
+/,9UE$:Y2I)+"Z]^7/#!.V&FJ)2#IXCPFN
+M@,T7@KWW/.P].':4.+36Y@O!?O8\[&=P["BQ:*U-3.P#^_%6/
+>RQ"LH5)9+TF6IZX'7KB+7WU-_Y
+M&KR"#658/;31,,;OBAE;@X%,TTQLGM%X9L4\4BA>E/ O:*]AU&/)6
+9VB
+U-'MR.&<\H
+JE5# *)%>R!S:V#L#C;VS9XZ]*!&?SQ02VV)MN#VC;B>
+TVCSA)F:%)4
+M:<@$$;$-J;;[VCS1>7TJ: /@[*$$FD9YO/^=
+IX3S]YEF@NK@V'(@A$)&7/-::0T%\G5*U
+#\D8,3*N,X>R9RB:
+Z"](_-WK1Y/WZGDZI
+V#^D8A
+M,(:*9KKH'/FZL0?
+^1_4$L#!!0    ( &IH15P9M''5+A8
+M 'UP   1    =&TR-C4S-CED,5\X:RYH=&WM/6M;XDK2W_D5_;+O[#C/RBTH
+M*"K[(*##48$!'$>_^#1) ]&09'+A
+/CY=#.U;FAH:BM_X2/*9%=#P5%E." XN9,3#T% G=NBN&.KX
+M0U7;V)%RQ8?H$",6$V;KQN:09E@A^W'<.5\.=^+'+X=F'(OJ]L"PQM0!$2*D
+MW5162DF% )"4S>00(/B<'AJ31^'LI?(Y'\Z*<,(KQ<=]:B\XKK (NWV<\ !F
+M2+O^0-=.#2DU%X,'U.YSL-Z#Z&#+T)@=.YH_"0V7#5=WK'D\(=[#T 3;
+A0:;F#A>C\(-I3)FJRSBHD)6RNTFT&$:5
+.ZFBL?)@1/Q.'8^90
+M@O-3[*>K3HZ254-WF.ZD>G,3&"B+3T=)A\V<##>K#,S*")"'_Y=*D1.5:4J)
+M=)ES0)ITS$IDILP.2*/&?[G-2O7;R^XGJ79:J;3A!U)/4JD-)^<+M[BJV\#2
+M;OVE;0YE9V
+@((Z;8[HA:S
+M;Z5;[M $#)M_]P0P-:2D[8'*KQ"T#G;?4.;$=N8:.TH.0.5*))
+$P$X+\*[AV@KAB52597NI*'.),<,U(AL4&S(*(RFS^'+UDR>;A
+M#\@A/*:51A92AM:6\@TE/;.5I/?8 :=PE+35L:DQ= 0>FA!D@
+XOE"(XOWW),_DO$%^U\NOE85?#!0F44XX2PVDE0;9V'>1"
+4E]3Z
+2:"I=.((@$+!\&M,!1G
+M
+-RQ@DIA^K%'YG@ ,8AN:JAP0[Z$/23S/+9_S==OJWQ#]
+6D FM(?&J_+--JH>@"RKW@E3BF!7Q>S%W[[&8Z^/E"$GV@*!#
+M2E%-'<)7,OA19@$9_?)EL]&KUTBW5^G5NX>9_JLC[-:KEYU&KU'ODDJS1NH_
+MJE\KS=,ZJ;8N+AK=;J/5?("*1U.-3:FXJG2_-IJGO59SF]32U32!\+FS[W/^
+MM?$_)'U/[CXI83)6K2&B[2]&8SS^EU:&DUGPL/$>8(1!M/3_>PQS[]3J9HA
+MNYB[89%S*R]J@V65\/?@[&K4UIS.V9D&,)^9Q.T'D[@@SF1Y+W463=H6MOG*
+MBO*AE>#%;!'\0:?>[)%.O=WJ]-["^MNN9;M4=XACP$09>Q=BJ;D\,2R2V]U2
+MOOSS'WM2?O_@L&]!]FP,$LZ(X5C74AT5**C/Y!'5(5149(<8 Y+;S^_\&NFK
+MM/YB,,EE-XTF+\983)"1&QUF&I9#MOS/C$(ZQ&R'L D,)A9_S)0OI434[O,1
+MNV_S]+HN
+&G4*UIP=/E)#D#TK8Z2ZLPI*0!]#&-'"IW/@5JFAQU$
+M+AOG($+$)
+0M
+5120E/N1"6]&FI>!O,?G\Y%T-R/E$U!@SI,RM>J,KE96]J
+MRJ.;8^7Y+C:_*K,EWF0YE\KOY/>E_\F'RV<_))\>G36\SJO,]?LA89WVU)K3
+M+U[,Y?[SA173.E]#1+(L2:E\H2CEB\4-A0?_LY[@$%^=^5O<77!:H,8PH)ZP
+MR!V4$[:B\@KD>
+#[J:*]_KKK1KCL6KC&0%.$)KA'[?&1J?+*:F/3
+RE445XQ;%PW7+:D-U .YR32%BL^+QA?K7
+MI-DJOF(A4ER[] B1R3)J\+5AW7^(##
+6D0Z.R"F!>JGFE0C
+M;,9DUU$GV#2"6,7L/RX.;X'H."4HO\?"[R_WO]YJ%V9K73A#[UJQ&%UO=N.3
+MQL2QC>Q=2WJ^>P_MP 5Q)LN[N;TU[NS+6E=^;H!>M$>&_F#+H=/KG]/[NV_R
+MU^=7L5)H:R"*-UDN[DFI8C&;?<=6[K+)C+M:N>*!#2,U9B*91.=T;F--H+F8
+MS"4H
+)
+7^%T-@ \%1'#'B(V\'4A(P-
+M(A]N
+DSS9BBD/ ABE*0M)
+L]C++X(+ /XP(
+II(JMEYL
+MLG6HEFW&\,Q9^93IS*):HJ$#")>WG4@E+:4%Z5]*+R:JF$HR6BY&R\EXN49\
+MQ:JGB)X=
+LX+S$5.X4'+IJ5=58^3?S3B2%[$N;)4!T2+72]7
+M]XIT>TW8J5\V)S=WQ^.;7'R>>@5,04;9S][0[AN&QJC.#SM'XE5H%S*6:B&_
+MO8.U(0OSG"7+8GGJ 0:"@Y")&3AZ@>?MA*+L0%DJM#E\S"*!IRNV
+D0
+M*9]-P\ O(A5<9,2_)NY5^0;JF\?6&!SZ6N2L4[
+>Z']@ZZ%MI"6R7Y)11M"15\@P"[1LMR.S25DP**YA_B":O93C8M
+M1OZ7:YI_%*=M,70/^-8 /Q6'X
+^D!%?&1% 9R:HRB@G_Y>I8B5?'AFV[S'I4*0NU
+MB]:UXM9."N^AE#L/*.7* MY1-?,LM;,E/T$UO0E!U5R_\[!(JM?F[B^4?0;.
+M:8ITF5F0< ?7G%M:H)<[P])>-?W]*!LICW7=HCVVZ4AU6 K)9?C&WM2B9N3%
+MBY2/'K/U\!,.HQ1Y74,=TR$3;_\M2-_9>8L=FQZ^2NM+7?QD5!Z)WV0HINW'
+M>I6QW%@TQQ\^*[8IN!=GKI1]$^9:E'>/^!+YJ>GN?-PWM*W'.\"_)5??YL@.
+MG@I=I[',3U^7+/
+O31<_YSG-2G]O;FK*D-;PZ
+MJ5OR^%)][ZT:*;1Y&B4_6<9@[>VW=QU#OM\F)K7(A&HN(_^?36=SQ,377$>Q
+MY_X>5OQ-F+WY=LBS15?W1.>9L+#;>+E)M<'TKCYHRTKAW>46VA$.T0X)T/GE
+MZ6\EC9?RPB//':S9S?'5VT_IUI]XEW)[ROFQU9D-G[:K$]W:1B\5MZLM%>/,
+M+DA7$KR?K="?&^QE]_V3"B_!QBHU58=JG(\7U+IG3@CC[[;))\JIAJY@]@^)
+MZ)S(O(4-4^[)=,3X2<1(:UFU"3 32@>$.B1#RY@ZHP04$2:VFZE-%#90=7'\
+M/]#&R^[ZK>A "KY\0RI/MG!@\4#T\OS1@ R$;N+K [CK$:A'I'Y*6H68B'OY
+M:@D:ZY+EQ #P=#R3GU>
+&WLVHR/@N5X.U5XRY/*-XO$;1
+E2%YQ0_>UVEB\#_5P4WFU515[:-IA8[('15J:M'BB
+M4\
+C2G,+_ F>E=,R[/Z/FG4R8@-8.G"M2_!
+%>F+@.J[%E@3;?#[R4JB2ER) HB]M*5^VI"]^A>"_?4F\8RZP
+MQ 6QY)Q.L43@!+8]G2,YG\9TH*Q[13?PFRJC]/K**%0&/X*.0;#T
+]_%_Q^14>D
+M-]:17P=W3#'[!AX@>TR+:2K>609Q RAVM<5I,K!#OD$F,W6"=F\OCY@M(H4?
+M'?!^C&TAQ9F*QRRT.
+;H?)ZO/$2DA);R5
+M,* 3@TM[::$<_E(8VWXD 9JU>3I1L8. B:**,L9;%;%=/(2NHJ:)Y:(KX;K(
+M@C@ :0!%(@AQX%H\;P '9K@6MCQX,R(<$1$LE$9CU<'#FKQ4@H<."(D?\Q,G
+M5 AG'L/
+#Z\4L3+7Y!8X*)/G\R.)"-S#X[V#L-X.Q/Q&)_2#BGLML
+MA4)-NDA?
+A 65
+U3O^J$4E1AGE.G
+M(J(L9>.1G_#)-[SF%M7]T,.0)E_8MJ=?TH>62=3#A?(T?C4'1&7?@&N@^=QG
+MYB3.Y=U$,#1WQ%"\KV:9Q2'/=7[-,.
+")1*1/B4M:]!>6+R^'
+M,^%Z=<$W>+3"[ ^K1VWA>]":)JIWW-CMC_&,I@+A7M-X$T_57>:9'01K59A<
+M2!$2445P=0U%C&D\LP JP#?N,?Q8_EEU%!(V@"P%+U
+M M:&#'899P/&",IMD!&=L 1&KSESO)@(
+MLE P@/ [=PST>,!J _22'REQ'0AV1*..[^.6+K8@7"POT7*EW?VPFPZ7:!^6
+MI5B_C_'E!FP.5I:!M:$O[ISG5GL%3I[K[8D*GQH.+^[Y?GA0*-CJY-9/Z$,.
+M @&*L &9$YL@:L6[[\M>*B\X M15,!K=*T>6C\(6DDXTFM_KW5ZK(VZ\]"[
+MO"9?6^>U.G[9J9/+SFF]1GHMTJE7X.?7.JG53QK-1J_QO4[:G=:/:W%%YP5>
+ME(=06C"F Z//Z]\K\%6M5;W$9UURTC@'2%>-WE<.!NFL H:3R_/SZP3.;#3Q
+M0:-#8'BC4P="^DRF7M-WSMT 5F'J@O%JD-M]2.[X*OV([7D+KJW+B!SE@=@Y
+M]TP@,:9S8O0Y&MDPU45^"#0L63VP&*\Y\6:I(5L %@Z8>_DIZ]NJ@X^"=T@&
+MMU\5M#!.>4D<^\6_7) L!^Z@#EVWB;EG;$!)_!(J_TI\*PU9KX?P(]M<FV+-
+MJ *9CNT[9.^4-5W<5+)B7F@WV%A2H*B7'<,2 37Z.BA\C=+OHXL'>ULD>3$H
+M[0!*\8ZI"&&\IHL34LC-;FB<85^RT.Z5A.*Q14&>#'-1YDKBT1BV"*O\3RQ4
+M=-T-!%18:=!8MKV\9[KP7B$?!%3_Y4(VOB_RCVTAAN6:$HLU099F3'6 .%+-
+M=;6S*,<":WD\'B_6$DT,PL0F/&)_GXSI\8T&Z7\;#>&-AA<6XDOL7*R_A[IQ
+MVJST+CL/WGK][DH8O*E6M&8"3=/5HQ9Q!R-$.R.RY0L5%X1ZC/J*.",A7B+U
+MO+$-S!+A'!UZGXVH-L"=9 3$8YLW -,N5\<<%<$M.W2O9-.OWSU]^/3TYHW5
+MV-.I  E#_U%2$L?32+MU!3E<HUF-=!9?"LG*6QI/[PQ[O-G%QO+J];9Q9V^]
+MP[$P_GA>BAT2<9#]J(/TCX07 4;&SH#;=2&JJ(JB,0>3CQ=B5>QW;XFK.E+9
+M $L6[Y!$2^02OTN7^?'XF#\@+9._;U(BY_BF^@<)EV\2O#;Z*TQ[Q[?\E(UX
+M4WOQQYO87[.3.\4^&]Y7OHW,3$69W4DM_>Q[S3W6+D<G-Z-Z)^O^Z]MUMVC<
+MV;N3FT;FZLJZ-+*UB[_-S+^N?URK9Y+3K'^_T&8_V+<;W?K+.6M=?Y.[TK=L
+M,],]4\Z5]K0IR\5]H_#=OF[N3/<OYKVV,98OLY?Z3N;LQ''LRU'E_/[B9I3Y
+M*C=WQO*4W0^'DP*[5[7<4+XQOU_7Y\<W\^M3IV^<G&>^UJ3!]WOZM=#NC93[
+ML^SX/EO):JR]6RF>7ES?C;H_<\5Z;>K<:(8YO+C_-G3N_V[/?DZN],MV[[Y8
+M=>WVC:3\[&5.?TR/YU;G[&IZ="0XDL&_.<7_E)DSULK_ 5!+ 0(4 Q0    (
+M &IH15QG#9V")@,  -\+   1              "  0    !P;'5G+3(P,C8P
+M,C U+GAS9%!+ 0(4 Q0    ( &IH15Q5&@"@_0H  '^&   5
+M  "  54#  !P;'5G+3(P,C8P,C U7VQA8BYX;6Q02P$"% ,4    " !J:$5<
+MLI)99%D'  #25P  %0              @ &%#@  <&QU9RTR,#(V,#(P-5]P
+M<F4N>&UL4$L! A0#%     @ :FA%7!FT<=4N%@  ?7   !$
+M ( !$18  '1M,C8U,S8Y9#%?.&LN:'1M4$L%!@     $  0 ! $  &XL
+!  $!
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>XML
+<SEQUENCE>14
+<FILENAME>tm265369d1_8k_htm.xml
+<DESCRIPTION>IDEA: XBRL DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:dei="http://xbrl.sec.gov/dei/2025"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="plug-20260205.xsd" xlink:type="simple"/>
+    <context id="AsOf2026-02-05">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0001093691</identifier>
+        </entity>
+        <period>
+            <startDate>2026-02-05</startDate>
+            <endDate>2026-02-05</endDate>
+        </period>
+    </context>
+    <dei:AmendmentFlag contextRef="AsOf2026-02-05" id="Fact000003">false</dei:AmendmentFlag>
+    <dei:EntityCentralIndexKey contextRef="AsOf2026-02-05" id="Fact000004">0001093691</dei:EntityCentralIndexKey>
+    <dei:DocumentType contextRef="AsOf2026-02-05" id="Fact000009">8-K</dei:DocumentType>
+    <dei:DocumentPeriodEndDate contextRef="AsOf2026-02-05" id="Fact000010">2026-02-05</dei:DocumentPeriodEndDate>
+    <dei:EntityRegistrantName contextRef="AsOf2026-02-05" id="Fact000011">Plug Power Inc.</dei:EntityRegistrantName>
+    <dei:EntityIncorporationStateCountryCode contextRef="AsOf2026-02-05" id="Fact000012">DE</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityFileNumber contextRef="AsOf2026-02-05" id="Fact000013">1-34392</dei:EntityFileNumber>
+    <dei:EntityTaxIdentificationNumber contextRef="AsOf2026-02-05" id="Fact000014">22-3672377</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1 contextRef="AsOf2026-02-05" id="Fact000015">125 Vista Boulevard</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown contextRef="AsOf2026-02-05" id="Fact000016">Slingerlands</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressStateOrProvince contextRef="AsOf2026-02-05" id="Fact000017">NY</dei:EntityAddressStateOrProvince>
+    <dei:EntityAddressPostalZipCode contextRef="AsOf2026-02-05" id="Fact000018">12159</dei:EntityAddressPostalZipCode>
+    <dei:CityAreaCode contextRef="AsOf2026-02-05" id="Fact000019">518</dei:CityAreaCode>
+    <dei:LocalPhoneNumber contextRef="AsOf2026-02-05" id="Fact000020">782-7700</dei:LocalPhoneNumber>
+    <dei:WrittenCommunications contextRef="AsOf2026-02-05" id="Fact000021">false</dei:WrittenCommunications>
+    <dei:SolicitingMaterial contextRef="AsOf2026-02-05" id="Fact000022">false</dei:SolicitingMaterial>
+    <dei:PreCommencementTenderOffer contextRef="AsOf2026-02-05" id="Fact000023">false</dei:PreCommencementTenderOffer>
+    <dei:PreCommencementIssuerTenderOffer contextRef="AsOf2026-02-05" id="Fact000024">false</dei:PreCommencementIssuerTenderOffer>
+    <dei:Security12bTitle contextRef="AsOf2026-02-05" id="Fact000025">Common     Stock, par value $0.01 per share</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="AsOf2026-02-05" id="Fact000026">PLUG</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="AsOf2026-02-05" id="Fact000027">NASDAQ</dei:SecurityExchangeName>
+    <dei:EntityEmergingGrowthCompany contextRef="AsOf2026-02-05" id="Fact000028">false</dei:EntityEmergingGrowthCompany>
+</xbrl>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

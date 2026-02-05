@@ -1,0 +1,142 @@
+
+--- Item 1.01 ---
+
+Item 1.01
+Entry into a Material Definitive Agreement.
+Notes Offering
+On February 4, 2026, MKS Inc. (the “Company”) completed its previously announced private offering (the “Offering”) of €1.0 billion aggregate principal amount of senior notes due 2034 (the “Notes”). The Notes were sold in a private placement to persons reasonably believed to be qualified institutional buyers in reliance on Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”), and to
+non-U.S.
+persons outside the United States in reliance on Regulation S under the Securities Act.
+The Company used the net proceeds from the Offering, together with cash on hand, to prepay approximately $1.3 billion of the Company’s existing $2.2 billion senior secured U.S. dollar tranche B term loan (the “Existing USD Tranche B Term Loan” and such prepayment, the “USD Tranche B Term Loan Prepayment”).
+Indenture and the Notes
+On February 4, 2026, the Company and the Guarantors entered into an indenture (the “Indenture”) with respect to the Notes with U.S. Bank Trust Company, National Association, as trustee (the “Trustee”).
+Interest and Maturity
+Under the Indenture, the Notes bear interest at a rate of 4.250% per annum, with interest payable semiannually in arrears on February 15 and August 15 of each year, beginning on August 15, 2026. The Notes will mature on February 15, 2034, unless earlier redeemed or repurchased in accordance with their terms.
+Guarantees
+The Notes are unconditionally guaranteed, on a senior unsecured basis, jointly and severally, by the Company’s existing and future subsidiaries that guarantee the Company’s senior credit facilities or are required to become guarantors under certain circumstances and subject to certain exceptions (the “Guarantors”).
+Ranking
+The Notes and the guarantees are general senior unsecured obligations of the Company and the Guarantors. The Notes and guarantees will be:
+•
+pari passu
+in right of payment with any of the Company’s and the Guarantors’ existing and future unsubordinated indebtedness (including the Company’s senior credit facilities);
+•
+effectively subordinated to the Company’s and the Guarantors’ existing and future secured indebtedness (including the Company’s senior credit facilities) to the extent of the value of the assets securing such indebtedness;
+•
+senior in right of payment to any of the Company’s and the Guarantors’ future subordinated indebtedness;
+•
+structurally senior to any existing and future indebtedness of the Company’s that is not guaranteed by the Guarantors (including the Company’s convertible notes due 2030); and
+•
+structurally subordinated to any existing and future indebtedness and other liabilities of the Company’s and the Guarantors’ subsidiaries that are not and do not become Guarantors.
+Optional Redemption
+At any time prior to February 15, 2029, the Company may redeem the Notes in whole or in part at a redemption price equal to 100% of their principal amount, plus a make-whole premium, plus accrued and unpaid interest, if any, and additional amounts, if any, to, but excluding, the redemption date.
+At any time and from time to time on or after February 15, 2029, the Company may redeem for cash all or any portion of the Notes at a redemption price equal to the percentage of principal amount set forth below, plus accrued and unpaid interest, if any, and additional amounts, if any, to, but excluding, the applicable redemption date, if redeemed during the twelve-month period beginning on February 15 of the year indicated below:
+Year
+Percentage
+2029
+102.125
+%
+2030
+101.0625
+%
+2031 and thereafter
+100.000
+%
+At any time and from time to time prior to February 15, 2029, the Company may redeem up to 40% of the original aggregate principal amount of the Notes using the net cash proceeds of certain equity offerings at a redemption price equal to 104.250%.
+In the event of certain developments affecting taxation, the Company may elect to redeem all, but not less than all, of the Notes at 100% of their principal amount, plus accrued and unpaid interest, if any, and additional amounts, if any, to, but excluding, the date fixed for redemption.
+Upon the occurrence of a change of control triggering event (as defined in the Indenture), each holder of the Notes may require the Company to repurchase all or a portion of their Notes at a price equal to 101% of their principal amount plus accrued and unpaid interest, if any, and additional amounts, if any, to, but excluding, the repurchase date.
+Certain Covenants
+The Indenture contains customary terms and covenants that limit the ability of the Company and the Restricted Subsidiaries (as defined in the Indenture) to, among other things, (i) incur liens, (ii) provide guarantees and (iii) consolidate, merge or sell or otherwise dispose of substantially all their assets.
+Events of Default
+The Indenture also provides for customary events of default. Upon certain events of default that are occurring and continuing, either the Trustee or the holders of at least 30% in aggregate principal amount of the outstanding Notes may declare the principal of, and accrued and unpaid interest, if any, and additional amounts, if any, on, all the Notes to be due and payable. In the event of certain insolvency and bankruptcy related events of default specified in the Indenture, the principal of, and accrued and unpaid interest, if any, and additional amounts, if any, on, all the Notes shall automatically become due and payable.
+The above description of the Indenture, the Notes and the guarantees is a summary only and is qualified in its entirety by reference to the Indenture and the Form of Global Note, which are filed as Exhibits 4.1 and 4.2 to this Current Report on
+Form 8-K,
+respectively, and are incorporated herein by reference.
+Credit Facilities Amendment and Refinancing
+On February 4, 2026 (the “Effective Date”), the Company entered into a Sixth Amendment to Credit Agreement (the “Sixth Amendment”), which amends the Credit Agreement, dated as of August 17, 2022, by and among the Company, the lender and letter of credit issuers party thereto, JPMorgan Chase Bank, N.A. (“JPM”) and J.P. Morgan SE, as administrative agent, and JPM, as collateral agent (as amended from time to time, including by the First Amendment to Credit Agreement, dated October 3, 2023, by the Second Amendment to Credit Agreement, dated January 22, 2024, by the Third Amendment to Credit Agreement, dated February 13, 2024, by the Fourth Amendment to Credit Agreement, dated July 23, 2024, by the Fifth Amendment to Credit Agreement, dated January 24, 2025, and by the Sixth Amendment, the “Credit Agreement”). The Sixth Amendment, among other changes, (i) refinanced (a) the Existing USD Tranche B Term Loan with a new $914 million senior secured U.S. dollar tranche B term loan (the “New USD Tranche B Term Loan” and, together with the Existing USD Tranche B Term Loan, the
+“USD Tranche B Term Loan”), (b) the Company’s existing €587 million senior secured euro tranche B term loan (the “Existing Euro Tranche B Term Loan”) with a new €587 million senior secured euro tranche B term loan (the “New Euro Tranche B Term Loan” and, together with the Existing Euro Tranche B Term Loan, the “Euro Tranche B Term Loan” and the USD Tranche B Term Loan together with the Euro Tranche B Term Loan, the “Term Loan Facility”) and (c) the Company’s $675 million senior secured revolving credit facility (the “Existing Revolving Credit Facility”) with a new $1.0 billion senior secured revolving credit facility (the “New Revolving Credit Facility” and, together with the Existing Revolving Credit Facility, the “Revolving Credit Facility”), (ii) decreased the applicable margin for the USD Tranche B Term Loan from 2.00% to 1.75% with respect to SOFR borrowings and from 1.00% to 0.75% with respect to base rate borrowings, (iii) decreased the applicable margin for the Euro Tranche B Term Loan from 2.50% to 2.00%, (iv) decreased the applicable margin under the Revolving Credit Facility from 2.50% to 1.75% with respect to SOFR borrowings and from 1.50% to 0.75% with respect to base rate borrowings, (v) eliminated the credit spread adjustment applicable to SOFR borrowings of the Revolving Credit Facility, (vi) extended the maturity of the Term Loan Facility to the seventh anniversary of the Effective Date and (vii) extended the maturity of the Revolving Credit Facility to the fifth anniversary of the Effective Date. In connection with the execution of the Sixth Amendment, the Company paid customary fees and expenses to JPM and the other lead arrangers.
+In addition, concurrently with the effectiveness of the Sixth Amendment, the Company made the USD Tranche B Term Loan Prepayment, reducing the principal amount of the USD Tranche B Term Loan from $2.2 billion to $914 million.
+The foregoing description of the Sixth Amendment does not purport to be complete and is qualified in its entirety by reference to the full text of the Sixth Amendment, which is filed as Exhibit 10.1 to this Current Report on Form
+8-K
+and incorporated herein by reference.
+
+--- Item 2.03 ---
+
+Item 2.03
+Creation of a Direct Financial Obligation or an Obligation under an
+Off-Balance
+Sheet Arrangement of a Registrant.
+The information set forth in Item 1.01 under the headings “Indenture and the Notes” and “Credit Facilities Amendment and Refinancing” is incorporated by reference into this Item 2.03.
+
+--- Item 7.01 ---
+
+Item 7.01
+Regulation FD Disclosure.
+On February 4, 2026, the Company issued a press release announcing the closing of the Offering and the execution of the Sixth Amendment. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form
+8-K.
+The information in this Item 7.01 of this Current Report on Form
+8-K,
+including the press release attached hereto as Exhibit 99.1, is being furnished pursuant to Item 7.01 and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, except as expressly set forth in such filing.
+
+--- Item 9.01. ---
+
+Item 9.01.
+Financial Statements and Exhibits.
+(d) Exhibits:
+Exhibit
+No.
+Description
+4.1
+Indenture, dated February 4, 2026, by and among MKS Inc., the guarantors listed therein and U.S. Bank Trust Company, National Association, as trustee
+4.2
+Form of Global Note (Included within Exhibit 4.1)
+10.1
+Sixth Amendment to Credit Agreement, dated as of February 4, 2026, by and among MKS Inc., as parent borrower, the other loan parties party thereto, JPMorgan Chase Bank, N.A. and J.P. Morgan SE, as administrative agent, JPMorgan Chase Bank, N.A., as collateral agent, and each lender and letter of credit issuer party thereto
+99.1
+Press Release, dated February 4, 2026, of MKS Inc.
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: February 5, 2026
+MKS Inc.
+By:
+/s/ Kathleen F. Burke
+Name:
+Kathleen F. Burke
+Title:
+Executive Vice President, General Counsel and Secretary
+EX-4.1
+2
+d39268dex41.htm
+EX-4.1
+EX-4.1
+Exhibit 4.1
+Execution Version
+MKS INC.,
+as Issuer,
+THE GUARANTORS NAMED PARTY HERETO
+and
+U.S. BANK TRUST COMPANY,
+NATIONAL ASSOCIATION,
+as Trustee
+INDENTURE
+February 4, 2026
+TABLE OF CONTENTS
+ARTICLE 1 DEFINITIONS AND INCORPORATION BY REFERENCE
+1
+Section 1.01
+Definitions
+1
+Section 1.02
+Other Definitions
+34
+Section 1.03
+Rules of Construction
+35
+ARTICLE 2 THE NOTES
+37
+Section 2.01
+Form and Dating
+37
+Section 2.02
+Execution and Authentication

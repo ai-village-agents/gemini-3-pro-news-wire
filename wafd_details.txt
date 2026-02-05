@@ -1,0 +1,131 @@
+
+--- Item 5.07 ---
+
+Item 5.07
+Submission of Matters to a Vote of Security Holders
+The Annual Meeting of Shareholders of WaFd, Inc. (the "Company") was held on February 3, 2026. The three items voted upon by shareholders included 1) the election of four directors; 2) the approval of a non-binding, advisory vote on the compensation of the Company's named executive officers; and 3) the ratification of the appointment of Deloitte & Touche, LLP as the Company's independent registered public accountants for fiscal year 2026. The results of the voting were as follows:
+Votes Cast
+Votes
+Total
+Broker
+For
+Against
+Withheld
+Votes Cast
+Non-votes
+Election of Directors
+Three-year term:
+Stephen M. Graham
+56,759,261
+—
+2,064,129
+58,823,390
+—
+Bradley M. Shuster
+56,240,093
+—
+2,583,297
+58,823,390
+—
+Randall H. Talbot
+49,773,954
+—
+9,049,436
+58,823,390
+—
+M. Max Yzaguirre
+57,781,624
+—
+1,041,766
+58,823,390
+—
+Votes Cast
+Total
+For
+Against
+Abstained
+Votes Cast
+Non-binding advisory vote on
+executive compensation
+56,263,771
+2,300,778
+258,841
+58,823,390
+Ratify appointment of
+Deloitte & Touche, LLP
+69,293,849
+1,472,617
+150,381
+70,916,847
+Based on the results above, all of the Board of Directors' (the "Board") recommendations were approved by shareholders.
+
+--- Item 5.02 ---
+
+Item 5.02
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On February 3, 2026, Director Steven Singh notified the Company that he is resigning from the Board, effective, May 13, 2026.   Mr. Singh has served as a director of the Company since 2018, and he currently serves on the Technology Committee of the Board.   Mr. Singh’s decision to resign from the Board is for personal reasons and not related to any disagreement with the Company or its management.
+As previously disclosed, Director David Grant was not nominated for re-election to the Board and retired following the February 3, 2026 annual shareholder meeting, consistent with the Company’s director retirement policy.  The Board has appointed Director Bradley Shuster to succeed Mr. Grant as the Chair of the Audit Committee of the Board.
+
+--- Item 9.01 ---
+
+Item 9.01
+Financial Statements and Exhibits
+(d)     The following exhibits are being filed herewith:
+104
+Cover Page Interactive Data File (formatted as inline XBRL)
+3
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+February 4, 2026
+WAFD, INC.
+By:
+/s/ KELLI J. HOLZ
+Kelli J. Holz
+Executive Vice President
+and Chief Financial Officer
+4
+EX-101.SCH
+2
+wfsl-20260203.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Document and Entity Information
+link:presentationLink
+link:calculationLink
+link:definitionLink
+EX-101.DEF
+3
+wfsl-20260203_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+EX-101.LAB
+4
+wfsl-20260203_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Soliciting Material
+Soliciting Material
+Written Communications
+Written Communications
+Local Phone Number
+Local Phone Number
+Class of Stock [Domain]
+Class of Stock [Domain]
+Document Information [Line Items]
+Document Information [Line Items]
+Amendment Flag
+Amendment Flag
+Entity Emerging Growth Company
+Entity Emerging Growth Company
+Entity File Number
+Entity File Number
+Series A Preferred Stock
+Series A Preferred Stock [Member]
+Security Exchange Name
+Security Exchange Name
+Entity Address, State or Province
+Entity Address, State or Province
+Entity Address, Address Line One
+Entity Address, Address Line One
+City Area Code
+City Area Code
+Cover page.
+Cover [Abstract]
+Document Period End Date

@@ -1,0 +1,74 @@
+
+--- Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. ---
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On February 3, 2026, the 3M Board of Directors elected Neil G. Mitchill, Jr. to 3M’s Board of Directors, effective February 6, 2026. Mr. Mitchill is the Executive Vice President and Chief Financial Officer of RTX Corporation.
+The Board has determined that Mr. Mitchill is an independent director under the New York Stock Exchange listing standards and the Company’s director independence guidelines, as set forth in its Corporate Governance Guidelines (available on 3M’s website at www.3M.com, under Investor Relations — Governance — Corporate Governance).
+The Board also has determined that Mr. Mitchill is “financially literate” and has “accounting or related financial management expertise” under the NYSE listing standards and is an “audit committee financial expert” as that term is defined by applicable Securities and Exchange Commission regulations.
+The Board has appointed Mr. Mitchill to both the Audit Committee and Nominating and Governance Committee of the Board, effective February 6, 2026.
+Mr. Mitchill will participate in the compensation program for non-employee directors as described on pages 47-50 of 3M’s 2025 Notice of Annual Meeting and Proxy Statement for its 2025 annual meeting of stockholders that was held on May 13, 2025 (filed with the Securities and Exchange Commission on March 26, 2025).
+A copy of 3M’s press release announcing Mr. Mitchill’s appointment is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+--- Item 9.01. Financial Statements and Exhibits. ---
+
+Item 9.01. Financial Statements and Exhibits.
+(d)    Exhibits:
+Exhibit Number
+Description
+99.1
+Press Release, dated February 5, 2026, of 3M Company
+.
+104
+Cover Page Interactive Data File (the cover page XBRL tags are embedded in the Inline XBRL document).
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+3M COMPANY
+By:
+/s/ Kevin H. Rhodes
+Kevin H. Rhodes
+Executive Vice President, Chief Legal Affairs Officer and Secretary
+Dated: February 5, 2026
+EX-99.1
+2
+pressreleasedated2-5x2026.htm
+EX-99.1
+Document
+Exhibit 99.1
+3M Announces New Board Appointment
+•
+Neil Mitchill elected to the Board of Directors
+ST. PAUL, Minn. – Feb. 5, 2026 – 3M (NYSE: MMM) announced today the election of Neil G. Mitchill, Jr. to 3M's Board of Directors, effective February 6, 2026.  Mr. Mitchill also has been appointed as a member of the Audit Committee and the Nominating and Governance Committee of the Board.
+Mr. Mitchill is the Executive Vice President and Chief Financial Officer, RTX Corporation.  Holding this position since 2021, his responsibilities span financial reporting and controls, planning and analysis, investor relations, internal audit, tax and treasury.
+Prior to his current role, Mr. Mitchill served as Corporate Vice President of Financial Planning and Analysis and Investor Relations of RTX. He held numerous other financial leadership positions within United Technologies Corporation (UTC) prior to its merger with Raytheon Company in 2020, including Acting Senior Vice President and Chief Financial Officer of UTC, and Vice President and Chief Financial Officer of UTC’s Pratt & Whitney business.  Mr. Mitchill spent 17 years at PricewaterhouseCoopers LLP in both client service and lead partner roles.
+Mr. Mitchill received a BS in Accountancy from Providence College.
+“Neil is an accomplished executive with over 25 years of finance experience as well as strategic leadership on complex business issues,” said William Brown, 3M’s Chairman and CEO.  “His deep financial expertise, strategic acumen and broad business experience will be invaluable to our board, shareholders and customers, and I look forward to working with him.”
+About 3M
+3M (NYSE: MMM) is focused on transforming industries around the world by applying science and creating innovative, customer-focused solutions. Our multi-disciplinary team is working to solve tough customer problems by leveraging diverse technology platforms, differentiated capabilities, global footprint, and operational excellence. Discover how 3M is shaping the future at
+3M.com/news.
+3M Media Contact:
+3MNews@mmm.com
+Investor Contact:
+Diane Farrow
+(612) 202-2449
+EX-101.SCH
+3
+mmm-20260203.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Cover Page
+link:presentationLink
+link:calculationLink
+link:definitionLink
+EX-101.DEF
+4
+mmm-20260203_def.xml
+XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+EX-101.LAB
+5
+mmm-20260203_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Soliciting Material
+Soliciting Material
+Written Communications
+Written Communications
+Local Phone Number
+Local Phone Number

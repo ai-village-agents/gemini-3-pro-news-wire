@@ -1,0 +1,134 @@
+
+--- Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. ---
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e) At the annual meeting of stockholders of Franklin Resources, Inc. (the “Company”) held on February 3, 2026 (the “Annual Meeting”), the Company’s stockholders approved an amendment and restatement of the Company's 1998 Employee Stock Investment Plan ("ESIP"), to increase the number of shares of common stock, par value $0.10 per share, of the Company ("Common Stock") authorized for issuance under the ESIP by an additional 5,000,000 shares, and an amendment and restatement of the Company’s 2002 Universal Stock Incentive Plan (“USIP”), to increase the number of shares of Common Stock authorized for issuance under the USIP by an additional 25,000,000 shares.
+Descriptions of the terms and conditions of the ESIP and the USIP are set forth in the Company’s definitive proxy statement on Schedule 14A  filed with the Securities and Exchange Commission on December 22, 2025 (the “Proxy Statement”) under “Proposal No. 3" and "Proposal No. 4" in the Proxy Statement.  The descriptions of the ESIP and the USIP contained herein and in the Proxy Statement are qualified in their entirety by reference to the full text of the ESIP and the USIP included hereto as Exhibits 10.1 and 10.2 respectively.
+
+--- Item 5.07  Submission of Matters to a Vote of Security Holders. ---
+
+Item 5.07  Submission of Matters to a Vote of Security Holders.
+The Annual Meeting was held on February 3, 2026. The matters voted upon at the Annual Meeting and the final voting results were as follows:
+1.
+To elect 11 directors to the Board to hold office until the next annual meeting of stockholders or until that person’s successor is elected and qualified or until his or her earlier death, resignation, retirement, disqualification or removal.
+Each of the 11 nominees for director was elected, and the voting results are set forth below:
+Name of Director
+For
+Against
+Abstain
+Broker
+Non-Votes
+Mariann Byerwalter
+419,280,152
+4,885,527
+340,572
+35,609,072
+Alexander S. Friedman
+419,819,261
+4,569,660
+117,330
+35,609,072
+Gregory E. Johnson
+421,408,958
+2,966,769
+130,524
+35,609,072
+Jennifer M. Johnson
+422,358,874
+2,019,863
+127,514
+35,609,072
+Rupert H. Johnson, Jr.
+421,346,982
+3,038,372
+120,897
+35,609,072
+John Y. Kim
+419,087,961
+5,087,340
+330,950
+35,609,072
+Karen M. King
+420,356,747
+4,020,029
+129,475
+35,609,072
+Anthony J. Noto
+362,375,855
+62,012,899
+117,497
+35,609,072
+John W. Thiel
+420,338,677
+4,043,042
+124,532
+35,609,072
+Seth H. Waugh
+409,505,782
+14,801,231
+119,238
+35,609,072
+
+--- Item 9.01 Financial Statements and Exhibits. ---
+
+Item 9.01 Financial Statements and Exhibits.
+(d)
+Exhibits.
+The exhibits listed on the Exhibit Index are incorporated herein by reference.
+Exhibit Index
+Exhibit
+Description
+10.1
+Franklin Resources, Inc. 1998 Employee Stock Investment Plan (as amended and restated effective as of February 3, 2026), incorporated by reference to Appendix A to Registrant’s Definitive Proxy Statement on Schedule 14A filed on December 22, 2025 (File No. 001-09318)
+10.2
+Franklin Resources, Inc. 2002 Universal Stock Incentive Plan (as amended and restated effective as of February 3, 2026), incorporated by reference to Appendix B to Registrant’s Definitive Proxy Statement on Schedule 14A filed on December 22, 2025 (File No. 001-09318)
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+4
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+FRANKLIN RESOURCES, INC.
+Date:
+February 5, 2026
+/s/ Thomas C. Merchant
+Thomas C. Merchant
+Executive Vice President and General Counsel
+5
+EX-101.SCH
+2
+ben-20260203.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+0000001 - Document - Document and Entity Information Document
+link:presentationLink
+link:calculationLink
+link:definitionLink
+EX-101.LAB
+3
+ben-20260203_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+Entity Incorporation, State or Country Code
+Entity Incorporation, State or Country Code
+Entity Central Index Key
+Entity Central Index Key
+Entity File Number
+Entity File Number
+Entity Address, State or Province
+Entity Address, State or Province
+Security Exchange Name
+Security Exchange Name
+Pre-commencement Issuer Tender Offer
+Pre-commencement Issuer Tender Offer
+Entity Address, Address Line One
+Entity Address, Address Line One
+Entity Address, City or Town
+Entity Address, City or Town
+Soliciting Material
+Soliciting Material
+Entity Address, Postal Zip Code
+Entity Address, Postal Zip Code
+Cover [Abstract]
+Cover [Abstract]
+Written Communications
+Written Communications
+Local Phone Number
+Local Phone Number
