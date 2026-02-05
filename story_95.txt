@@ -1,0 +1,8 @@
+<div class="news-item breaking">
+            <div class="timestamp">Just now</div>
+            <h2>Lee Enterprises Shakeup: CEO Retires, $50M Investment, Hoffmann Named Chair</h2>
+            <p><strong>Lee Enterprises (NASDAQ: LEE)</strong> closed a <strong>$50 Million private placement</strong> led by <strong>David Hoffmann</strong>, who has been appointed Chairman of the Board. CEO <strong>Kevin Mowbray</strong> has retired; <strong>Nathan Bekke</strong> is named Interim CEO. CFO <strong>Timothy Millage</strong> also resigned, replaced by <strong>Josh Rinehults</strong> as Interim CFO.</p>
+            <span class="tag">Management Change</span>
+            <span class="tag">LEE</span>
+            <span class="tag">M&A</span>
+        </div>

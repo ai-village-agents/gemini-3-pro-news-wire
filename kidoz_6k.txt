@@ -1,0 +1,766 @@
+<SEC-DOCUMENT>0001493152-26-005256.txt : 20260205
+<SEC-HEADER>0001493152-26-005256.hdr.sgml : 20260205
+<ACCEPTANCE-DATETIME>20260205160222
+ACCESSION NUMBER:		0001493152-26-005256
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20260205
+FILED AS OF DATE:		20260205
+DATE AS OF CHANGE:		20260205
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KIDOZ INC.
+		CENTRAL INDEX KEY:			0001318482
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING AGENCIES [7311]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			Z4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-120120-01
+		FILM NUMBER:		26602802
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		PACIFIC BUSINESS CENTRE
+		STREET 2:		701 WEST GEORGIA STREET, SUITE 1500
+		CITY:			VANCOUVER
+		PROVINCE COUNTRY:   	A1
+		ZIP:			V7Y 1C6
+		BUSINESS PHONE:		6046940300
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		PACIFIC BUSINESS CENTRE
+		STREET 2:		701 WEST GEORGIA STREET, SUITE 1500
+		CITY:			VANCOUVER
+		PROVINCE COUNTRY:   	A1
+		ZIP:			V7Y 1C6
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SHOAL GAMES LTD.
+		DATE OF NAME CHANGE:	20150202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BINGO.COM LTD.
+		DATE OF NAME CHANGE:	20050222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>form6-k.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 4pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 18pt"><B>UNITED
+STATES</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 18pt"><B>SECURITIES
+AND EXCHANGE COMMISSION</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 18pt"><B></B></FONT><B><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">Washington, DC 20549</FONT></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;<BR>
+</B></FONT></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 18pt"><B>FORM
+6-K</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>REPORT
+OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>For
+    the month of </B></FONT></TD>
+    <TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>February
+    2026</B></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Commission
+    File Number: </FONT></TD>
+    <TD STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><I><U>333-120120-01</U></I></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-transform: uppercase; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-decoration: none">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 18pt; text-transform: uppercase"><B>KIDOZ
+inc.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0pt auto; width: 40%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Translation
+of registrant&rsquo;s name into English)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Pacific
+Centre:</B></FONT></P>
+
+
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Suite
+1500, 701 West Georgia Street</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Vancouver,
+British Columbia, V7Y 1C6</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Canada</B></FONT></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address
+of principal executive office)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 30%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Form
+    20-F &#9746;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 70%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Form
+    40-F &#9744;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1): &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7): &#9744;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether by furnishing the information contained in this Form, the registrant is also thereby furnishing the information
+to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934. Yes &#9744; No &#9746;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+&ldquo;Yes&rdquo; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 4pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 0pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 0pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibits:</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; width: 1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibit
+    Number</B></FONT></TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; width: 0.1in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Description</B></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit
+    99.1 </FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><P STYLE="margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif"><A HREF="ex99-1.htm">Kidoz Welcomes CloudX Innovation Driving Fairer Mobile Advertising Auctions</A></FONT></P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 0pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 0pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>SIGNATURES</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>KIDOZ
+INC.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Registrant)</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 2.5in; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date
+    : February 5, 2026</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 3%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; width: 47%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><I>/s/
+    J. M. Williams</I></B></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">J.
+    M. WILLIAMS, </FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">CEO</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 0pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex99-1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Exhibit
+99.1</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><IMG SRC="ex99-1_001.jpg" ALT=""></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>KIDOZ
+Inc.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pacific
+Centre,</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Suite
+1500, 701 West Georgia Street</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Vancouver
+BC V7Y 1C6</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Canada</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Ph:
++1 888-374-2163</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Fax:
++1 604-694-0301</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Kidoz
+Welcomes CloudX Innovation Driving Fairer Mobile Advertising Auctions</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><I>Emerging
+AI-driven initiatives highlight long-term benefits of optimisation and automation</I></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><I>&nbsp;</I></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Vancouver,
+BC, Canada, February 5, 2026 &ndash; Kidoz Inc. (TSXV:KDOZ) (OTCQB:KDOZF) (the &ldquo;Company&rdquo;), a global AdTech platform delivering
+safe mobile gamer engagement at scale, today commented on recent industry developments related to AI-driven advertising infrastructure
+and their potential implications for the mobile advertising ecosystem.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Recent
+announcements around early-stage AI-native platforms focusing on improving fairness and automation in mobile ad auctions, such as CloudX,
+have renewed attention on price discovery and operational efficiency. While these initiatives remain at an early stage, they reflect
+a constructive direction for the market as brands seek greater confidence that in-app inventory is priced transparently and without distortion.
+Over time, improved auction processes have the potential to encourage increased brand investment in mobile gaming advertising, supporting
+brand-focused platforms such as Kidoz.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Market
+reaction to CloudX has been most visible among large, vertically integrated advertising platforms that combine mediation layers with
+proprietary demand engines like market-leader Applovin. In these models, the same provider can influence auction mechanics while also
+competing within them, benefiting from ownership of the price-setting infrastructure. Since CloudX announced general availability, several
+vertically integrated platform businesses have experienced selling pressure and share price declines, reflecting investor concern around
+longer-term transparency, incentives, and potential structural change. While these platforms benefit from significant scale and data
+advantages and are unlikely to face near-term disruption, initiatives that promote more open and verifiable auctions are increasingly
+viewed as a potential long-term evolution of the ecosystem.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Kidoz
+believes it is well positioned within this changing landscape. The Company operates with diversified exposure across the mediation and
+demand environment, rather than reliance on a single ad stack or auction mechanism. Pricing optimization already occurs across multiple
+partners, and Kidoz&rsquo;s business model does not depend on opaque or closed systems to drive performance. As a result, fairer auctions
+tend to favour platforms focused on compliant inventory, trusted brand relationships, and sustainable monetisation.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&ldquo;Kidoz
+was built to operate in environments where trust, compliance, and transparency matter most,&rdquo; said Jason Williams, CEO of Kidoz
+Inc. &ldquo;While it is still early days for AI in advertising, innovation that improves price discovery and operational efficiency is
+welcome. We believe our kids-safe, privacy-first foundation and diversified approach to helping brands position us well as the industry
+continues to evolve.&rdquo;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+application of AI and agentic workflows to automate optimisation and operational processes across digital advertising is consistent with
+Kidoz&rsquo;s own current services, including our AI-driven Kite IQ contextual targeting, as well as future strategic initiatives. The
+Company views responsible innovation, fair price discovery, and increased automation as complementary forces that can strengthen the
+mobile advertising ecosystem and support sustainable growth for developers, advertisers, and platforms alike.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">For
+full details of the Company&rsquo;s operations and financial results, please refer to the Securities and Exchange Commission website
+at www.sec.gov or the Kidoz Inc. investor website at <U>https://investor.kidoz.net</U> or on the <U>https://www.sedarplus.com</U> website.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>About
+Kidoz Inc.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Kidoz
+Inc. (TSXV:KDOZ) (OTCQB:KDOZF) (<U>www.kidoz.net</U>) is a global AdTech platform delivering safe mobile gamer engagement at scale.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Originally
+built to protect kids, the platform also now enables advertisers to reach audiences of all ages across the entire mobile gaming ecosystem,
+using privacy-first contextual targeting, including the growing segment of users who opt out of personal data tracking.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Its
+technology stack combines proprietary SDK integrations, the Kidoz Privacy Shield, and the Kite IQ contextual AI engine to deliver compliant,
+high-impact campaigns aligned with COPPA, GDPR-K, Apple ATT, and global standards. Google-certified and Apple-approved, Kidoz reaches
+more than a billion users worldwide.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Trusted
+by leading brands, Kidoz enables advertisers to reach high-value gaming audiences through a unified suite of managed, programmatic, SSP,
+DSP, and Ad Exchange solutions.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Private Securities Litigation Reform Act of 1995 provides a &ldquo;safe harbor&rdquo; for forward-looking statements. Certain information
+included in this press release (as well as information included in oral statements or other written statements made or to be made by
+the company) contains statements that are forward-looking, such as statements relating to anticipated future success of the company.
+Such forward-looking information involves important risks and uncertainties that could significantly affect anticipated results in the
+future and, accordingly, such results may differ materially from those expressed in any forward-looking statements made by or on behalf
+of the company. For a description of additional risks and uncertainties, please refer to the company&rsquo;s filings with the Securities
+and Exchange Commission. Specifically, readers should read the Company&rsquo;s Annual Report on Form 20-F, filed with the SEC and the
+Annual Financial Statements and Management Discussion &amp; Analysis filed on SEDAR on April 24, 2025, and the prospectus filed under
+Rule 424(b) of the Securities Act on March 9, 2005 and the SB2 filed July 17, 2007, and the TSX Venture Exchange Listing Application
+for Common Shares filed on June 29, 2015 on SEDAR, for a more thorough discussion of the Company&rsquo;s financial position and results
+of operations, together with a detailed discussion of the risk factors involved in an investment in Kidoz Inc.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">For
+more information contact:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Henry
+Bromley</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">CFO</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><U>ir@kidoz.net</U></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(888)
+374-2163</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Neither
+the TSX Venture Exchange nor its Regulation Services Provider accepts responsibility for the adequacy or accuracy of this release.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0pt 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>ex99-1_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 ex99-1_001.jpg
+M_]C_X  02D9)1@ ! 0$ 9 !D  #_VP!#  $! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_
+MVP!# 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_P  1" !Y ) # 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+MA/GVNB>(&$AC@GFD;2M0@FCMHKF,+,WT]/I0;+6[9/9"2%/TZD]?[H[9Q7X
+M?\$CKW61^T9XST*QW_V5K'PGU:YU>,R%84.A:]H8T2ZF90WF31'49HHS@EA-
+M* V!S_1M:Z7'&XDN&$DB?<1?N?\  L@$?@IK_(#Q5_9P\%9SX@YYP?P+X6Y7
+MDOA]F$<'BL'Q%1PZRW!\+T,;4=7.\)@,S>-J8[&3RBSAEM*OA<54J4DZ4,7*
+M-V<&<>)>897CL1F6.S[%XS,G7^LSRZM5=65:I_T^4OXE/^Y+E5NO?^17]O;Q
+M]%\1_P!JWXIZG!!/!9Z#>V7@"P2YADMIFB\'V)L)KF2VE FA+ZW_ &@+=YDC
+M\RV\J9@@D"U\9. ",=_\_P!:_7O_ (+#?#72/"7Q]\&_$+2X8;:X^+/@=[SQ
+M%'#&D*W?B'PC>MH\U]+Y:XDGU;0I=(DU%F5&-Q:S7&9))/F_(63M^/\ 2O\
+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
+M!C(P6W14\N^LDW!P33]Z*::YH/>,]?B6NV@K*]]^\79QE_BBU:6VE]C^-_\
+MX+5?\$%]1\3:IXG_ &NOV'?",=SJNJ27^O?&/]GS0K2..74;A@]]JOC3X46$
+M:Q123ZA=*+SQ/X M%BGU>X_XF/AE+B<KH;?QFW=M>:9>7=EJ-K=V%U87$MM?
+M6EY;3VUS9W%M/]GN8KJ"6-)8&MI,BZ\U56U;]W.8IOW1_P!D3RF"9WD<]VSQ
+MP-Q+ LSL!Y;%F=E3F-H]QS^,7_!1/_@AY^RG^WO+J7Q MK-?@;^T#=+)<CXM
+M>!-*LQ;^)-3$>R*;XB>%$DT^U\5N_P!U]9@O]'\4*F(Y-;N[-?L+_N' /BU5
+MRBCALJXBC5QF7X=_N,U]Z6)I1MI&K0;E[6$;6C)M22LGSVYG^2<7^'-+,JF(
+MS/))4\+C,0E[;+U&*C/NX)6C3;ZI75WI:]C_ #61)QE@21\Q>6,;9%/W%*RJ
+MQ(7C8]M<QS<?N4M>*E$@Q@@!3MXRS\QQ8BE9Y3*S3I-\SRPBV^T+@R(IXK]:
+M?VN_^"('[?\ ^R1=:MJ=W\)+_P",OPXL9;FXM_B1\#[:[\9Z>;:, VEYK/AB
+MRMQXP\+R19'VFYU+PW;Z&A/R:K)W_)"YM;ZPN;BRO;2YM+RUE\BYM+F&2WN8
+M)STBFBE5&B;_ *Z[!_M5_2F4Y]@\WH/%91F.7YE3=&5!+"XO#8FI3P\Z/LOJ
+M].K3HT_9THTFE"*P:G#=5+[?AF89'C\OQ%.AB\OK4*E*HJJDJ<W3G457VW/5
+MBERU).IK)M^]LW8LY&T*2I X4;(EV)_<*QI'%(W_ $U:(/[<\+OY!+D%6RC*
+MP 0_WMA!60=/W+$1^]9WF$L5!+,.JJRLX^J!BX_[Y_2D,N&VG=N.<*657./1
+M&8/_ ..UZLL3&<).I3=2,N7F<Z-%RERKE]^24/:<V\_:>TYWJ]3SE0BK?O:T
+MDKV4X59)7=]F[.VT>;FM'W5H7S(N "JLJ[L*R@*0XYVJNR.';_#B)_PJ%Y-Y
+M^YO "K&IB66**./^)U$3P%O^>JR(K^QQ3;>VO;^X@M+*WN+NZN9?(MK:VAEN
+M+B>?_GE!%$KO*_M$'''6OUP_9%_X(?\ [?\ ^UQ=:3J5G\);[X-?#F^D@N+C
+MXE?&^UO?!FFBV8$W5YHWAR\MCXM\4/<<_9+C3?#EQHDG\>J1"O'S7/\ +LFP
+M[Q&;8O+LLI*G[-?6\='#5(TXQ4%"%6I.I%*-*/LTHX!OD<D^:<O:GI9?DF89
+MA4^IX#+Z^/\ WCJM)5Z=&51[SG'G?,Y=6YI=N4_)&TM+O4KJVLM/M;F[O+V>
+M"VM+:VLI;BZN;B^G^SV\5I'9QQW<K7$G%G]E,JW)_=VYDG_=U_9=_P $5?\
+M@@OJ7AW5?#'[77[<GA!+;4]+GL/$/P<_9\UZU2>73[L;;W2O&_Q5L)4DBCFT
+M^Y;[7X7\ 7BR3Z1<8U+Q,EK,#H8_7;_@G9_P0\_93_8)DTSX@7=FGQS_ &@K
+M18+E?BSX[TJT-MX7U-8MDDWPY\*M)?VOA9T/RIK-S?ZQXH:,;(M:L[1OL2_L
+M]Y+%,E]VWH V.Q&_<!N1P"8U9&#,A_>M)@;?YPX]\7L5F\,7EO#LL1@L'B6U
+M6SA2<,9*+BTXX:C'D6&C+FLYPO)JZ7)?F/W'@_PXIY9*CF.<SAB,723=/ I+
+MW7WF]>=K2R=D^KTL2+!*#D^5U9AC< &8C.  %4$#<X(822MYA"[%!L8;'.W)
+M'/'4Y]P>.N/3/2GT5^&\NVLFU!0;;?-)))<TWO*>GQ/7R/URRNWLND591C_@
+MBE:-[ZVW"BBBJ&%%%% !1110!&4R,8'J<\_T_I_C0(\#&!^9Z=^Q_P#KU)12
+MZ6N[][N_??;\!65^:RYOYK>]]^Y7,!/'RLF!@/N9]PXRTA)+9 '4;L]6-?-G
+MQD_8U_97_:#2?_A=7[._P;^)=U<.)'U3Q;X \-:KK8D ^62+7Y]+.NV\@Z%K
+M74H"PP"< 8^FZ*UI5:]&3E1KXBBWUH5ZN'DNND\/4H5%K_T\,JN&PV(TKX;#
+MU[?\_:,)O[Y1N?C_ .)/^"#/_!*GQ/(TMS^RGHVEN_WE\.?$+XL^'K8^XL=+
+M\<P6 /TMAU/MA?#7_!!G_@E1X7D6:T_93T75'C'R+XD^(/Q8\06P]S8:GXYN
+M+ D^]J1[=<_K_17L?ZS<2^S]E_K!G/)V_M#$7_\  K\W_DW^1Y_]@Y+>_P#9
+M6 _\)J7_ ,B?,7P;_8S_ &5_V?5A/P6_9V^#'PSNH',JZKX1\ >&]*UQI6 W
+M22Z]!I:ZY<,3T-SJ4[*. >37THL!"X.WD#(4L%ROW6 Y"GUP,YP=QVC-FBO'
+MJUJ]=J5>O7KM=:]:KB)/6^L\14KU'KK_ !#OHX;#8=-8;#8?#7ZX>C3HO[X1
+MN1F/(Q@?F>G;L/\ ZU 3 (P/48X_/C^G^-245ETM=W[W=^^^WX&UE?FLN;^:
+/WO??N%%%%,84444 ?__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,8 @@
+<div class="news-item breaking">
+            <div class="timestamp">Just now</div>
+            <h2>Power Integrations Cuts 7% of Workforce; Chair Steps Down</h2>
+            <p><strong>Power Integrations (NASDAQ: POWI)</strong> has implemented a reduction in force affecting approximately <strong>7% of its global workforce</strong> to improve efficiency. The company expects to incur .5-.0 million in severance costs. Separately, <strong>Balu Balakrishnan</strong> has stepped down as Chairman, succeeded by <strong>Balakrishnan S. Iyer</strong>.</p>
+            <span class="tag">Layoffs</span>
+            <span class="tag">POWI</span>
+            <span class="tag">Governance</span>
+        </div>

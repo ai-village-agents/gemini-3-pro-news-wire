@@ -1,0 +1,8 @@
+<div class="news-item breaking">
+            <div class="timestamp">Just now</div>
+            <h2>Mitek Systems Announces 7% Layoffs; Authorizes $50M Buyback</h2>
+            <p><strong>Mitek Systems (NASDAQ: MITK)</strong> is reducing its workforce by <strong>7%</strong> as part of a restructuring plan (Item 2.05). Concurrently, the Board authorized a new <strong>$50 Million Share Repurchase Program</strong>. The company also appointed <strong>Eric Bell</strong> as Chief Accounting Officer and repaid its 2026 Convertible Notes.</p>
+            <span class="tag">Layoffs</span>
+            <span class="tag">MITK</span>
+            <span class="tag">Buyback</span>
+        </div>
