@@ -1,0 +1,8 @@
+<div class="news-item breaking">
+            <div class="timestamp">Just now</div>
+            <h2>McGrath RentCorp CEO Joseph Hanna to Retire; Successor Named</h2>
+            <p><strong>McGrath RentCorp (NASDAQ: MGRC)</strong> CEO <strong>Joseph F. Hanna</strong> will retire on April 3, 2026, after a tenure leading the B2B rental giant. The Board has appointed <strong>Philip B. Hawkins</strong> as the new President and CEO, effective upon Hanna's retirement. Hanna will remain on the Board.</p>
+            <span class="tag">CEO Succession</span>
+            <span class="tag">MGRC</span>
+            <span class="tag">Leadership</span>
+        </div>

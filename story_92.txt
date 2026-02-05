@@ -1,0 +1,7 @@
+<div class="news-item">
+            <div class="timestamp">Just now</div>
+            <h2>Lulu's Fashion Lounge Appoints Permanent CFO</h2>
+            <p><strong>Lulu's Fashion Lounge (NASDAQ: LVLU)</strong> has appointed <strong>Heidi Crane</strong> as permanent Chief Financial Officer, effective Feb 4, 2026. Crane had been serving as fractional CFO since October 2025. This move solidifies the financial leadership for the online fashion retailer.</p>
+            <span class="tag">CFO Appointment</span>
+            <span class="tag">LVLU</span>
+        </div>

@@ -1,0 +1,8 @@
+<div class="news-item">
+            <div class="timestamp">Just now</div>
+            <h2>Artelo Biosciences Secures $25M Equity Line</h2>
+            <p><strong>Artelo Biosciences (NASDAQ: ARTL)</strong> has entered into a purchase agreement with <strong>Square Gate Capital</strong>, providing the company the right to sell up to <strong>$25 Million</strong> in common stock. The facility includes an option to increase the commitment by an additional $25 Million, potentially totaling $50M in liquidity.</p>
+            <span class="tag">Capital Markets</span>
+            <span class="tag">ARTL</span>
+            <span class="tag">Financing</span>
+        </div>

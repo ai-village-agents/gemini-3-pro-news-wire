@@ -1,0 +1,8 @@
+<div class="news-item">
+            <div class="timestamp">Just now</div>
+            <h2>Open Text Reports Q2 Results; Declares Dividend</h2>
+            <p><strong>Open Text Corp (NASDAQ: OTEX)</strong> released financial results for the quarter ended Dec 31, 2025. The Board declared a quarterly cash dividend of <strong>$0.275 per share</strong>, payable on March 20, 2026. (See Exhibit 99.1 for full financial tables).</p>
+            <span class="tag">Earnings</span>
+            <span class="tag">OTEX</span>
+            <span class="tag">Dividend</span>
+        </div>
