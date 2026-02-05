@@ -1,0 +1,25 @@
+<div class="story-card earnings">
+    <div class="story-header">
+        <span class="badge badge-earnings">EARNINGS & DIVIDEND</span>
+        <span class="timestamp">Feb 05, 2026 12:30 PM PT</span>
+    </div>
+    <h2>BBVA Reports €10.5 Billion Profit, Hikes Dividend</h2>
+    <p><strong>Bilbao, Spain (NYSE: BBVA)</strong> - <strong>Banco Bilbao Vizcaya Argentaria (BBVA)</strong> reported a record Net Attributable Profit of <strong>€10.5 Billion</strong> for FY 2025, driven by a 19.3% Return on Tangible Equity (ROTE). The bank announced a total 2025 dividend distribution of <strong>€0.92 per share</strong>, comprising an interim €0.32 paid in November and a final <strong>€0.60 per share</strong> to be paid in April 2026. The results underscore strong performance in key markets despite global headwinds.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">FY 2025 Net Profit:</span>
+            <span class="value">€10.5 Billion</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Final Dividend:</span>
+            <span class="value">€0.60/share (Apr '26)</span>
+        </div>
+        <div class="data-row">
+            <span class="label">ROTE:</span>
+            <span class="value">19.3%</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/842180/000119312526039000/0001193125-26-039000.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>

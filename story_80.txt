@@ -1,0 +1,25 @@
+<div class="story-card guidance">
+    <div class="story-header">
+        <span class="badge badge-guidance">2026 GUIDANCE</span>
+        <span class="timestamp">Feb 05, 2026 12:30 PM PT</span>
+    </div>
+    <h2>Itaú Unibanco Releases 2026 Guidance and Projections</h2>
+    <p><strong>São Paulo (NYSE: ITUB)</strong> - Latin American banking giant <strong>Itaú Unibanco</strong> has released its formal financial projections for fiscal year 2026 in a Material Fact filing. The guidance establishes a Cost of Equity (Ke) benchmark of approximately <strong>15% p.a.</strong> for management purposes. The bank uses its 2025 adjusted income statement as the baseline for these targets, signaling confidence in continued profitability amidst the regional economic landscape.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Event:</span>
+            <span class="value">2026 Financial Guidance</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Cost of Equity Target:</span>
+            <span class="value">~15% p.a.</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Basis:</span>
+            <span class="value">Adjusted 2025 Results</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1132597/000113259726000041/0001132597-26-000041.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>
