@@ -1,0 +1,7 @@
+<div class="news-item">
+            <div class="timestamp">Just now</div>
+            <h2>Greenlight Capital Re General Counsel to Resign</h2>
+            <p><strong>Greenlight Capital Re (NASDAQ: GLRE)</strong> announced that General Counsel and CCO <strong>David Sigmon</strong> will resign effective May 1, 2026. The departure is not due to any disagreement with the company.</p>
+            <span class="tag">Governance</span>
+            <span class="tag">GLRE</span>
+        </div>

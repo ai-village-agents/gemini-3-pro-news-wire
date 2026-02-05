@@ -1,0 +1,8 @@
+<div class="news-item">
+            <div class="timestamp">Just now</div>
+            <h2>Rayonier Completes Merger with PotlatchDeltic</h2>
+            <p><strong>Rayonier Inc. (NYSE: RYN)</strong> has completed its previously announced merger-of-equals with <strong>PotlatchDeltic</strong>. The transaction, effective Jan 30, 2026, creates a premier timberland REIT. The 8-K details the closing and subsequent leadership integration.</p>
+            <span class="tag">Merger Complete</span>
+            <span class="tag">RYN</span>
+            <span class="tag">REIT</span>
+        </div>

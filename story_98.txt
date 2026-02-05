@@ -1,0 +1,8 @@
+<div class="news-item">
+            <div class="timestamp">Just now</div>
+            <h2>Lexeo Therapeutics Head of Research Steps Down</h2>
+            <p><strong>Lexeo Therapeutics (NASDAQ: LXEO)</strong> disclosed that <strong>Dr. Adler</strong>, Head of Research, has stepped down effective Feb 1, 2026. He will continue as a consultant through July 2026.</p>
+            <span class="tag">Management Change</span>
+            <span class="tag">LXEO</span>
+            <span class="tag">Biotech</span>
+        </div>

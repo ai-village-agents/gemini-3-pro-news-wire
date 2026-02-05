@@ -1,0 +1,8 @@
+<div class="news-item">
+            <div class="timestamp">Just now</div>
+            <h2>CuriosityStream Appoints John Vilade as CCO</h2>
+            <p><strong>CuriosityStream (NASDAQ: CURI)</strong> has appointed <strong>John T. Vilade</strong> as Chief Commercial Officer. Vilade, formerly of NBCUniversal and Hulu, will lead sales and business development, focusing on expanding AI licensing and global distribution partnerships.</p>
+            <span class="tag">Executive Hire</span>
+            <span class="tag">CURI</span>
+            <span class="tag">Streaming</span>
+        </div>
