@@ -1,0 +1,25 @@
+<div class="story-card earnings">
+    <div class="story-header">
+        <span class="badge badge-earnings">EARNINGS BEAT</span>
+        <span class="timestamp">Feb 05, 2026 1:10 PM PT</span>
+    </div>
+    <h2>Itaú Unibanco Q4 Profit Hits R2.3 Billion, ROE 24.4%</h2>
+    <p><strong>São Paulo (NYSE: ITUB)</strong> - <strong>Itaú Unibanco</strong> has reported a robust Recurring Managerial Result of <strong>R2.3 Billion</strong> for Q4 2025, underscoring its dominance in the Latin American banking sector. The bank achieved a Recurring Return on Equity (ROE) of <strong>24.4%</strong>. For the full fiscal year 2025, the total payout ratio stood at <strong>72.0%</strong>, with net distributions amounting to R1.7 billion. The bank also highlighted an efficiency ratio of 36.9% in Brazil.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Q4 Recurring Result:</span>
+            <span class="value">R2.3 Billion</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Recurring ROE:</span>
+            <span class="value">24.4%</span>
+        </div>
+        <div class="data-row">
+            <span class="label">2025 Payout:</span>
+            <span class="value">72.0% (R1.7B)</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1132597/000113259726000055/0001132597-26-000055.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+<div class="story-card buyback">
+    <div class="story-header">
+        <span class="badge badge-buyback">BUYBACK PROGRAM</span>
+        <span class="timestamp">Feb 05, 2026 1:10 PM PT</span>
+    </div>
+    <h2>Itaú Unibanco Launches 200 Million Share Buyback</h2>
+    <p><strong>São Paulo (NYSE: ITUB)</strong> - The Board of Directors of <strong>Itaú Unibanco</strong> has approved a new share buyback program authorizing the repurchase of up to <strong>200,000,000 preferred shares</strong>. This new authorization replaces the previous program and is effective immediately, running through August 4, 2027. The move reflects management's confidence in the bank's valuation and capital position.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Authorization:</span>
+            <span class="value">200,000,000 Shares</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Type:</span>
+            <span class="value">Preferred Shares</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Duration:</span>
+            <span class="value">Through Aug 2027</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1132597/000113259726000054/0001132597-26-000054.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>
