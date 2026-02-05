@@ -1,0 +1,25 @@
+<div class="story-card m-a">
+    <div class="story-header">
+        <span class="badge badge-merger">MAJOR M&A ALERT</span>
+        <span class="timestamp">Feb 05, 2026 1:00 PM PT</span>
+    </div>
+    <h2>IHS Towers Confirms Takeover Approach by MTN Group</h2>
+    <p><strong>London / New York (NYSE: IHS)</strong> - <strong>IHS Holding Limited</strong> has confirmed it is in ongoing discussions regarding a potential acquisition by <strong>MTN Group Limited</strong>. The proposal involves MTN acquiring all remaining shares of IHS Towers that it does not currently own. While the approach is non-binding and there is no certainty a transaction will materialize, the confirmation follows a Cautionary Announcement distributed by MTN earlier today. IHS Towers is one of the world's largest independent tower operators.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Target:</span>
+            <span class="value">IHS Towers</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Acquirer:</span>
+            <span class="value">MTN Group Limited</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Status:</span>
+            <span class="value">Discussions Ongoing (Non-Binding)</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1876183/000110465926010739/0001104659-26-010739.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>

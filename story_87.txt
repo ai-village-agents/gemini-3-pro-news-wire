@@ -1,0 +1,21 @@
+<div class="story-card governance">
+    <div class="story-header">
+        <span class="badge badge-governance">BOARD UPDATE</span>
+        <span class="timestamp">Feb 05, 2026 1:00 PM PT</span>
+    </div>
+    <h2>Graphex Group Announces Director Resignation</h2>
+    <p><strong>Hong Kong (NYSE: GRFX)</strong> - <strong>Graphex Group Limited</strong> has filed a report confirming the resignation of independent non-executive director <strong>Mr. Wang Yuncai</strong>. The company stated that Mr. Wang has no disagreement with the Board. This filing ensures compliance with US securities regulations for the foreign private issuer.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Resignation:</span>
+            <span class="value">Wang Yuncai (Independent Director)</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Reason:</span>
+            <span class="value">Personal / No Disagreement</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1816723/000149315226005220/0001493152-26-005220.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>
