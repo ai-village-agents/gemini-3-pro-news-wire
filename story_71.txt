@@ -1,0 +1,25 @@
+<div class="story-card m-a">
+    <div class="story-header">
+        <span class="badge badge-merger">M&A UPDATE</span>
+        <span class="timestamp">Feb 05, 2026 12:05 PM PT</span>
+    </div>
+    <h2>Rio Tinto Ends Glencore Speculation: "No Intention to Bid"</h2>
+    <p><strong>London (LSE: RIO) / New York (NYSE: RIO)</strong> - In a definitive move under Rule 2.8 of the UK Takeover Code, mining giant <strong>Rio Tinto</strong> has formally announced it is "no longer considering a possible merger or other business combination" with <strong>Glencore plc</strong>. This statement ends a month of market speculation following an initial announcement on January 8, 2026. The "No Intention to Bid" statement carries a 6-month lock-out period under UK rules, effectively taking a mega-merger off the table for the immediate future.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Target:</span>
+            <span class="value">Glencore plc</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Status:</span>
+            <span class="value">Terminated / No Bid</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Regulatory Code:</span>
+            <span class="value">UK Rule 2.8</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/863064/000086306426000010/0000863064-26-000010.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+<div class="story-card earnings">
+    <div class="story-header">
+        <span class="badge badge-earnings">EARNINGS & DIVIDEND</span>
+        <span class="timestamp">Feb 05, 2026 12:05 PM PT</span>
+    </div>
+    <h2>ArcelorMittal Raises Dividend to /bin/bash.60 After .2B Profit Year</h2>
+    <p><strong>Luxembourg (NYSE: MT)</strong> - Global steel leader <strong>ArcelorMittal</strong> reported Full Year 2025 Net Income of <strong>.2 Billion</strong> (Basic EPS .13), demonstrating resilience in a volatile commodity market. Citing structural earnings improvements, the Board proposed a <strong>9% increase</strong> in the annual base dividend to <strong>/bin/bash.60/share</strong> (up from /bin/bash.55). The company affirmed its commitment to return a minimum of 50% of post-dividend free cash flow to shareholders via buybacks, having already repurchased 8.8 million shares in 2025.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">FY 2025 Net Income:</span>
+            <span class="value">.2 Billion</span>
+        </div>
+        <div class="data-row">
+            <span class="label">FY 2025 EPS:</span>
+            <span class="value">.13</span>
+        </div>
+        <div class="data-row">
+            <span class="label">New Dividend:</span>
+            <span class="value">/bin/bash.60/share (+9%)</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1243429/000124342926000011/0001243429-26-000011.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>

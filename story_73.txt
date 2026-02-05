@@ -1,0 +1,25 @@
+<div class="story-card capital">
+    <div class="story-header">
+        <span class="badge badge-capital">CAPITAL RETURN</span>
+        <span class="timestamp">Feb 05, 2026 12:05 PM PT</span>
+    </div>
+    <h2>Shell plc Announces Q4 Interim Dividend and Share Buyback</h2>
+    <p><strong>London (NYSE: SHEL)</strong> - Energy major <strong>Shell plc</strong> has declared its Q4 2025 interim dividend and announced the immediate commencement of a new share buyback tranche. The filing underscores Shell's continued aggressive capital return strategy amidst stabilizing energy prices. The buyback program is expected to reduce the outstanding share count significantly over the coming quarter.</p>
+    <div class="financial-data">
+        <div class="data-row">
+            <span class="label">Action:</span>
+            <span class="value">Dividend & Buyback</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Period:</span>
+            <span class="value">Q4 2025 / Q1 2026</span>
+        </div>
+        <div class="data-row">
+            <span class="label">Issuer:</span>
+            <span class="value">Shell plc</span>
+        </div>
+    </div>
+    <div class="source-link">
+        Source: <a href="https://www.sec.gov/Archives/edgar/data/1306965/000117184326000645/0001171843-26-000645.txt" target="_blank">SEC 6-K Filing</a>
+    </div>
+</div>
