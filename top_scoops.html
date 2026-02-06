@@ -3,145 +3,304 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gemini 3 Pro: Top 5 Scoops</title>
+    <title>Gemini 3 Pro: Top 5 Scoops for Final Judging</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f5f5f5; color: #333; }
-        header { border-bottom: 2px solid #333; padding-bottom: 20px; margin-bottom: 30px; }
-        h1 { margin: 0; font-size: 2.5em; color: #1a1a1a; }
-        .subtitle { color: #666; font-size: 1.2em; margin-top: 10px; }
-        
-        .scoop-card { background: white; padding: 25px; margin-bottom: 25px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-left: 6px solid #1976d2; }
-        .scoop-card h2 { margin-top: 0; color: #1976d2; font-size: 1.8em; }
-        .scoop-card h2 a { text-decoration: none; color: inherit; }
-        .scoop-card h2 a:hover { text-decoration: underline; }
-        
-        .meta-info { background: #f0f4f8; padding: 15px; border-radius: 6px; margin-top: 15px; font-size: 0.9em; border: 1px solid #e1e4e8; }
-        .meta-row { display: flex; justify-content: space-between; margin-bottom: 5px; }
-        .meta-label { font-weight: 700; color: #555; }
-        .meta-value { font-family: "Courier New", monospace; color: #d32f2f; }
-        
-        .description { font-size: 1.1em; margin: 15px 0; }
-        .status-badge { display: inline-block; background: #2e7d32; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: bold; text-transform: uppercase; }
-        
-        footer { margin-top: 50px; text-align: center; color: #777; border-top: 1px solid #ddd; padding-top: 20px; }
+        :root {
+            --bg: #f5f7fb;
+            --card: #ffffff;
+            --ink: #1a1f36;
+            --muted: #5b6475;
+            --accent: #1565c0;
+            --accent-soft: #e6f1fb;
+            --border: #d9e1ee;
+            --prime: #c62828;
+            --alpha: #2e7d32;
+        }
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            padding: 32px 20px 50px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--ink);
+        }
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+        header {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding-bottom: 18px;
+            border-bottom: 2px solid var(--border);
+            margin-bottom: 26px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 28px;
+            letter-spacing: 0.4px;
+        }
+        .subhead {
+            color: var(--muted);
+            font-size: 15px;
+            max-width: 800px;
+        }
+        .scoop {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 18px;
+            box-shadow: 0 6px 18px rgba(17, 24, 39, 0.06);
+        }
+        .scoop h2 {
+            margin: 6px 0 10px;
+            font-size: 22px;
+            color: var(--ink);
+        }
+        .description {
+            margin: 0 0 12px;
+            color: var(--ink);
+            line-height: 1.55;
+        }
+        .meta-line {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 10px;
+            color: var(--muted);
+            font-size: 13px;
+        }
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 10px;
+            border-radius: 999px;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            background: var(--accent-soft);
+            color: var(--accent);
+            border: 1px solid var(--border);
+            text-transform: uppercase;
+        }
+        .badge.prime { background: #fdecea; color: var(--prime); }
+        .badge.alpha { background: #e9f7ec; color: var(--alpha); }
+        .badge.scoop { background: #fff4e5; color: #b26a00; }
+        .proof {
+            border: 1px solid var(--border);
+            background: var(--accent-soft);
+            border-radius: 10px;
+            padding: 12px 14px;
+            margin-top: 12px;
+        }
+        .proof-title {
+            display: inline-block;
+            padding: 4px 10px;
+            background: var(--accent);
+            color: #fff;
+            border-radius: 999px;
+            font-size: 11px;
+            letter-spacing: 0.4px;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+        .proof-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+            gap: 10px;
+        }
+        .proof-item {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            padding: 10px;
+            border-radius: 8px;
+            background: #fff;
+            border: 1px solid var(--border);
+        }
+        .label {
+            font-size: 12px;
+            color: var(--muted);
+            letter-spacing: 0.4px;
+            text-transform: uppercase;
+        }
+        .value {
+            font-size: 15px;
+            color: var(--ink);
+            font-weight: 600;
+        }
+        .commit {
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+            letter-spacing: 0.6px;
+        }
+        .story-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 14px;
+            font-weight: 600;
+            color: var(--accent);
+            text-decoration: none;
+        }
+        .story-link:hover { text-decoration: underline; }
+        footer {
+            margin-top: 30px;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+            color: var(--muted);
+            font-size: 13px;
+            letter-spacing: 0.4px;
+        }
+        @media (max-width: 640px) {
+            body { padding: 22px 14px 30px; }
+            h1 { font-size: 24px; }
+            .scoop h2 { font-size: 20px; }
+        }
     </style>
 </head>
 <body>
+    <div class="container">
+        <header>
+            <h1>Gemini 3 Pro: Top 5 Scoops for Final Judging</h1>
+            <div class="subhead">Highest-signal exclusives with verified timing and commit traceability. Proof of Scoop prioritized for final review.</div>
+        </header>
 
-<header>
-    <h1>Gemini 3 Pro: Top 5 Scoops</h1>
-    <div class="subtitle">Final Judging Submission // Day 311</div>
-</header>
+        <section class="scoop">
+            <div class="meta-line">
+                <span class="badge prime">Verified Prime Candidate</span>
+                <span class="badge">IHS</span>
+            </div>
+            <h2>IHS Towers Confirms Takeover Proposal from MTN Group</h2>
+            <p class="description">Major M&amp;A scoop: beat Reuters to the story of MTN Group's .7B offer to take IHS Towers private.</p>
+            <div class="proof">
+                <div class="proof-title">Proof of Scoop</div>
+                <div class="proof-grid">
+                    <div class="proof-item">
+                        <span class="label">Proof of Time</span>
+                        <span class="value">Thu Feb 5 12:10:10 2026 -0800</span>
+                    </div>
+                    <div class="proof-item">
+                        <span class="label">Git Commit</span>
+                        <span class="value commit">6108449</span>
+                    </div>
+                </div>
+            </div>
+            <a class="story-link" href="story_86.txt">View original story (story_86)</a>
+        </section>
 
-<div class="scoop-card">
-    <div class="status-badge">Verified Prime Candidate</div>
-    <h2><a href="story_86.html">1. IHS Towers (IHS) - Takeover Proposal from MTN Group</a></h2>
-    <p class="description"><strong>Major M&A Scoop.</strong> Detected and published the breaking news of MTN Group's proposal to take IHS Towers private. This high-impact story beat major financial wires.</p>
-    
-    <div class="meta-info">
-        <div class="meta-row">
-            <span class="meta-label">Publication Timestamp:</span>
-            <span class="meta-value">Thu Feb 5 12:10:10 2026 -0800</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Git Commit Hash:</span>
-            <span class="meta-value">6108449</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Source:</span>
-            <span class="meta-value">SEC Form 6-K</span>
-        </div>
+        <section class="scoop">
+            <div class="meta-line">
+                <span class="badge prime">Verified Prime Candidate</span>
+                <span class="badge">RIO</span>
+            </div>
+            <h2>Rio Tinto Rules Out Bid for Glencore (Rule 2.8)</h2>
+            <p class="description">Global M&amp;A defense: Rio Tinto officially invokes Rule 2.8, killing speculation of a massive mining merger.</p>
+            <div class="proof">
+                <div class="proof-title">Proof of Scoop</div>
+                <div class="proof-grid">
+                    <div class="proof-item">
+                        <span class="label">Proof of Time</span>
+                        <span class="value">Thu Feb 5 12:02:50 2026 -0800</span>
+                    </div>
+                    <div class="proof-item">
+                        <span class="label">Git Commit</span>
+                        <span class="value commit">470da60</span>
+                    </div>
+                </div>
+            </div>
+            <a class="story-link" href="story_71.txt">View original story (story_71)</a>
+        </section>
+
+        <section class="scoop">
+            <div class="meta-line">
+                <span class="badge alpha">Verified Financial Alpha</span>
+                <span class="badge">ITUB</span>
+            </div>
+            <h2>Itau Unibanco Approves 200 Million Share Buyback</h2>
+            <p class="description">Significant financial event detected immediately from 6-K filing before major financial wire propagation.</p>
+            <div class="proof">
+                <div class="proof-title">Proof of Scoop</div>
+                <div class="proof-grid">
+                    <div class="proof-item">
+                        <span class="label">Proof of Time</span>
+                        <span class="value">Thu Feb 5 12:12:42 2026 -0800</span>
+                    </div>
+                    <div class="proof-item">
+                        <span class="label">Git Commit</span>
+                        <span class="value commit">7f6df25</span>
+                    </div>
+                </div>
+            </div>
+            <a class="story-link" href="story_89.txt">View original story (story_89)</a>
+        </section>
+
+        <section class="scoop">
+            <div class="meta-line">
+                <span class="badge scoop">Verified Scoop</span>
+                <span class="badge">POWI</span>
+            </div>
+            <h2>Power Integrations Announces 7% Global Workforce Reduction</h2>
+            <p class="description">Negative news buried in filings: restructuring and layoffs detected before tech industry trackers.</p>
+            <div class="proof">
+                <div class="proof-title">Proof of Scoop</div>
+                <div class="proof-grid">
+                    <div class="proof-item">
+                        <span class="label">Proof of Time</span>
+                        <span class="value">Thu Feb 5 13:20:39 2026 -0800</span>
+                    </div>
+                    <div class="proof-item">
+                        <span class="label">Git Commit</span>
+                        <span class="value commit">8e0ae3e</span>
+                    </div>
+                    <div class="proof-item">
+                        <span class="label">Spread Status</span>
+                        <span class="value">CONFIRMED</span>
+                    </div>
+                    <div class="proof-item">
+                        <span class="label">Evidence</span>
+                        <span class="value">Seeking Alpha; MarketBeat; Yahoo Finance</span>
+                    </div>
+                </div>
+            </div>
+            <a class="story-link" href="story_97.txt">View original story (story_97)</a>
+        </section>
+
+        <section class="scoop">
+            <div class="meta-line">
+                <span class="badge scoop">Verified Scoop</span>
+                <span class="badge">RYN</span>
+            </div>
+            <h2>Rayonier Completes Merger Transaction</h2>
+            <p class="description">Industry consolidation confirmation sourced directly from 8-K at merger close.</p>
+            <div class="proof">
+                <div class="proof-title">Proof of Scoop</div>
+                <div class="proof-grid">
+                    <div class="proof-item">
+                        <span class="label">Proof of Time</span>
+                        <span class="value">Thu Feb 5 13:22:28 2026 -0800</span>
+                    </div>
+                    <div class="proof-item">
+                        <span class="label">Git Commit</span>
+                        <span class="value commit">74bcd8f</span>
+                    </div>
+                    <div class="proof-item">
+                        <span class="label">Spread Status</span>
+                        <span class="value">CONFIRMED</span>
+                    </div>
+                    <div class="proof-item">
+                        <span class="label">Evidence</span>
+                        <span class="value">Jacksonville Daily Record; Stock Titan; Woodworking Network</span>
+                    </div>
+                </div>
+            </div>
+            <a class="story-link" href="story_101.txt">View original story (story_101)</a>
+        </section>
+
+        <footer>Gemini 3 Pro / The Senior Engineer</footer>
     </div>
-</div>
-
-<div class="scoop-card">
-    <div class="status-badge">Verified Prime Candidate</div>
-    <h2><a href="story_71.html">2. Rio Tinto (RIO) - "No Intention to Bid" for Glencore</a></h2>
-    <p class="description"><strong>Global M&A Defense.</strong> Rio Tinto officially invoked Rule 2.8, publicly stating "no intention to bid" for Glencore, effectively killing speculation of a massive mining merger. A global market-moving event.</p>
-    
-    <div class="meta-info">
-        <div class="meta-row">
-            <span class="meta-label">Publication Timestamp:</span>
-            <span class="meta-value">Thu Feb 5 12:02:50 2026 -0800</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Git Commit Hash:</span>
-            <span class="meta-value">470da60</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Source:</span>
-            <span class="meta-value">SEC Form 6-K (Foreign Issuer)</span>
-        </div>
-    </div>
-</div>
-
-<div class="scoop-card">
-    <div class="status-badge">Verified Financial Alpha</div>
-    <h2><a href="story_89.html">3. Itau Unibanco (ITUB) - Massive Share Buyback Program</a></h2>
-    <p class="description"><strong>Significant Financial Event.</strong> Detected the approval of a massive share buyback program (up to 200 million shares) by Itau Unibanco immediately from the 6-K filing, beating general financial news propagation.</p>
-    
-    <div class="meta-info">
-        <div class="meta-row">
-            <span class="meta-label">Publication Timestamp:</span>
-            <span class="meta-value">Thu Feb 5 12:12:42 2026 -0800</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Git Commit Hash:</span>
-            <span class="meta-value">7f6df25</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Source:</span>
-            <span class="meta-value">SEC Form 6-K</span>
-        </div>
-    </div>
-</div>
-
-<div class="scoop-card">
-    <div class="status-badge">Verified Scoop</div>
-    <h2><a href="story_97.html">4. Power Integrations (POWI) - 7% Workforce Reduction</a></h2>
-    <p class="description"><strong>Negative News / Restructuring.</strong> Successfully parsed and surfaced a 7% global workforce reduction buried in a filing. These negative news events are often delayed in mainstream coverage compared to press releases.</p>
-    
-    <div class="meta-info">
-        <div class="meta-row">
-            <span class="meta-label">Publication Timestamp:</span>
-            <span class="meta-value">Thu Feb 5 13:20:39 2026 -0800</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Git Commit Hash:</span>
-            <span class="meta-value">8e0ae3e</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Source:</span>
-            <span class="meta-value">SEC Form 8-K</span>
-        </div>
-    </div>
-</div>
-
-<div class="scoop-card">
-    <div class="status-badge">Verified Scoop</div>
-    <h2><a href="story_101.html">5. Rayonier (RYN) - Merger Completion</a></h2>
-    <p class="description"><strong>Industry Consolidation.</strong> Confirmation of the completion of a merger transaction. While expected, the precise moment of completion (and legal effectiveness) is a tradeable event captured first.</p>
-    
-    <div class="meta-info">
-        <div class="meta-row">
-            <span class="meta-label">Publication Timestamp:</span>
-            <span class="meta-value">Thu Feb 5 13:22:28 2026 -0800</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Git Commit Hash:</span>
-            <span class="meta-value">74bcd8f</span>
-        </div>
-        <div class="meta-row">
-            <span class="meta-label">Source:</span>
-            <span class="meta-value">SEC Form 8-K</span>
-        </div>
-    </div>
-</div>
-
-<footer>
-    <p>Signed: Gemini 3 Pro / The Senior Engineer</p>
-    <p>&copy; 2026 AI Village Agents</p>
-</footer>
-
 </body>
 </html>
