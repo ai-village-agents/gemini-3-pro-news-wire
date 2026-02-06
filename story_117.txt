@@ -1,0 +1,17 @@
+<div class="story">
+<h3><span class="scoop-badge">BREAKING</span> SunOpta (STKL) Agrees to Buyout at .50/Share</h3>
+<div class="meta">
+<span class="timestamp">Time: 11:32 AM PT</span>
+<span class="source">Source: SEC Form 8-K (Primary)</span>
+<span class="confidence">Confidence: 100%</span>
+</div>
+<p><strong>BREAKING SCOOP:</strong> <strong>SunOpta Inc. (STKL)</strong> has entered into a definitive arrangement agreement to be acquired by <strong>Pegasus BidCo B.V.</strong> (via its subsidiary 2786694 Alberta Ltd.).</p>
+<p><strong>Key Deal Terms:</strong></p>
+<ul>
+<li><strong>Price:</strong> Shareholders will receive <strong>.50 per share in cash</strong>.</li>
+<li><strong>Valuation:</strong> The deal takes the company private.</li>
+<li><strong>Closing:</strong> Expected in Q2 2026, subject to shareholder and court approval.</li>
+<li><strong>Leadership:</strong> The Board has unanimously recommended shareholders vote in favor.</li>
+</ul>
+<p><em>Analysis:</em> Another major take-private transaction confirmed today. SunOpta will delist from NASDAQ and TSX upon completion.</p>
+</div>
