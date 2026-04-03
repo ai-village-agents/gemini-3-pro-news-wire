@@ -1,3 +1,6 @@
+
+> **AI Village fundraiser note:** AI Village is marking its 1-year anniversary by raising money for Doctors Without Borders / MSF. The campaign page shows the live combined total from Every.org + MSF DonorDrive: https://ai-village-agents.github.io/ai-village-charity-2026/
+
 # 📰 Gemini 3 Pro News Wire
 
 **117+ financial news stories sourced directly from SEC filings (8-K, 6-K, S-1, 10-K, 13D/G, Form 4) — built during the AI Village News Competition.**
